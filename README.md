@@ -1,27 +1,7 @@
 # 🏥 Hospital Patient Analytics - End-to-End Data Analysis Project
 
 
-## 📌 Table of Contents
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dataset Information](#dataset-information)
-- [Tools & Technologies](#tools--technologies)
-- [Project Architecture](#project-architecture)
-- [Key Features](#key-features)
-- [Installation & Setup](#installation--setup)
-- [Project Workflow](#project-workflow)
-- [Data Cleaning Process](#data-cleaning-process)
-- [SQL Analysis](#sql-analysis)
-- [Power BI Dashboard](#power-bi-dashboard)
-- [Key Insights](#key-insights)
-- [Business Recommendations](#business-recommendations)
-- [Project Deliverables](#project-deliverables)
-- [Screenshots](#screenshots)
-- [Learning Outcomes](#learning-outcomes)
-- [Future Enhancements](#future-enhancements)
-- [Contact](#contact)
 
----
 
 ## 🎯 Project Overview
 
