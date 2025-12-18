@@ -1,0 +1,1201 @@
+Patient_ID,Patient_Name,Age,Gender,Blood_Group,Admission_Date,Discharge_Date,Department,Doctor_Name,Diagnosis,Treatment_Cost,Insurance_Type,Insurance_Coverage_Percent,Days_Stayed,Admission_Type,Discharge_Status,Follow_Up_Required,Medication_Prescribed,Lab_Tests_Count
+P00001,James Davis,25,Male,AB-,2024-11-29,2024-12-08,Emergency,Dr. Emily Thompson,Poisoning,14098.94,Self-Pay,0.00,9,Routine Checkup,Deceased,Yes,1,2
+P00002,James Martinez,11,Female,A+,2023-03-24,2023-04-04,Emergency,Dr. Robert Kumar,Trauma,36348.00,Corporate Insurance,61.70,11,Emergency,Discharged,Yes,1,2
+P00003,James Johnson,14,Male,A+,2023-06-11,2023-06-26,Pediatrics,Dr. Robert Kumar,Infection,29216.72,Private Insurance,76.54,15,Emergency,Deceased,No,7,12
+P00004,Isabella Williams,39,Male,B+,2024-08-01,2024-08-07,General Medicine,Dr. Michael Rodriguez,Gastritis,5055.13,Medicare,86.23,6,Emergency,Admitted,No,3,4
+P00005,Olivia Brown,26,Male,O+,2023-09-26,2023-10-06,Pediatrics,Dr. Michael Rodriguez,Growth Issues,19534.41,Private Insurance,60.74,10,Emergency,Left AMA,No,8,6
+P00006,John Johnson,21,Female,A-,2024-12-19,2025-01-08,Orthopedics,Dr. Emily Thompson,Joint Replacement,39256.39,Private Insurance,75.96,20,Emergency,Transferred,Yes,1,7
+P00007,Sophia Jones,45,Male,B-,2024-04-19,2024-05-06,Emergency,Dr. Sarah Chen,Accident,29984.44,Medicaid,80.52,17,Urgent,Deceased,No,1,3
+P00008,Isabella Martinez,65,Female,A+,2024-09-21,2024-10-06,General Medicine,Dr. Sarah Chen,Hypertension,32081.98,Medicare,74.53,15,Routine Checkup,Admitted,Yes,7,15
+P00009,Ava Davis,41,Male,AB-,2024-04-10,2024-05-02,Pediatrics,Dr. Lisa Patel,Infection,30749.86,Self-Pay,0.00,22,Urgent,Transferred,No,8,9
+P00010,Sophia Smith,33,Female,A-,2023-11-03,2023-11-18,Pediatrics,Dr. Robert Kumar,Growth Issues,32663.97,Medicare,85.59,15,Emergency,Discharged,Yes,7,2
+P00011,Emma Johnson,9,Male,O-,2023-11-19,2023-12-19,General Medicine,Dr. James Miller,Gastritis,41675.90,Medicare,73.18,30,Elective,Deceased,Yes,3,6
+P00012,Michael Davis,14,Male,AB-,2024-04-24,2024-05-13,Neurology,Dr. James Miller,Parkinsons,30377.96,Self-Pay,0.00,19,Routine Checkup,Transferred,Yes,1,8
+P00013,John Williams,42,Female,A-,2024-06-06,2024-06-20,Neurology,Dr. Michael Rodriguez,Stroke,39995.67,Medicare,74.00,14,Elective,Admitted,No,4,6
+P00014,Michael Williams,30,Female,AB+,2023-09-16,2023-09-19,Emergency,Dr. Lisa Patel,Poisoning,2280.62,Private Insurance,66.43,3,Emergency,Left AMA,Yes,4,12
+P00015,Emma Wilson,17,Female,O-,2024-10-21,2024-11-11,General Medicine,Dr. Sarah Chen,Pneumonia,41194.17,Medicare,70.04,21,Emergency,Left AMA,Yes,6,1
+P00016,Isabella Brown,70,Female,O-,2023-01-28,2023-02-10,Cardiology,Dr. Michael Rodriguez,Arrhythmia,11399.80,Medicaid,84.13,13,Routine Checkup,Deceased,Yes,2,6
+P00017,Robert Brown,7,Male,O+,2024-10-08,2024-10-18,Pediatrics,Dr. Sarah Chen,Fever,15291.78,Corporate Insurance,72.30,10,Elective,Left AMA,No,5,7
+P00018,James Williams,46,Male,AB-,2024-10-28,2024-11-25,Pediatrics,Dr. Sarah Chen,Fever,29989.43,Medicare,76.57,28,Elective,Admitted,No,7,7
+P00019,William Williams,35,Male,AB+,2023-05-16,2023-06-07,Neurology,Dr. Lisa Patel,Parkinsons,11787.51,Corporate Insurance,87.95,22,Emergency,Left AMA,Yes,7,4
+P00020,Isabella Jones,4,Male,O-,2024-01-15,2024-02-13,Neurology,Dr. Sarah Chen,Stroke,77718.04,Medicaid,88.49,29,Elective,Deceased,Yes,3,14
+P00021,Emma Johnson,33,Female,A+,2023-11-07,2023-12-02,Cardiology,Dr. Lisa Patel,Heart Attack,70359.73,Self-Pay,0.00,25,Emergency,Deceased,No,2,3
+P00022,William Smith,41,Male,O+,2024-11-07,2024-11-23,Emergency,Dr. Michael Rodriguez,Accident,31364.38,Medicare,70.46,16,Elective,Deceased,Yes,3,11
+P00023,Robert Johnson,16,Male,B-,2023-07-12,2023-08-10,Neurology,Dr. James Miller,Epilepsy,37500.06,Corporate Insurance,66.53,29,Emergency,Deceased,No,1,9
+P00024,John Wilson,29,Male,B-,2024-07-28,2024-08-10,Cardiology,Dr. Robert Kumar,Angina,31275.63,Private Insurance,80.11,13,Urgent,Deceased,No,8,10
+P00025,James Martinez,63,Female,AB+,2023-02-20,2023-03-14,Cardiology,Dr. Sarah Chen,Arrhythmia,33262.32,Private Insurance,74.90,22,Elective,Discharged,Yes,1,7
+P00026,Emma Davis,22,Female,AB+,2023-06-23,2023-07-15,Neurology,Dr. Emily Thompson,Stroke,59920.15,Self-Pay,0.00,22,Elective,Deceased,Yes,8,12
+P00027,William Jones,77,Female,B+,2023-02-06,2023-02-25,Emergency,Dr. Sarah Chen,Burns,9589.70,Corporate Insurance,75.47,19,Routine Checkup,Admitted,No,3,11
+P00028,Michael Davis,70,Female,O+,2023-07-17,2023-08-02,Cardiology,Dr. James Miller,Heart Attack,25991.69,Medicare,70.91,16,Urgent,Discharged,No,7,7
+P00029,John Wilson,1,Male,B+,2024-01-05,2024-01-10,Neurology,Dr. Michael Rodriguez,Migraine,5262.28,Corporate Insurance,73.05,5,Urgent,Transferred,No,2,3
+P00030,Sophia Smith,53,Female,AB+,2023-01-04,2023-01-24,Cardiology,Dr. Sarah Chen,Arrhythmia,31909.72,Medicare,81.50,20,Urgent,Deceased,No,5,9
+P00031,Michael Miller,55,Male,B+,2023-11-10,2023-11-13,Emergency,Dr. Robert Kumar,Poisoning,8215.02,Corporate Insurance,86.42,3,Routine Checkup,Discharged,Yes,6,4
+P00032,Olivia Williams,34,Female,B+,2024-08-23,2024-09-05,General Medicine,Dr. Michael Rodriguez,Hypertension,23032.16,Medicaid,72.69,13,Elective,Discharged,No,1,15
+P00033,William Brown,67,Male,AB-,2024-04-03,2024-04-23,General Medicine,Dr. Emily Thompson,Diabetes,20212.69,Medicaid,83.85,20,Urgent,Discharged,No,7,9
+P00034,Robert Garcia,53,Male,AB+,2023-06-30,2023-07-29,General Medicine,Dr. Michael Rodriguez,Hypertension,36687.57,Medicare,70.78,29,Routine Checkup,Left AMA,Yes,6,11
+P00035,Emma Brown,80,Female,B+,2023-06-02,2023-06-24,Pediatrics,Dr. Lisa Patel,Growth Issues,20617.51,Medicaid,81.14,22,Urgent,Left AMA,Yes,2,4
+P00036,Emma Martinez,33,Male,B-,2024-11-14,2024-11-19,Pediatrics,Dr. Robert Kumar,Infection,14087.91,Medicaid,70.50,5,Elective,Transferred,No,8,14
+P00037,Emma Wilson,52,Female,AB-,2023-08-19,2023-08-31,Emergency,Dr. Sarah Chen,Trauma,21474.05,Private Insurance,68.73,12,Elective,Admitted,Yes,4,5
+P00038,Ava Smith,62,Male,O-,2023-05-26,2023-06-05,General Medicine,Dr. Sarah Chen,Hypertension,26252.46,Self-Pay,0.00,10,Emergency,Transferred,No,1,4
+P00039,Olivia Garcia,79,Female,A+,2023-02-02,2023-02-24,Emergency,Dr. James Miller,Trauma,19756.48,Corporate Insurance,62.57,22,Elective,Discharged,Yes,1,6
+P00040,James Brown,33,Female,O-,2024-02-04,2024-02-23,Emergency,Dr. James Miller,Poisoning,51268.39,Corporate Insurance,63.20,19,Urgent,Transferred,No,2,7
+P00041,Isabella Brown,36,Female,AB-,2023-07-13,2023-08-06,Cardiology,Dr. Lisa Patel,Heart Attack,69241.52,Medicaid,74.67,24,Routine Checkup,Transferred,Yes,5,6
+P00042,Emma Johnson,21,Male,O+,2023-08-04,2023-08-23,Orthopedics,Dr. Michael Rodriguez,Arthritis,30004.55,Private Insurance,63.09,19,Emergency,Deceased,No,1,5
+P00043,Robert Brown,54,Female,B+,2024-02-10,2024-02-25,Pediatrics,Dr. James Miller,Growth Issues,14670.41,Private Insurance,84.90,15,Emergency,Transferred,Yes,7,10
+P00044,Isabella Martinez,24,Male,O+,2024-02-20,2024-02-21,Cardiology,Dr. Robert Kumar,Arrhythmia,2856.48,Medicare,86.97,1,Urgent,Deceased,No,8,9
+P00045,John Jones,56,Female,AB+,2023-04-14,2023-05-01,Emergency,Dr. Robert Kumar,Poisoning,41949.98,Self-Pay,0.00,17,Elective,Admitted,Yes,6,4
+P00046,Olivia Garcia,34,Female,O-,2024-06-26,2024-07-11,Pediatrics,Dr. Lisa Patel,Asthma,50745.66,Self-Pay,0.00,15,Routine Checkup,Transferred,Yes,2,10
+P00047,Ava Wilson,73,Male,AB+,2024-07-18,2024-08-14,Neurology,Dr. Sarah Chen,Epilepsy,86183.83,Self-Pay,0.00,27,Routine Checkup,Transferred,Yes,5,9
+P00048,Emma Brown,53,Female,O-,2024-09-21,2024-10-21,General Medicine,Dr. Emily Thompson,Gastritis,86981.60,Private Insurance,78.39,30,Emergency,Transferred,No,2,4
+P00049,John Johnson,24,Female,O-,2024-02-13,2024-03-02,Orthopedics,Dr. Sarah Chen,Sports Injury,8853.01,Medicare,86.08,18,Urgent,Left AMA,Yes,8,2
+P00050,Robert Wilson,49,Male,O-,2023-10-21,2023-11-18,Emergency,Dr. Emily Thompson,Trauma,43458.57,Medicare,80.48,28,Emergency,Admitted,No,6,9
+P00051,Michael Williams,5,Male,B-,2024-06-26,2024-07-08,General Medicine,Dr. James Miller,Diabetes,14288.59,Self-Pay,0.00,12,Routine Checkup,Left AMA,No,3,13
+P00052,Michael Martinez,26,Male,B-,2023-08-16,2023-08-23,Pediatrics,Dr. Sarah Chen,Growth Issues,8780.63,Corporate Insurance,80.55,7,Urgent,Deceased,Yes,8,1
+P00053,Olivia Brown,29,Female,B-,2023-10-10,2023-10-16,Neurology,Dr. James Miller,Stroke,6110.18,Medicare,74.74,6,Emergency,Left AMA,Yes,2,13
+P00054,James Davis,51,Female,B-,2024-06-05,2024-07-05,Emergency,Dr. Michael Rodriguez,Accident,75983.22,Private Insurance,74.31,30,Routine Checkup,Discharged,No,6,2
+P00055,John Jones,20,Female,A-,2023-07-23,2023-08-15,Orthopedics,Dr. Sarah Chen,Arthritis,66895.32,Private Insurance,79.81,23,Emergency,Admitted,No,6,7
+P00056,Robert Williams,2,Female,O-,2023-01-27,2023-02-20,Orthopedics,Dr. Michael Rodriguez,Arthritis,25113.57,Medicare,77.12,24,Elective,Admitted,Yes,2,1
+P00057,William Garcia,51,Female,O+,2023-10-13,2023-10-26,Orthopedics,Dr. Sarah Chen,Sports Injury,29680.67,Medicare,88.12,13,Urgent,Deceased,Yes,8,10
+P00058,Robert Miller,44,Male,AB-,2023-05-19,2023-06-08,Pediatrics,Dr. Robert Kumar,Asthma,13310.86,Private Insurance,62.94,20,Urgent,Transferred,Yes,4,12
+P00059,Ava Davis,14,Female,O-,2024-09-07,2024-09-20,Orthopedics,Dr. Sarah Chen,Fracture,35406.63,Self-Pay,0.00,13,Emergency,Admitted,No,6,15
+P00060,William Miller,23,Female,AB-,2023-04-23,2023-05-01,Emergency,Dr. Lisa Patel,Accident,13216.44,Corporate Insurance,69.08,8,Elective,Left AMA,Yes,6,5
+P00061,Michael Brown,27,Male,AB+,2023-06-22,2023-07-17,Pediatrics,Dr. Lisa Patel,Asthma,71726.65,Medicare,81.21,25,Elective,Transferred,No,7,3
+P00062,William Johnson,58,Male,O+,2024-02-05,2024-02-15,General Medicine,Dr. Sarah Chen,Hypertension,9064.38,Corporate Insurance,73.63,10,Elective,Transferred,No,5,14
+P00063,Robert Martinez,75,Male,O+,2023-03-06,2023-03-11,Emergency,Dr. Sarah Chen,Burns,9132.15,Corporate Insurance,70.84,5,Emergency,Discharged,Yes,1,14
+P00064,William Brown,57,Male,A-,2024-11-17,2024-12-09,Neurology,Dr. Emily Thompson,Stroke,41812.62,Private Insurance,64.03,22,Urgent,Admitted,Yes,2,3
+P00065,James Johnson,61,Female,AB+,2024-12-03,2024-12-07,General Medicine,Dr. Sarah Chen,Diabetes,5844.06,Private Insurance,69.43,4,Routine Checkup,Deceased,Yes,4,13
+P00066,Isabella Smith,73,Male,B+,2024-02-20,2024-03-20,Emergency,Dr. Michael Rodriguez,Trauma,90120.72,Self-Pay,0.00,29,Routine Checkup,Transferred,Yes,5,7
+P00067,Michael Miller,64,Male,O-,2024-01-12,2024-01-18,General Medicine,Dr. Michael Rodriguez,Pneumonia,11317.89,Self-Pay,0.00,6,Elective,Discharged,Yes,5,6
+P00068,William Jones,62,Male,AB+,2024-07-25,2024-08-06,Neurology,Dr. Emily Thompson,Epilepsy,10073.61,Medicare,85.12,12,Routine Checkup,Transferred,No,4,4
+P00069,Sophia Davis,25,Male,A+,2024-10-28,2024-11-15,Emergency,Dr. Emily Thompson,Trauma,7602.74,Medicare,72.48,18,Urgent,Deceased,Yes,5,1
+P00070,Emma Wilson,26,Female,O+,2023-02-15,2023-02-22,Neurology,Dr. Sarah Chen,Parkinsons,21749.91,Private Insurance,88.02,7,Elective,Deceased,Yes,3,9
+P00071,James Williams,30,Female,B+,2023-10-20,2023-11-03,Emergency,Dr. Robert Kumar,Burns,16240.86,Self-Pay,0.00,14,Routine Checkup,Left AMA,No,2,3
+P00072,Emma Miller,35,Female,A+,2024-07-11,2024-08-06,Emergency,Dr. Emily Thompson,Poisoning,80109.06,Self-Pay,0.00,26,Urgent,Transferred,No,5,3
+P00073,John Johnson,69,Female,O+,2024-11-22,2024-12-21,Emergency,Dr. Lisa Patel,Trauma,12954.42,Private Insurance,72.12,29,Routine Checkup,Discharged,No,2,4
+P00074,Isabella Wilson,62,Female,B+,2023-04-12,2023-04-27,Emergency,Dr. Robert Kumar,Accident,42158.51,Private Insurance,62.57,15,Emergency,Admitted,Yes,1,13
+P00075,William Williams,26,Female,B+,2024-12-08,2024-12-27,Neurology,Dr. Robert Kumar,Migraine,10589.60,Medicare,75.61,19,Urgent,Deceased,No,8,14
+P00076,Ava Smith,62,Male,O+,2024-07-04,2024-07-09,Orthopedics,Dr. Lisa Patel,Joint Replacement,13005.18,Private Insurance,75.38,5,Routine Checkup,Admitted,Yes,4,13
+P00077,Robert Johnson,15,Male,A-,2023-02-04,2023-02-08,General Medicine,Dr. Emily Thompson,Gastritis,8398.62,Self-Pay,0.00,4,Emergency,Discharged,No,4,3
+P00078,Sophia Davis,63,Male,O-,2024-09-19,2024-10-12,Orthopedics,Dr. Emily Thompson,Joint Replacement,20657.96,Medicaid,89.45,23,Urgent,Left AMA,No,6,1
+P00079,Michael Brown,11,Male,AB+,2024-08-15,2024-09-04,Cardiology,Dr. Sarah Chen,Arrhythmia,15051.58,Self-Pay,0.00,20,Urgent,Admitted,No,6,2
+P00080,Robert Martinez,57,Female,B+,2024-01-07,2024-02-01,Pediatrics,Dr. Robert Kumar,Asthma,42560.13,Corporate Insurance,81.42,25,Routine Checkup,Discharged,Yes,3,1
+P00081,Emma Jones,37,Male,A-,2023-03-13,2023-04-06,Orthopedics,Dr. Sarah Chen,Joint Replacement,36189.66,Corporate Insurance,82.98,24,Emergency,Transferred,No,7,5
+P00082,Olivia Smith,30,Female,AB-,2024-11-20,2024-12-12,General Medicine,Dr. Emily Thompson,Hypertension,24413.64,Medicare,88.65,22,Emergency,Deceased,Yes,2,12
+P00083,Ava Johnson,16,Female,AB+,2023-01-13,2023-01-18,Emergency,Dr. Lisa Patel,Poisoning,5702.50,Private Insurance,62.09,5,Urgent,Deceased,Yes,7,14
+P00084,Robert Williams,25,Female,A+,2024-12-23,2025-01-18,Orthopedics,Dr. Robert Kumar,Arthritis,83459.52,Corporate Insurance,72.35,26,Emergency,Deceased,No,4,13
+P00085,Sophia Johnson,20,Female,A+,2023-11-19,2023-11-23,Emergency,Dr. James Miller,Burns,6372.76,Medicare,70.22,4,Emergency,Deceased,No,8,10
+P00086,Olivia Miller,77,Female,O+,2023-01-12,2023-01-30,General Medicine,Dr. Robert Kumar,Hypertension,26552.57,Self-Pay,0.00,18,Routine Checkup,Admitted,Yes,4,4
+P00087,William Davis,48,Female,A-,2024-05-10,2024-05-21,Cardiology,Dr. Emily Thompson,Arrhythmia,27689.96,Private Insurance,67.27,11,Routine Checkup,Left AMA,No,3,12
+P00088,James Johnson,43,Male,AB+,2024-05-01,2024-05-24,Pediatrics,Dr. Sarah Chen,Infection,43662.74,Private Insurance,81.53,23,Emergency,Discharged,No,3,13
+P00089,William Jones,80,Male,B-,2024-05-25,2024-06-20,General Medicine,Dr. Michael Rodriguez,Pneumonia,34259.83,Corporate Insurance,63.47,26,Elective,Transferred,Yes,3,4
+P00090,Emma Miller,26,Male,B-,2024-11-09,2024-11-30,Neurology,Dr. Robert Kumar,Parkinsons,26814.36,Self-Pay,0.00,21,Elective,Deceased,Yes,7,5
+P00091,John Jones,2,Female,A-,2023-07-02,2023-07-12,General Medicine,Dr. Sarah Chen,Pneumonia,9644.31,Medicaid,82.06,10,Emergency,Admitted,Yes,3,7
+P00092,Emma Johnson,75,Male,B-,2023-05-29,2023-06-23,Neurology,Dr. Emily Thompson,Epilepsy,18019.07,Medicaid,78.56,25,Elective,Deceased,Yes,1,15
+P00093,Robert Davis,50,Male,AB+,2023-10-25,2023-10-31,Neurology,Dr. Emily Thompson,Epilepsy,6813.19,Medicare,85.48,6,Emergency,Left AMA,Yes,1,11
+P00094,Ava Garcia,26,Female,A-,2023-09-26,2023-09-30,Cardiology,Dr. Sarah Chen,Arrhythmia,12114.75,Medicare,82.60,4,Urgent,Left AMA,No,8,1
+P00095,Robert Johnson,42,Female,A+,2023-09-19,2023-09-23,Cardiology,Dr. James Miller,Heart Attack,11479.01,Corporate Insurance,81.50,4,Elective,Left AMA,Yes,2,1
+P00096,Ava Smith,19,Female,O+,2024-03-28,2024-04-18,Orthopedics,Dr. Lisa Patel,Sports Injury,11298.25,Self-Pay,0.00,21,Routine Checkup,Deceased,Yes,4,3
+P00097,Sophia Brown,60,Male,AB-,2023-05-04,2023-05-12,Orthopedics,Dr. Lisa Patel,Arthritis,21754.99,Corporate Insurance,65.60,8,Elective,Left AMA,Yes,8,6
+P00098,Michael Miller,67,Male,A+,2024-06-13,2024-06-16,Pediatrics,Dr. Robert Kumar,Infection,5139.57,Private Insurance,88.97,3,Urgent,Admitted,Yes,2,10
+P00099,Olivia Martinez,23,Male,B+,2024-03-06,2024-03-30,Emergency,Dr. Emily Thompson,Trauma,12638.16,Private Insurance,72.25,24,Urgent,Deceased,Yes,5,12
+P00100,Michael Wilson,21,Female,O+,2024-01-12,2024-02-10,Neurology,Dr. James Miller,Parkinsons,73223.31,Self-Pay,0.00,29,Elective,Deceased,Yes,6,7
+P00101,William Johnson,13,Female,AB-,2023-03-23,2023-04-20,Neurology,Dr. Lisa Patel,Stroke,36824.62,Self-Pay,0.00,28,Emergency,Deceased,Yes,2,15
+P00102,Robert Smith,17,Female,O-,2024-05-31,2024-06-30,Orthopedics,Dr. Emily Thompson,Fracture,86712.53,Private Insurance,83.93,30,Routine Checkup,Left AMA,Yes,4,9
+P00103,William Jones,2,Male,O-,2023-12-18,2024-01-03,Pediatrics,Dr. Michael Rodriguez,Asthma,19700.99,Medicare,86.78,16,Routine Checkup,Discharged,Yes,2,10
+P00104,Ava Garcia,75,Male,AB-,2024-08-15,2024-08-28,General Medicine,Dr. Sarah Chen,Pneumonia,13888.07,Self-Pay,0.00,13,Emergency,Admitted,No,5,9
+P00105,Olivia Martinez,55,Female,O+,2023-05-05,2023-05-13,Pediatrics,Dr. Lisa Patel,Infection,12126.04,Medicaid,78.00,8,Urgent,Discharged,Yes,1,2
+P00106,Sophia Wilson,75,Male,O+,2024-08-07,2024-08-28,Emergency,Dr. Lisa Patel,Trauma,11300.19,Self-Pay,0.00,21,Emergency,Deceased,Yes,7,3
+P00107,Michael Miller,43,Male,O-,2023-08-12,2023-08-20,Orthopedics,Dr. Emily Thompson,Sports Injury,9878.28,Medicaid,72.88,8,Elective,Admitted,No,4,4
+P00108,James Martinez,45,Male,O-,2023-03-12,2023-03-27,Emergency,Dr. Michael Rodriguez,Trauma,27426.24,Self-Pay,0.00,15,Elective,Left AMA,No,8,13
+P00109,Olivia Wilson,53,Male,O-,2023-06-26,2023-07-19,General Medicine,Dr. Michael Rodriguez,Gastritis,48204.19,Private Insurance,82.73,23,Elective,Discharged,Yes,4,4
+P00110,Sophia Brown,77,Male,O-,2023-03-21,2023-04-06,Orthopedics,Dr. James Miller,Fracture,52556.61,Corporate Insurance,60.41,16,Emergency,Left AMA,Yes,2,14
+P00111,Isabella Smith,58,Female,AB+,2023-10-29,2023-11-01,Emergency,Dr. Lisa Patel,Trauma,3720.19,Medicaid,70.57,3,Elective,Admitted,No,7,13
+P00112,Robert Jones,27,Male,O+,2023-02-02,2023-02-25,General Medicine,Dr. Lisa Patel,Diabetes,30490.30,Medicaid,80.83,23,Emergency,Transferred,Yes,1,10
+P00113,James Williams,60,Female,A+,2024-12-07,2024-12-08,Orthopedics,Dr. Emily Thompson,Joint Replacement,1619.70,Medicare,80.53,1,Urgent,Transferred,Yes,1,1
+P00114,Michael Wilson,68,Female,B-,2024-03-24,2024-04-14,Emergency,Dr. Emily Thompson,Burns,60164.15,Medicaid,77.86,21,Emergency,Admitted,No,4,11
+P00115,Robert Martinez,44,Male,B-,2024-01-23,2024-01-25,Cardiology,Dr. Sarah Chen,Angina,5561.01,Self-Pay,0.00,2,Routine Checkup,Transferred,No,5,6
+P00116,Isabella Martinez,33,Male,AB-,2024-11-16,2024-11-28,General Medicine,Dr. Lisa Patel,Hypertension,8591.70,Corporate Insurance,68.78,12,Urgent,Deceased,Yes,2,10
+P00117,Emma Miller,61,Male,O+,2024-12-04,2024-12-20,General Medicine,Dr. James Miller,Pneumonia,25435.25,Private Insurance,73.21,16,Urgent,Discharged,No,7,1
+P00118,Ava Williams,10,Male,A-,2024-09-11,2024-09-18,Cardiology,Dr. James Miller,Arrhythmia,18064.55,Corporate Insurance,75.84,7,Urgent,Transferred,Yes,6,1
+P00119,William Martinez,53,Female,A+,2023-10-07,2023-10-21,Neurology,Dr. Lisa Patel,Epilepsy,35662.99,Self-Pay,0.00,14,Elective,Admitted,Yes,2,9
+P00120,Olivia Davis,64,Female,AB+,2023-11-27,2023-12-09,Emergency,Dr. Michael Rodriguez,Trauma,10622.39,Self-Pay,0.00,12,Routine Checkup,Discharged,Yes,4,8
+P00121,Olivia Wilson,38,Male,A-,2023-03-05,2023-03-15,Neurology,Dr. Michael Rodriguez,Migraine,20346.90,Corporate Insurance,73.85,10,Emergency,Discharged,Yes,2,10
+P00122,Olivia Wilson,73,Male,B-,2023-11-30,2023-12-16,Pediatrics,Dr. Emily Thompson,Infection,52451.37,Medicaid,71.89,16,Emergency,Transferred,No,4,2
+P00123,John Miller,57,Female,AB-,2024-12-13,2024-12-22,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,9907.84,Medicaid,76.63,9,Elective,Transferred,Yes,1,12
+P00124,John Davis,37,Male,B+,2024-08-30,2024-09-22,General Medicine,Dr. Emily Thompson,Pneumonia,24477.96,Self-Pay,0.00,23,Elective,Admitted,Yes,6,11
+P00125,Olivia Johnson,55,Male,O-,2023-02-14,2023-02-15,Emergency,Dr. Emily Thompson,Poisoning,951.44,Private Insurance,62.89,1,Elective,Admitted,Yes,7,14
+P00126,Ava Martinez,28,Male,B+,2024-12-19,2025-01-08,Neurology,Dr. Michael Rodriguez,Epilepsy,60323.57,Self-Pay,0.00,20,Emergency,Deceased,No,6,3
+P00127,Emma Williams,35,Female,O-,2023-07-12,2023-08-01,General Medicine,Dr. James Miller,Pneumonia,47569.28,Medicare,80.83,20,Urgent,Discharged,Yes,6,5
+P00128,Olivia Williams,56,Female,A-,2023-10-31,2023-11-08,Emergency,Dr. Emily Thompson,Poisoning,21984.60,Medicaid,87.29,8,Elective,Deceased,No,7,2
+P00129,Sophia Johnson,56,Female,O-,2023-11-14,2023-11-19,Neurology,Dr. Sarah Chen,Epilepsy,10324.87,Corporate Insurance,66.54,5,Emergency,Discharged,Yes,2,3
+P00130,Emma Martinez,13,Female,O+,2023-02-24,2023-03-05,Neurology,Dr. James Miller,Epilepsy,23704.32,Medicaid,86.68,9,Urgent,Transferred,Yes,5,3
+P00131,Emma Wilson,27,Female,A-,2024-08-21,2024-09-01,Orthopedics,Dr. Sarah Chen,Fracture,36427.03,Corporate Insurance,69.84,11,Elective,Admitted,Yes,6,3
+P00132,Olivia Johnson,2,Male,O-,2024-04-10,2024-05-08,Neurology,Dr. James Miller,Stroke,38218.00,Self-Pay,0.00,28,Elective,Left AMA,No,3,11
+P00133,Emma Garcia,40,Female,O+,2024-02-12,2024-02-13,Cardiology,Dr. Sarah Chen,Heart Attack,3129.53,Private Insurance,61.28,1,Elective,Deceased,No,2,8
+P00134,William Wilson,27,Female,AB-,2024-08-31,2024-09-11,Pediatrics,Dr. Robert Kumar,Fever,31196.10,Medicare,82.64,11,Urgent,Transferred,No,7,4
+P00135,John Davis,56,Female,AB-,2023-06-13,2023-06-14,Neurology,Dr. Lisa Patel,Parkinsons,1576.92,Medicare,83.44,1,Elective,Deceased,No,4,9
+P00136,Isabella Jones,8,Male,A-,2023-12-19,2023-12-20,Neurology,Dr. Robert Kumar,Parkinsons,3120.33,Private Insurance,81.89,1,Elective,Admitted,Yes,1,5
+P00137,Michael Williams,1,Female,AB+,2023-05-20,2023-05-26,Cardiology,Dr. Sarah Chen,Heart Failure,5032.07,Self-Pay,0.00,6,Urgent,Left AMA,Yes,4,8
+P00138,James Johnson,76,Male,O+,2023-10-20,2023-11-06,Orthopedics,Dr. Lisa Patel,Joint Replacement,50053.79,Corporate Insurance,78.60,17,Emergency,Discharged,No,4,9
+P00139,John Martinez,29,Female,A-,2023-05-21,2023-06-19,Pediatrics,Dr. Michael Rodriguez,Infection,63941.87,Medicaid,85.01,29,Urgent,Admitted,No,3,4
+P00140,Michael Smith,59,Male,B+,2023-08-11,2023-08-21,Orthopedics,Dr. Sarah Chen,Fracture,21816.16,Corporate Insurance,72.45,10,Urgent,Discharged,Yes,6,13
+P00141,Ava Smith,15,Male,A-,2023-05-21,2023-06-16,General Medicine,Dr. Michael Rodriguez,Pneumonia,62188.03,Self-Pay,0.00,26,Routine Checkup,Deceased,Yes,2,5
+P00142,Isabella Wilson,50,Male,A+,2023-05-11,2023-05-25,Neurology,Dr. Michael Rodriguez,Migraine,29658.06,Private Insurance,70.88,14,Urgent,Discharged,No,6,3
+P00143,Robert Wilson,67,Male,B-,2024-01-11,2024-01-20,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,17068.07,Medicare,72.30,9,Elective,Deceased,Yes,4,3
+P00144,Robert Brown,51,Male,A+,2023-10-16,2023-10-29,Emergency,Dr. Robert Kumar,Accident,18170.15,Private Insurance,69.19,13,Urgent,Transferred,Yes,3,11
+P00145,Isabella Garcia,63,Male,A+,2024-06-06,2024-06-10,General Medicine,Dr. Lisa Patel,Gastritis,12438.79,Corporate Insurance,68.05,4,Routine Checkup,Admitted,Yes,8,15
+P00146,Ava Williams,49,Female,O+,2024-07-17,2024-08-04,Cardiology,Dr. Michael Rodriguez,Arrhythmia,54536.39,Corporate Insurance,87.53,18,Routine Checkup,Deceased,Yes,7,13
+P00147,William Garcia,79,Female,B+,2024-10-30,2024-11-25,Cardiology,Dr. Lisa Patel,Angina,85311.23,Corporate Insurance,67.79,26,Routine Checkup,Deceased,Yes,1,6
+P00148,Robert Garcia,34,Female,B-,2023-11-02,2023-11-28,Pediatrics,Dr. Michael Rodriguez,Asthma,53612.53,Self-Pay,0.00,26,Emergency,Deceased,No,5,1
+P00149,Robert Davis,67,Male,AB-,2023-11-15,2023-12-15,Orthopedics,Dr. Emily Thompson,Sports Injury,86997.42,Self-Pay,0.00,30,Emergency,Admitted,Yes,5,1
+P00150,Robert Williams,5,Female,AB+,2024-12-22,2024-12-27,Cardiology,Dr. Emily Thompson,Arrhythmia,3215.70,Corporate Insurance,62.87,5,Routine Checkup,Transferred,No,1,6
+P00151,Michael Smith,21,Male,O-,2023-09-17,2023-10-06,Emergency,Dr. Emily Thompson,Trauma,46176.40,Medicare,73.48,19,Urgent,Left AMA,No,6,2
+P00152,Olivia Davis,64,Male,AB-,2024-02-09,2024-02-10,Orthopedics,Dr. James Miller,Joint Replacement,3218.77,Medicaid,79.33,1,Emergency,Discharged,Yes,4,14
+P00153,Emma Martinez,55,Female,B-,2024-09-03,2024-09-07,Orthopedics,Dr. Lisa Patel,Sports Injury,5773.68,Self-Pay,0.00,4,Elective,Deceased,Yes,3,8
+P00154,Isabella Johnson,29,Male,AB+,2024-10-26,2024-11-22,General Medicine,Dr. James Miller,Diabetes,46134.49,Medicaid,80.72,27,Routine Checkup,Transferred,No,8,2
+P00155,William Johnson,25,Female,A-,2023-05-15,2023-05-25,Cardiology,Dr. James Miller,Arrhythmia,5824.96,Medicare,80.23,10,Routine Checkup,Admitted,No,6,11
+P00156,Ava Garcia,5,Male,AB-,2024-04-15,2024-05-11,Cardiology,Dr. Sarah Chen,Angina,39748.13,Private Insurance,61.70,26,Urgent,Admitted,Yes,7,12
+P00157,Robert Brown,3,Female,B+,2024-09-22,2024-10-14,Neurology,Dr. Michael Rodriguez,Epilepsy,72721.43,Medicaid,70.41,22,Elective,Admitted,Yes,6,3
+P00158,Emma Smith,14,Male,AB+,2024-12-29,2025-01-02,Pediatrics,Dr. Robert Kumar,Infection,2899.76,Private Insurance,87.79,4,Elective,Deceased,Yes,5,12
+P00159,Olivia Wilson,22,Male,AB+,2023-12-08,2023-12-31,Emergency,Dr. Michael Rodriguez,Trauma,58882.68,Self-Pay,0.00,23,Elective,Discharged,Yes,3,12
+P00160,Ava Garcia,56,Male,B-,2024-01-12,2024-01-20,Neurology,Dr. Michael Rodriguez,Migraine,12049.11,Corporate Insurance,75.37,8,Urgent,Left AMA,No,1,6
+P00161,Emma Smith,19,Female,A-,2023-08-28,2023-09-18,Cardiology,Dr. James Miller,Heart Failure,42260.66,Self-Pay,0.00,21,Emergency,Admitted,No,1,8
+P00162,Isabella Wilson,76,Female,AB+,2023-08-06,2023-08-13,Emergency,Dr. Lisa Patel,Trauma,14368.29,Medicare,71.14,7,Elective,Left AMA,No,8,11
+P00163,Isabella Martinez,20,Male,B+,2024-02-07,2024-02-15,Neurology,Dr. Sarah Chen,Migraine,17936.91,Medicaid,73.18,8,Emergency,Discharged,No,8,9
+P00164,James Miller,16,Female,A+,2023-06-11,2023-06-17,Neurology,Dr. Lisa Patel,Epilepsy,4668.89,Medicaid,78.34,6,Elective,Admitted,No,2,7
+P00165,James Brown,3,Male,A+,2023-02-09,2023-03-01,Neurology,Dr. Lisa Patel,Epilepsy,37506.38,Corporate Insurance,70.79,20,Elective,Admitted,Yes,5,4
+P00166,William Jones,56,Female,O-,2023-04-03,2023-04-15,Orthopedics,Dr. Robert Kumar,Sports Injury,37773.75,Medicare,75.85,12,Elective,Left AMA,No,8,2
+P00167,Emma Miller,15,Female,O-,2024-05-15,2024-05-31,Emergency,Dr. Sarah Chen,Poisoning,41924.03,Corporate Insurance,60.30,16,Urgent,Left AMA,No,8,5
+P00168,Olivia Jones,9,Male,A-,2023-12-01,2023-12-18,Neurology,Dr. Lisa Patel,Migraine,54171.87,Medicare,85.85,17,Urgent,Admitted,Yes,8,13
+P00169,John Miller,66,Male,O+,2024-10-31,2024-11-17,Orthopedics,Dr. Sarah Chen,Arthritis,35003.46,Medicare,79.95,17,Emergency,Discharged,Yes,1,3
+P00170,Robert Wilson,44,Male,A-,2023-04-07,2023-04-23,Pediatrics,Dr. Robert Kumar,Asthma,41218.94,Medicaid,86.11,16,Emergency,Admitted,Yes,2,2
+P00171,Michael Jones,28,Male,B+,2023-06-07,2023-06-16,Neurology,Dr. Sarah Chen,Stroke,5674.18,Medicaid,86.53,9,Elective,Deceased,No,3,11
+P00172,Isabella Martinez,37,Male,B+,2023-08-21,2023-09-14,General Medicine,Dr. Michael Rodriguez,Diabetes,49720.18,Medicare,79.95,24,Routine Checkup,Left AMA,Yes,2,8
+P00173,Olivia Garcia,27,Female,A-,2023-07-15,2023-07-29,General Medicine,Dr. Robert Kumar,Pneumonia,44411.01,Medicare,77.01,14,Routine Checkup,Deceased,Yes,6,1
+P00174,Robert Jones,49,Female,AB+,2023-11-23,2023-11-26,Neurology,Dr. Lisa Patel,Parkinsons,9834.00,Private Insurance,69.39,3,Emergency,Discharged,No,4,10
+P00175,Michael Jones,8,Male,AB+,2023-12-26,2023-12-30,Cardiology,Dr. Robert Kumar,Angina,3328.87,Self-Pay,0.00,4,Emergency,Discharged,Yes,1,8
+P00176,Isabella Garcia,14,Male,B+,2024-11-21,2024-12-13,Orthopedics,Dr. Emily Thompson,Fracture,40071.07,Corporate Insurance,82.05,22,Emergency,Left AMA,Yes,8,2
+P00177,Michael Davis,80,Male,O+,2023-09-14,2023-10-05,General Medicine,Dr. Michael Rodriguez,Pneumonia,23585.78,Medicare,85.39,21,Emergency,Transferred,Yes,4,9
+P00178,Robert Johnson,52,Female,O+,2023-07-06,2023-07-31,General Medicine,Dr. Sarah Chen,Hypertension,43292.23,Corporate Insurance,84.42,25,Routine Checkup,Transferred,Yes,1,6
+P00179,Olivia Martinez,22,Male,B+,2023-09-12,2023-10-08,Orthopedics,Dr. Lisa Patel,Sports Injury,37234.88,Medicaid,81.51,26,Emergency,Admitted,No,7,14
+P00180,Ava Davis,71,Female,A+,2023-06-28,2023-07-19,Orthopedics,Dr. Sarah Chen,Arthritis,69948.22,Self-Pay,0.00,21,Urgent,Discharged,No,3,5
+P00181,John Garcia,61,Male,A+,2024-03-30,2024-04-21,Neurology,Dr. Lisa Patel,Migraine,12211.93,Self-Pay,0.00,22,Urgent,Transferred,No,2,4
+P00182,Ava Garcia,16,Female,B-,2023-02-04,2023-02-24,Orthopedics,Dr. James Miller,Joint Replacement,40538.29,Corporate Insurance,63.25,20,Elective,Left AMA,Yes,5,12
+P00183,John Wilson,4,Male,B+,2024-07-12,2024-07-21,Orthopedics,Dr. Robert Kumar,Arthritis,27041.90,Self-Pay,0.00,9,Urgent,Admitted,No,7,9
+P00184,James Garcia,46,Female,A+,2023-02-11,2023-02-23,Neurology,Dr. Lisa Patel,Parkinsons,39084.09,Self-Pay,0.00,12,Emergency,Transferred,Yes,8,14
+P00185,Michael Williams,44,Male,AB+,2023-11-02,2023-11-07,General Medicine,Dr. Sarah Chen,Gastritis,11297.27,Self-Pay,0.00,5,Routine Checkup,Discharged,Yes,2,14
+P00186,James Garcia,1,Male,AB+,2023-12-29,2024-01-27,Cardiology,Dr. Michael Rodriguez,Heart Failure,84621.06,Medicare,77.61,29,Emergency,Left AMA,Yes,1,1
+P00187,Isabella Jones,65,Male,AB-,2023-07-29,2023-08-18,General Medicine,Dr. Lisa Patel,Diabetes,10686.55,Self-Pay,0.00,20,Emergency,Admitted,Yes,2,10
+P00188,Sophia Jones,34,Female,B+,2024-12-14,2025-01-13,Cardiology,Dr. James Miller,Heart Attack,86980.32,Self-Pay,0.00,30,Urgent,Left AMA,No,3,14
+P00189,William Smith,18,Female,AB+,2024-09-03,2024-09-29,Orthopedics,Dr. Emily Thompson,Sports Injury,83730.94,Corporate Insurance,69.83,26,Routine Checkup,Transferred,Yes,2,15
+P00190,Emma Jones,65,Male,AB-,2024-12-05,2024-12-31,Neurology,Dr. Emily Thompson,Parkinsons,20279.55,Self-Pay,0.00,26,Urgent,Transferred,No,4,12
+P00191,William Wilson,57,Male,A-,2023-08-12,2023-09-03,Neurology,Dr. Emily Thompson,Stroke,37366.04,Medicaid,75.98,22,Elective,Deceased,No,6,4
+P00192,William Williams,71,Male,AB+,2024-06-04,2024-06-05,General Medicine,Dr. Robert Kumar,Hypertension,2725.90,Corporate Insurance,78.46,1,Urgent,Transferred,No,1,9
+P00193,Olivia Miller,66,Female,AB-,2024-08-30,2024-09-25,Orthopedics,Dr. Sarah Chen,Arthritis,51455.66,Medicaid,89.85,26,Elective,Discharged,Yes,1,15
+P00194,Sophia Miller,9,Female,B+,2024-08-19,2024-08-24,Neurology,Dr. Sarah Chen,Epilepsy,11573.95,Medicare,87.78,5,Routine Checkup,Left AMA,Yes,3,13
+P00195,James Williams,16,Male,O+,2024-12-21,2024-12-31,Neurology,Dr. Sarah Chen,Epilepsy,10452.56,Self-Pay,0.00,10,Urgent,Deceased,Yes,7,8
+P00196,William Martinez,35,Female,O-,2023-04-12,2023-04-23,Neurology,Dr. Sarah Chen,Migraine,36530.37,Private Insurance,60.58,11,Urgent,Transferred,No,6,14
+P00197,John Brown,26,Male,B-,2024-10-23,2024-11-05,Pediatrics,Dr. Robert Kumar,Fever,36627.91,Medicaid,87.14,13,Urgent,Deceased,Yes,7,11
+P00198,Michael Johnson,79,Male,AB-,2024-06-15,2024-07-05,Neurology,Dr. Emily Thompson,Migraine,10690.48,Private Insurance,81.11,20,Emergency,Left AMA,Yes,1,15
+P00199,Olivia Brown,64,Female,AB+,2023-04-18,2023-05-15,Pediatrics,Dr. Emily Thompson,Asthma,66543.54,Medicare,83.07,27,Elective,Transferred,No,3,8
+P00200,Michael Brown,7,Female,O-,2024-10-10,2024-10-19,Emergency,Dr. Lisa Patel,Poisoning,27470.07,Private Insurance,63.87,9,Urgent,Admitted,Yes,1,5
+P00201,Michael Williams,70,Female,A-,2023-05-17,2023-06-13,Cardiology,Dr. Robert Kumar,Angina,71350.25,Corporate Insurance,66.88,27,Urgent,Admitted,Yes,8,15
+P00202,Michael Miller,60,Male,AB+,2023-09-05,2023-09-30,Orthopedics,Dr. James Miller,Arthritis,47373.84,Corporate Insurance,69.69,25,Elective,Transferred,No,4,15
+P00203,James Johnson,21,Female,O+,2023-05-02,2023-05-03,Emergency,Dr. Robert Kumar,Trauma,1079.83,Private Insurance,79.38,1,Urgent,Admitted,No,6,15
+P00204,Michael Williams,42,Female,O+,2024-04-17,2024-05-04,Emergency,Dr. James Miller,Burns,25318.63,Self-Pay,0.00,17,Emergency,Left AMA,Yes,8,14
+P00205,Emma Davis,54,Male,B+,2023-04-06,2023-04-10,Emergency,Dr. James Miller,Accident,13447.32,Corporate Insurance,80.80,4,Routine Checkup,Deceased,Yes,1,6
+P00206,John Davis,6,Male,AB+,2023-12-07,2023-12-20,Pediatrics,Dr. James Miller,Fever,40262.96,Private Insurance,60.17,13,Urgent,Discharged,Yes,4,10
+P00207,Michael Wilson,16,Female,AB+,2024-08-25,2024-09-10,Orthopedics,Dr. Michael Rodriguez,Fracture,49471.89,Medicare,71.03,16,Routine Checkup,Left AMA,No,8,14
+P00208,Robert Smith,40,Female,A-,2023-07-20,2023-08-19,Cardiology,Dr. Robert Kumar,Heart Failure,16360.52,Self-Pay,0.00,30,Routine Checkup,Transferred,Yes,7,11
+P00209,Ava Garcia,51,Male,O-,2023-08-23,2023-08-28,Neurology,Dr. Emily Thompson,Epilepsy,11651.51,Medicaid,79.03,5,Elective,Discharged,Yes,2,13
+P00210,William Garcia,11,Male,AB+,2024-11-02,2024-11-25,General Medicine,Dr. Sarah Chen,Gastritis,39398.83,Medicare,77.17,23,Emergency,Deceased,Yes,2,2
+P00211,Michael Garcia,29,Male,A+,2023-07-17,2023-08-11,Pediatrics,Dr. Sarah Chen,Fever,70475.94,Medicare,70.98,25,Urgent,Admitted,Yes,1,7
+P00212,John Martinez,60,Male,AB+,2024-12-05,2024-12-14,Pediatrics,Dr. Emily Thompson,Asthma,18244.13,Private Insurance,83.52,9,Urgent,Transferred,Yes,2,8
+P00213,Isabella Smith,3,Female,A-,2023-08-28,2023-08-30,Neurology,Dr. Robert Kumar,Stroke,977.29,Corporate Insurance,75.54,2,Elective,Deceased,No,6,5
+P00214,Robert Johnson,71,Male,B+,2023-03-19,2023-04-02,General Medicine,Dr. Emily Thompson,Gastritis,20404.85,Self-Pay,0.00,14,Elective,Discharged,No,2,9
+P00215,Ava Wilson,12,Male,B+,2023-07-13,2023-08-03,Orthopedics,Dr. James Miller,Fracture,15103.57,Medicare,87.92,21,Emergency,Deceased,No,6,8
+P00216,Robert Williams,40,Female,AB+,2023-07-05,2023-07-09,Emergency,Dr. James Miller,Trauma,12096.91,Private Insurance,88.74,4,Urgent,Transferred,Yes,6,6
+P00217,William Brown,10,Male,B-,2024-02-15,2024-03-02,Cardiology,Dr. Michael Rodriguez,Heart Attack,20022.39,Medicare,86.88,16,Routine Checkup,Admitted,Yes,6,6
+P00218,Ava Smith,22,Male,AB-,2024-04-01,2024-04-05,Cardiology,Dr. Sarah Chen,Arrhythmia,10579.94,Self-Pay,0.00,4,Urgent,Admitted,Yes,4,4
+P00219,Isabella Smith,30,Male,O+,2024-07-20,2024-08-07,General Medicine,Dr. Robert Kumar,Pneumonia,48389.19,Private Insurance,61.71,18,Urgent,Deceased,No,1,11
+P00220,Michael Davis,43,Male,O+,2023-08-27,2023-09-07,General Medicine,Dr. James Miller,Gastritis,19551.91,Medicaid,80.20,11,Routine Checkup,Admitted,Yes,8,14
+P00221,Michael Williams,73,Male,AB+,2023-10-12,2023-11-06,Orthopedics,Dr. James Miller,Joint Replacement,36129.01,Private Insurance,66.10,25,Elective,Deceased,Yes,1,13
+P00222,Olivia Martinez,38,Female,B-,2024-08-12,2024-08-25,Pediatrics,Dr. Lisa Patel,Asthma,34779.22,Medicare,72.52,13,Urgent,Admitted,No,4,13
+P00223,Sophia Williams,75,Male,AB-,2023-03-10,2023-03-31,Cardiology,Dr. Emily Thompson,Arrhythmia,26684.80,Self-Pay,0.00,21,Urgent,Deceased,Yes,4,6
+P00224,Emma Wilson,3,Male,AB-,2024-12-01,2024-12-03,General Medicine,Dr. Michael Rodriguez,Pneumonia,3500.25,Medicaid,75.75,2,Routine Checkup,Discharged,Yes,6,4
+P00225,Robert Davis,57,Male,A+,2023-10-12,2023-11-07,Orthopedics,Dr. Sarah Chen,Joint Replacement,84142.42,Private Insurance,77.30,26,Routine Checkup,Admitted,No,5,13
+P00226,Robert Jones,59,Male,A-,2023-10-09,2023-10-28,Pediatrics,Dr. Lisa Patel,Fever,42003.97,Private Insurance,65.60,19,Emergency,Transferred,No,5,9
+P00227,Emma Smith,70,Female,AB+,2023-05-14,2023-05-23,Pediatrics,Dr. Robert Kumar,Fever,5284.04,Medicaid,71.71,9,Elective,Admitted,Yes,6,12
+P00228,William Brown,20,Female,O+,2023-12-31,2024-01-11,General Medicine,Dr. Robert Kumar,Diabetes,24866.84,Private Insurance,65.74,11,Emergency,Admitted,Yes,7,14
+P00229,Ava Wilson,43,Male,O-,2024-11-14,2024-12-09,General Medicine,Dr. Sarah Chen,Hypertension,13233.36,Corporate Insurance,76.08,25,Emergency,Left AMA,Yes,6,9
+P00230,John Brown,79,Female,O+,2024-07-11,2024-07-21,Cardiology,Dr. Robert Kumar,Arrhythmia,9379.39,Medicaid,71.17,10,Routine Checkup,Transferred,Yes,5,10
+P00231,Isabella Martinez,33,Male,B+,2024-11-14,2024-11-29,Cardiology,Dr. Michael Rodriguez,Arrhythmia,7799.33,Private Insurance,76.25,15,Elective,Deceased,Yes,8,15
+P00232,Emma Jones,35,Female,A-,2023-10-12,2023-10-13,Neurology,Dr. Emily Thompson,Stroke,3398.25,Corporate Insurance,74.13,1,Urgent,Deceased,Yes,8,2
+P00233,Olivia Brown,29,Male,B-,2023-05-15,2023-06-12,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,11770.98,Self-Pay,0.00,28,Emergency,Deceased,No,1,5
+P00234,Robert Brown,67,Male,B+,2024-06-25,2024-07-21,Neurology,Dr. Michael Rodriguez,Migraine,77052.05,Private Insurance,68.54,26,Urgent,Admitted,No,2,5
+P00235,William Smith,10,Male,AB+,2024-10-04,2024-10-24,Cardiology,Dr. James Miller,Angina,16375.24,Medicaid,83.34,20,Urgent,Admitted,Yes,7,14
+P00236,William Williams,79,Female,A+,2024-12-24,2025-01-12,Emergency,Dr. Michael Rodriguez,Burns,50176.88,Self-Pay,0.00,19,Urgent,Transferred,Yes,1,15
+P00237,James Davis,64,Male,O-,2024-03-29,2024-04-18,Neurology,Dr. Sarah Chen,Stroke,60561.15,Medicaid,72.96,20,Urgent,Transferred,No,5,2
+P00238,Isabella Brown,77,Female,A+,2023-08-06,2023-08-13,Neurology,Dr. Robert Kumar,Migraine,4502.18,Private Insurance,89.74,7,Elective,Admitted,Yes,2,7
+P00239,Sophia Miller,71,Male,B-,2024-04-14,2024-04-18,Pediatrics,Dr. James Miller,Asthma,9118.90,Medicaid,88.39,4,Urgent,Left AMA,Yes,1,8
+P00240,Ava Davis,32,Female,AB-,2023-10-19,2023-11-03,General Medicine,Dr. Michael Rodriguez,Hypertension,25587.25,Corporate Insurance,87.79,15,Urgent,Deceased,No,1,5
+P00241,Emma Williams,27,Male,O+,2023-06-01,2023-06-15,Emergency,Dr. Lisa Patel,Accident,13242.23,Private Insurance,89.28,14,Elective,Left AMA,Yes,8,1
+P00242,William Brown,40,Male,O-,2024-12-14,2025-01-05,Cardiology,Dr. Robert Kumar,Angina,37615.87,Self-Pay,0.00,22,Routine Checkup,Transferred,No,8,3
+P00243,Michael Davis,66,Male,B-,2023-06-09,2023-07-07,Orthopedics,Dr. Emily Thompson,Joint Replacement,44819.75,Medicare,80.30,28,Urgent,Left AMA,Yes,6,5
+P00244,James Wilson,74,Male,A+,2023-05-09,2023-05-29,Emergency,Dr. Robert Kumar,Poisoning,26844.05,Self-Pay,0.00,20,Urgent,Transferred,Yes,7,15
+P00245,Ava Davis,15,Male,O-,2023-12-02,2023-12-27,Cardiology,Dr. Michael Rodriguez,Heart Failure,76146.59,Self-Pay,0.00,25,Routine Checkup,Admitted,No,3,15
+P00246,Olivia Jones,77,Female,A+,2024-11-16,2024-11-26,Orthopedics,Dr. Robert Kumar,Arthritis,25063.19,Medicaid,70.60,10,Urgent,Deceased,No,1,9
+P00247,Isabella Martinez,61,Female,O+,2024-06-25,2024-07-24,General Medicine,Dr. Michael Rodriguez,Gastritis,16946.61,Corporate Insurance,66.71,29,Routine Checkup,Discharged,Yes,3,1
+P00248,Michael Martinez,73,Female,O-,2024-01-17,2024-02-05,Orthopedics,Dr. Robert Kumar,Joint Replacement,27022.73,Private Insurance,78.14,19,Emergency,Deceased,Yes,7,14
+P00249,Sophia Johnson,78,Female,O+,2024-03-12,2024-04-06,General Medicine,Dr. Sarah Chen,Hypertension,67618.33,Medicaid,73.69,25,Urgent,Deceased,Yes,7,4
+P00250,Sophia Smith,20,Male,A+,2023-07-11,2023-08-07,Neurology,Dr. James Miller,Migraine,89919.47,Corporate Insurance,87.61,27,Elective,Discharged,Yes,3,12
+P00251,Isabella Martinez,40,Female,A+,2024-08-01,2024-08-11,Emergency,Dr. Sarah Chen,Accident,30346.17,Self-Pay,0.00,10,Elective,Admitted,Yes,7,12
+P00252,Emma Garcia,14,Female,B-,2023-10-08,2023-11-06,General Medicine,Dr. James Miller,Diabetes,12402.20,Medicare,79.82,29,Emergency,Discharged,No,2,6
+P00253,Isabella Brown,25,Female,AB+,2024-06-12,2024-07-03,Neurology,Dr. Sarah Chen,Epilepsy,54608.99,Self-Pay,0.00,21,Elective,Admitted,No,8,4
+P00254,Michael Jones,16,Female,AB-,2024-02-01,2024-02-02,Pediatrics,Dr. Robert Kumar,Fever,1856.94,Private Insurance,67.34,1,Urgent,Transferred,Yes,8,12
+P00255,Michael Garcia,24,Female,B-,2024-07-06,2024-07-19,Orthopedics,Dr. James Miller,Joint Replacement,19487.08,Corporate Insurance,83.06,13,Urgent,Transferred,No,4,13
+P00256,William Garcia,7,Female,O-,2023-09-05,2023-10-03,Neurology,Dr. Sarah Chen,Stroke,47682.51,Self-Pay,0.00,28,Urgent,Transferred,Yes,7,7
+P00257,Emma Brown,77,Male,O-,2023-08-04,2023-08-09,Neurology,Dr. Sarah Chen,Epilepsy,8926.88,Medicare,75.60,5,Emergency,Admitted,Yes,1,8
+P00258,Isabella Wilson,55,Female,AB-,2023-02-28,2023-03-05,General Medicine,Dr. Emily Thompson,Diabetes,4883.61,Corporate Insurance,72.10,5,Emergency,Discharged,No,6,13
+P00259,William Davis,39,Male,B+,2023-02-14,2023-03-16,Emergency,Dr. Robert Kumar,Poisoning,69751.60,Corporate Insurance,85.21,30,Routine Checkup,Discharged,No,2,6
+P00260,William Brown,45,Female,B+,2023-12-16,2023-12-24,General Medicine,Dr. Lisa Patel,Diabetes,5552.82,Self-Pay,0.00,8,Elective,Admitted,Yes,4,7
+P00261,James Brown,39,Male,AB+,2024-07-28,2024-08-02,General Medicine,Dr. Sarah Chen,Hypertension,12154.50,Self-Pay,0.00,5,Urgent,Left AMA,No,6,4
+P00262,Robert Brown,8,Male,B+,2024-11-25,2024-12-08,Orthopedics,Dr. Michael Rodriguez,Sports Injury,13813.85,Self-Pay,0.00,13,Elective,Admitted,Yes,2,7
+P00263,Sophia Davis,41,Male,A+,2024-07-04,2024-07-22,General Medicine,Dr. Emily Thompson,Pneumonia,12586.70,Self-Pay,0.00,18,Urgent,Left AMA,Yes,7,2
+P00264,Emma Johnson,46,Male,A+,2023-11-15,2023-12-03,Orthopedics,Dr. Sarah Chen,Joint Replacement,15664.66,Medicaid,77.23,18,Emergency,Admitted,No,1,4
+P00265,James Smith,77,Male,AB-,2023-08-29,2023-09-05,General Medicine,Dr. Lisa Patel,Diabetes,13851.33,Medicare,77.04,7,Emergency,Discharged,Yes,8,4
+P00266,James Davis,13,Female,O-,2023-05-07,2023-06-05,Emergency,Dr. Lisa Patel,Burns,74730.57,Self-Pay,0.00,29,Elective,Transferred,No,6,3
+P00267,Sophia Smith,61,Male,A+,2024-09-19,2024-10-06,Neurology,Dr. Robert Kumar,Migraine,40710.65,Private Insurance,75.16,17,Routine Checkup,Admitted,Yes,5,8
+P00268,Olivia Martinez,28,Female,O+,2023-08-30,2023-09-18,Neurology,Dr. Sarah Chen,Migraine,18531.28,Self-Pay,0.00,19,Elective,Discharged,Yes,7,7
+P00269,Emma Miller,26,Male,O+,2024-09-25,2024-09-27,Cardiology,Dr. Lisa Patel,Heart Attack,1191.57,Medicaid,77.54,2,Routine Checkup,Transferred,No,7,13
+P00270,Michael Garcia,46,Female,O-,2023-11-22,2023-12-14,Emergency,Dr. Lisa Patel,Trauma,34185.30,Self-Pay,0.00,22,Urgent,Admitted,No,1,3
+P00271,Olivia Jones,50,Male,O-,2024-07-24,2024-07-28,Pediatrics,Dr. Robert Kumar,Infection,5677.25,Self-Pay,0.00,4,Routine Checkup,Admitted,No,7,15
+P00272,Sophia Miller,5,Female,B+,2024-11-26,2024-12-20,Orthopedics,Dr. Michael Rodriguez,Sports Injury,73092.62,Corporate Insurance,72.75,24,Elective,Left AMA,Yes,6,12
+P00273,William Davis,67,Female,O+,2024-11-10,2024-11-20,Orthopedics,Dr. Michael Rodriguez,Sports Injury,31512.50,Self-Pay,0.00,10,Routine Checkup,Deceased,Yes,7,11
+P00274,Robert Martinez,2,Male,O-,2024-09-01,2024-09-30,Emergency,Dr. Michael Rodriguez,Accident,20146.11,Medicaid,81.11,29,Emergency,Discharged,No,4,8
+P00275,John Davis,75,Male,O+,2023-03-23,2023-04-19,Orthopedics,Dr. Lisa Patel,Sports Injury,31051.83,Medicaid,83.16,27,Routine Checkup,Transferred,Yes,6,7
+P00276,John Jones,8,Female,AB+,2024-10-04,2024-10-24,Cardiology,Dr. Michael Rodriguez,Angina,64121.69,Medicare,85.54,20,Emergency,Transferred,Yes,2,13
+P00277,John Brown,35,Female,AB+,2024-10-10,2024-10-26,Orthopedics,Dr. Robert Kumar,Fracture,10741.20,Corporate Insurance,79.99,16,Urgent,Admitted,No,3,6
+P00278,John Smith,70,Male,O-,2024-02-24,2024-03-24,General Medicine,Dr. Lisa Patel,Gastritis,34234.10,Medicare,79.67,29,Emergency,Discharged,Yes,8,13
+P00279,Michael Miller,80,Female,A-,2024-05-15,2024-06-05,Orthopedics,Dr. Lisa Patel,Sports Injury,38132.28,Private Insurance,78.25,21,Elective,Transferred,No,3,12
+P00280,Emma Garcia,67,Female,O+,2023-06-09,2023-07-02,General Medicine,Dr. Robert Kumar,Diabetes,10512.22,Medicare,76.53,23,Elective,Discharged,Yes,3,10
+P00281,John Davis,14,Female,O+,2023-11-11,2023-11-15,General Medicine,Dr. James Miller,Pneumonia,5163.27,Medicare,76.00,4,Routine Checkup,Discharged,Yes,1,13
+P00282,William Johnson,29,Female,AB-,2024-05-21,2024-06-07,Orthopedics,Dr. Sarah Chen,Sports Injury,9138.74,Medicaid,88.30,17,Elective,Left AMA,Yes,1,6
+P00283,Isabella Johnson,75,Female,B+,2024-01-05,2024-01-24,Cardiology,Dr. James Miller,Heart Failure,18372.21,Medicare,87.33,19,Elective,Left AMA,Yes,5,1
+P00284,Sophia Williams,41,Male,AB+,2023-03-22,2023-04-20,Orthopedics,Dr. Sarah Chen,Fracture,47523.64,Corporate Insurance,88.25,29,Emergency,Deceased,No,1,4
+P00285,Robert Davis,38,Female,B+,2023-11-09,2023-12-09,Orthopedics,Dr. Emily Thompson,Arthritis,18451.62,Medicaid,76.33,30,Emergency,Admitted,Yes,8,10
+P00286,Isabella Williams,23,Female,A-,2023-03-03,2023-03-31,Cardiology,Dr. James Miller,Angina,41468.34,Medicare,72.21,28,Emergency,Admitted,Yes,2,14
+P00287,Sophia Martinez,30,Male,O-,2024-03-30,2024-04-12,Cardiology,Dr. James Miller,Angina,11116.90,Self-Pay,0.00,13,Elective,Deceased,Yes,4,5
+P00288,Emma Garcia,6,Male,B+,2024-03-03,2024-03-25,Pediatrics,Dr. Robert Kumar,Asthma,19868.16,Medicaid,87.91,22,Elective,Left AMA,Yes,3,4
+P00289,William Johnson,63,Male,AB-,2024-06-17,2024-07-13,Pediatrics,Dr. Michael Rodriguez,Asthma,42085.04,Medicaid,76.26,26,Elective,Deceased,No,3,1
+P00290,Olivia Williams,21,Male,A+,2024-08-13,2024-08-21,Emergency,Dr. Lisa Patel,Accident,8259.19,Medicare,89.62,8,Elective,Admitted,Yes,8,14
+P00291,Emma Williams,44,Female,B-,2023-05-04,2023-06-02,Neurology,Dr. Robert Kumar,Parkinsons,18967.37,Self-Pay,0.00,29,Routine Checkup,Admitted,No,3,12
+P00292,Michael Martinez,5,Male,A-,2023-02-22,2023-03-23,Orthopedics,Dr. Emily Thompson,Joint Replacement,23447.68,Medicare,78.56,29,Routine Checkup,Deceased,Yes,4,3
+P00293,James Davis,71,Female,O+,2024-10-28,2024-11-07,Pediatrics,Dr. Sarah Chen,Growth Issues,17073.17,Medicaid,89.60,10,Elective,Left AMA,No,5,15
+P00294,William Garcia,49,Female,A-,2023-12-12,2023-12-24,General Medicine,Dr. Michael Rodriguez,Pneumonia,32527.58,Private Insurance,79.05,12,Elective,Transferred,Yes,2,6
+P00295,Robert Smith,54,Female,A+,2024-09-28,2024-10-10,Emergency,Dr. Emily Thompson,Accident,19034.15,Medicare,81.55,12,Emergency,Discharged,Yes,5,12
+P00296,John Garcia,34,Male,O+,2023-08-01,2023-08-09,Neurology,Dr. James Miller,Stroke,26820.63,Self-Pay,0.00,8,Urgent,Left AMA,Yes,6,14
+P00297,John Davis,29,Male,AB+,2024-04-25,2024-04-27,Neurology,Dr. James Miller,Stroke,1018.41,Private Insurance,78.68,2,Urgent,Discharged,No,5,7
+P00298,John Garcia,23,Male,A-,2023-01-06,2023-01-26,Pediatrics,Dr. Lisa Patel,Infection,45658.17,Medicare,77.99,20,Emergency,Transferred,Yes,8,1
+P00299,Ava Garcia,19,Male,B+,2023-07-13,2023-07-24,Neurology,Dr. Robert Kumar,Stroke,6178.83,Medicaid,87.59,11,Routine Checkup,Left AMA,No,7,14
+P00300,James Davis,80,Female,AB-,2024-09-28,2024-10-05,Orthopedics,Dr. Robert Kumar,Fracture,9346.78,Self-Pay,0.00,7,Urgent,Transferred,No,1,13
+P00301,Isabella Miller,76,Male,O-,2024-05-27,2024-06-20,Emergency,Dr. Sarah Chen,Trauma,56668.93,Private Insurance,69.75,24,Emergency,Deceased,No,8,13
+P00302,William Smith,27,Male,A-,2024-06-23,2024-07-01,Orthopedics,Dr. Sarah Chen,Arthritis,22273.74,Private Insurance,64.49,8,Emergency,Admitted,Yes,4,1
+P00303,Olivia Williams,26,Male,B+,2023-06-05,2023-07-01,Cardiology,Dr. Lisa Patel,Heart Attack,74005.05,Medicare,72.20,26,Routine Checkup,Admitted,No,7,8
+P00304,Michael Davis,53,Male,B+,2023-10-26,2023-10-28,General Medicine,Dr. James Miller,Pneumonia,6710.39,Medicaid,74.74,2,Urgent,Discharged,Yes,2,6
+P00305,Sophia Jones,7,Male,B-,2023-08-16,2023-09-07,General Medicine,Dr. Sarah Chen,Diabetes,62358.00,Medicare,87.21,22,Routine Checkup,Transferred,No,3,7
+P00306,John Davis,31,Female,A-,2023-04-23,2023-04-26,General Medicine,Dr. Emily Thompson,Hypertension,9904.98,Medicaid,72.21,3,Urgent,Admitted,No,5,14
+P00307,James Wilson,6,Female,A+,2023-05-10,2023-05-29,Emergency,Dr. Michael Rodriguez,Burns,55633.99,Medicare,73.85,19,Urgent,Discharged,No,6,15
+P00308,Olivia Davis,70,Male,AB+,2023-06-21,2023-07-05,Orthopedics,Dr. Lisa Patel,Joint Replacement,6570.60,Medicare,86.85,14,Routine Checkup,Admitted,No,8,7
+P00309,Robert Williams,5,Female,A-,2023-12-29,2024-01-22,Cardiology,Dr. Sarah Chen,Heart Attack,14198.67,Medicare,86.81,24,Elective,Transferred,No,5,7
+P00310,Emma Johnson,53,Female,O-,2023-08-17,2023-08-20,General Medicine,Dr. Robert Kumar,Diabetes,2970.09,Self-Pay,0.00,3,Emergency,Left AMA,No,7,1
+P00311,James Johnson,6,Female,B-,2024-02-10,2024-03-09,Emergency,Dr. Robert Kumar,Accident,68357.73,Medicaid,75.12,28,Emergency,Discharged,Yes,8,7
+P00312,Michael Johnson,27,Female,A+,2023-02-28,2023-03-01,Orthopedics,Dr. Michael Rodriguez,Sports Injury,1221.91,Self-Pay,0.00,1,Elective,Transferred,No,1,11
+P00313,Ava Smith,19,Female,O+,2023-06-06,2023-07-04,Emergency,Dr. Lisa Patel,Accident,60256.31,Corporate Insurance,67.33,28,Urgent,Deceased,No,2,12
+P00314,Robert Davis,72,Male,B+,2024-11-17,2024-11-27,General Medicine,Dr. James Miller,Pneumonia,24772.74,Private Insurance,82.14,10,Elective,Left AMA,No,4,4
+P00315,Michael Jones,80,Female,AB-,2023-11-21,2023-12-06,Cardiology,Dr. Robert Kumar,Angina,22365.91,Private Insurance,82.12,15,Elective,Left AMA,Yes,4,4
+P00316,John Jones,1,Female,AB-,2024-06-23,2024-07-11,Neurology,Dr. Lisa Patel,Migraine,50790.55,Self-Pay,0.00,18,Elective,Transferred,Yes,1,12
+P00317,William Martinez,26,Female,AB-,2024-04-19,2024-04-28,General Medicine,Dr. James Miller,Diabetes,13674.59,Self-Pay,0.00,9,Urgent,Transferred,Yes,1,4
+P00318,Isabella Davis,27,Male,B-,2024-01-18,2024-02-15,General Medicine,Dr. Sarah Chen,Gastritis,63317.51,Medicare,78.92,28,Urgent,Left AMA,Yes,1,7
+P00319,William Brown,39,Male,B+,2023-02-14,2023-02-17,Neurology,Dr. James Miller,Migraine,8593.57,Corporate Insurance,76.36,3,Elective,Discharged,Yes,7,1
+P00320,Michael Garcia,45,Female,O-,2024-11-09,2024-11-27,Emergency,Dr. Robert Kumar,Accident,61074.09,Corporate Insurance,76.35,18,Elective,Discharged,Yes,4,13
+P00321,Emma Davis,63,Female,A-,2023-06-07,2023-06-28,General Medicine,Dr. Lisa Patel,Diabetes,12159.58,Medicaid,89.74,21,Elective,Discharged,No,6,10
+P00322,Olivia Garcia,78,Male,AB-,2023-04-05,2023-04-14,General Medicine,Dr. Robert Kumar,Hypertension,22612.57,Medicaid,87.36,9,Urgent,Admitted,Yes,6,1
+P00323,Isabella Miller,21,Male,AB+,2024-07-24,2024-08-21,General Medicine,Dr. Lisa Patel,Gastritis,61294.48,Medicaid,72.38,28,Elective,Discharged,Yes,8,9
+P00324,Olivia Williams,34,Male,A-,2023-02-17,2023-03-08,General Medicine,Dr. Michael Rodriguez,Diabetes,23659.60,Private Insurance,83.67,19,Urgent,Discharged,Yes,8,10
+P00325,Isabella Williams,44,Male,O+,2023-08-17,2023-08-21,Emergency,Dr. Emily Thompson,Poisoning,7624.38,Medicaid,82.76,4,Routine Checkup,Discharged,Yes,3,6
+P00326,Olivia Garcia,7,Male,AB+,2023-04-01,2023-04-11,Cardiology,Dr. Emily Thompson,Arrhythmia,18592.00,Corporate Insurance,60.90,10,Emergency,Admitted,No,4,10
+P00327,James Johnson,18,Female,A-,2024-01-04,2024-01-07,Pediatrics,Dr. Robert Kumar,Growth Issues,5255.54,Self-Pay,0.00,3,Elective,Left AMA,No,1,6
+P00328,William Johnson,20,Male,A+,2024-10-21,2024-10-29,Orthopedics,Dr. Lisa Patel,Joint Replacement,18688.24,Medicare,87.35,8,Urgent,Discharged,No,2,15
+P00329,James Brown,12,Male,AB-,2024-09-20,2024-10-12,Cardiology,Dr. Sarah Chen,Heart Attack,60920.11,Self-Pay,0.00,22,Emergency,Deceased,No,2,5
+P00330,Robert Davis,55,Female,AB-,2023-11-23,2023-12-04,Emergency,Dr. Robert Kumar,Burns,14230.09,Medicaid,85.84,11,Routine Checkup,Admitted,Yes,2,6
+P00331,Michael Wilson,68,Female,B-,2023-11-26,2023-12-14,Orthopedics,Dr. Lisa Patel,Arthritis,18863.70,Self-Pay,0.00,18,Routine Checkup,Transferred,Yes,6,9
+P00332,Emma Garcia,49,Female,A+,2023-08-08,2023-08-14,Cardiology,Dr. Emily Thompson,Heart Failure,4330.74,Medicare,86.95,6,Routine Checkup,Deceased,Yes,3,1
+P00333,James Garcia,55,Female,A+,2023-08-31,2023-09-21,Pediatrics,Dr. Robert Kumar,Growth Issues,44700.84,Medicaid,80.21,21,Routine Checkup,Discharged,Yes,6,15
+P00334,Olivia Wilson,55,Male,AB+,2024-10-03,2024-10-09,General Medicine,Dr. James Miller,Pneumonia,6389.00,Medicare,72.20,6,Routine Checkup,Discharged,No,3,8
+P00335,Ava Brown,24,Female,A-,2023-06-10,2023-06-11,Cardiology,Dr. Michael Rodriguez,Angina,1516.93,Private Insurance,79.32,1,Routine Checkup,Admitted,Yes,1,7
+P00336,Sophia Smith,39,Female,AB-,2024-09-04,2024-09-25,Orthopedics,Dr. Emily Thompson,Arthritis,65588.81,Medicaid,85.94,21,Elective,Deceased,No,6,2
+P00337,John Williams,10,Male,A+,2024-09-21,2024-10-10,Pediatrics,Dr. Lisa Patel,Asthma,12995.55,Corporate Insurance,75.56,19,Routine Checkup,Left AMA,No,7,8
+P00338,Olivia Martinez,29,Female,B+,2023-12-29,2024-01-06,Emergency,Dr. James Miller,Poisoning,12697.27,Corporate Insurance,62.66,8,Emergency,Deceased,Yes,5,4
+P00339,John Davis,16,Male,O-,2023-04-13,2023-05-10,Neurology,Dr. James Miller,Migraine,75001.50,Corporate Insurance,61.28,27,Urgent,Transferred,No,6,11
+P00340,Isabella Williams,7,Male,B-,2024-05-06,2024-05-31,Orthopedics,Dr. Emily Thompson,Joint Replacement,60942.07,Corporate Insurance,66.16,25,Urgent,Deceased,Yes,7,7
+P00341,John Wilson,50,Female,AB-,2023-06-20,2023-06-29,Emergency,Dr. Emily Thompson,Burns,17713.90,Medicaid,81.20,9,Elective,Discharged,Yes,2,10
+P00342,Isabella Johnson,35,Female,B-,2024-11-22,2024-12-19,General Medicine,Dr. Michael Rodriguez,Pneumonia,36073.17,Self-Pay,0.00,27,Elective,Deceased,Yes,4,15
+P00343,Michael Jones,20,Male,AB-,2023-03-03,2023-03-17,Cardiology,Dr. Michael Rodriguez,Angina,26361.23,Self-Pay,0.00,14,Urgent,Discharged,Yes,8,5
+P00344,William Martinez,52,Male,AB+,2023-09-01,2023-09-11,Cardiology,Dr. Michael Rodriguez,Arrhythmia,26904.45,Corporate Insurance,70.46,10,Urgent,Discharged,No,5,5
+P00345,Isabella Johnson,24,Male,B-,2023-07-13,2023-08-02,Cardiology,Dr. Robert Kumar,Heart Attack,20283.74,Private Insurance,74.02,20,Elective,Admitted,Yes,6,12
+P00346,Sophia Jones,22,Male,B+,2024-07-05,2024-07-07,Emergency,Dr. Sarah Chen,Poisoning,4297.75,Corporate Insurance,79.21,2,Routine Checkup,Admitted,Yes,4,10
+P00347,Isabella Jones,27,Male,A+,2023-02-18,2023-03-04,Emergency,Dr. Lisa Patel,Poisoning,21180.38,Medicaid,85.47,14,Routine Checkup,Discharged,Yes,8,5
+P00348,William Miller,24,Female,O+,2024-11-06,2024-12-04,Emergency,Dr. James Miller,Poisoning,61509.33,Medicaid,83.58,28,Urgent,Discharged,Yes,8,4
+P00349,William Brown,72,Female,B+,2023-11-15,2023-12-15,Orthopedics,Dr. Michael Rodriguez,Fracture,18837.76,Medicare,71.98,30,Routine Checkup,Deceased,No,1,14
+P00350,Robert Davis,4,Female,B+,2023-12-13,2023-12-18,Cardiology,Dr. Michael Rodriguez,Angina,13028.50,Medicare,71.74,5,Routine Checkup,Discharged,Yes,4,12
+P00351,Robert Miller,75,Male,B+,2024-10-06,2024-10-11,General Medicine,Dr. James Miller,Pneumonia,9735.91,Corporate Insurance,71.09,5,Elective,Transferred,Yes,6,2
+P00352,William Martinez,12,Female,A+,2023-06-19,2023-07-09,Pediatrics,Dr. James Miller,Asthma,37324.67,Private Insurance,64.93,20,Emergency,Admitted,No,2,4
+P00353,Robert Davis,6,Female,B+,2023-04-18,2023-04-22,General Medicine,Dr. Robert Kumar,Diabetes,9052.06,Self-Pay,0.00,4,Routine Checkup,Transferred,Yes,2,1
+P00354,Robert Brown,22,Female,B+,2023-11-28,2023-12-02,Pediatrics,Dr. Emily Thompson,Infection,12767.52,Self-Pay,0.00,4,Elective,Deceased,Yes,7,11
+P00355,James Williams,66,Female,B-,2023-06-11,2023-06-27,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,27827.58,Medicaid,72.27,16,Emergency,Deceased,No,2,7
+P00356,Emma Johnson,55,Male,O-,2023-05-26,2023-05-28,General Medicine,Dr. James Miller,Hypertension,4911.62,Private Insurance,77.94,2,Urgent,Transferred,No,7,15
+P00357,Sophia Martinez,71,Female,A-,2024-03-19,2024-03-25,Neurology,Dr. Lisa Patel,Stroke,15339.47,Corporate Insurance,68.69,6,Routine Checkup,Discharged,Yes,4,2
+P00358,Michael Jones,2,Male,B-,2023-07-17,2023-07-25,Emergency,Dr. Sarah Chen,Accident,6809.26,Corporate Insurance,82.78,8,Urgent,Discharged,Yes,1,11
+P00359,Michael Jones,45,Female,B+,2023-06-23,2023-07-23,Emergency,Dr. James Miller,Accident,33972.61,Medicaid,80.29,30,Elective,Admitted,Yes,1,15
+P00360,Isabella Brown,49,Male,A-,2023-11-19,2023-12-01,Cardiology,Dr. James Miller,Angina,26111.53,Medicare,86.08,12,Emergency,Deceased,Yes,8,2
+P00361,William Smith,71,Female,AB+,2023-11-27,2023-12-03,General Medicine,Dr. Robert Kumar,Pneumonia,18041.31,Corporate Insurance,66.47,6,Urgent,Transferred,No,4,13
+P00362,Robert Smith,4,Female,B+,2023-07-10,2023-07-14,Neurology,Dr. Michael Rodriguez,Stroke,6627.76,Self-Pay,0.00,4,Routine Checkup,Left AMA,No,6,14
+P00363,Olivia Jones,13,Male,O-,2024-04-01,2024-04-09,Orthopedics,Dr. Lisa Patel,Joint Replacement,10992.36,Private Insurance,61.84,8,Elective,Left AMA,No,6,1
+P00364,Robert Johnson,71,Female,A+,2023-01-08,2023-01-12,Cardiology,Dr. James Miller,Heart Failure,2329.53,Corporate Insurance,60.59,4,Urgent,Admitted,Yes,2,14
+P00365,Sophia Wilson,69,Male,B+,2024-01-08,2024-01-09,Emergency,Dr. Emily Thompson,Poisoning,985.63,Private Insurance,63.84,1,Elective,Deceased,No,8,14
+P00366,Sophia Johnson,71,Female,B+,2023-10-26,2023-11-22,Neurology,Dr. Sarah Chen,Migraine,83947.46,Medicare,81.11,27,Emergency,Transferred,Yes,6,2
+P00367,Robert Brown,80,Male,O+,2023-12-08,2023-12-09,Cardiology,Dr. Sarah Chen,Arrhythmia,3316.68,Medicaid,78.91,1,Elective,Deceased,No,1,12
+P00368,Robert Jones,43,Male,AB+,2024-09-23,2024-10-10,Neurology,Dr. James Miller,Stroke,55060.19,Corporate Insurance,71.74,17,Routine Checkup,Admitted,No,6,15
+P00369,Olivia Wilson,54,Male,A+,2023-06-17,2023-06-18,Neurology,Dr. Emily Thompson,Migraine,1197.53,Self-Pay,0.00,1,Urgent,Transferred,Yes,4,5
+P00370,Robert Garcia,10,Female,AB+,2024-01-11,2024-02-08,Pediatrics,Dr. James Miller,Asthma,92476.99,Corporate Insurance,89.13,28,Emergency,Deceased,No,4,14
+P00371,Isabella Smith,21,Male,B+,2023-07-06,2023-07-24,Cardiology,Dr. Lisa Patel,Angina,23892.33,Medicare,71.70,18,Elective,Left AMA,Yes,6,12
+P00372,Emma Brown,25,Female,B-,2024-08-21,2024-09-13,General Medicine,Dr. Sarah Chen,Gastritis,27378.16,Medicare,81.34,23,Elective,Discharged,Yes,1,1
+P00373,Sophia Davis,6,Female,A+,2023-09-18,2023-10-17,General Medicine,Dr. Emily Thompson,Hypertension,27934.96,Self-Pay,0.00,29,Emergency,Deceased,Yes,8,4
+P00374,Olivia Miller,67,Female,O-,2023-01-15,2023-01-28,Cardiology,Dr. Michael Rodriguez,Angina,10325.78,Medicaid,86.95,13,Routine Checkup,Transferred,Yes,6,13
+P00375,John Davis,14,Male,A-,2023-01-24,2023-02-17,General Medicine,Dr. James Miller,Hypertension,80123.17,Medicaid,70.73,24,Elective,Transferred,Yes,1,15
+P00376,Michael Garcia,5,Female,B+,2024-07-10,2024-07-19,Neurology,Dr. Sarah Chen,Migraine,19316.01,Medicare,74.77,9,Urgent,Transferred,Yes,3,5
+P00377,John Jones,38,Female,AB+,2024-07-18,2024-08-11,General Medicine,Dr. Lisa Patel,Gastritis,57420.50,Medicare,78.50,24,Emergency,Discharged,Yes,6,6
+P00378,William Davis,3,Female,AB-,2024-08-10,2024-09-03,Orthopedics,Dr. Emily Thompson,Fracture,49619.55,Medicaid,86.98,24,Routine Checkup,Transferred,Yes,8,9
+P00379,Ava Garcia,30,Male,B+,2024-06-06,2024-06-29,Emergency,Dr. James Miller,Poisoning,62275.27,Self-Pay,0.00,23,Routine Checkup,Left AMA,Yes,5,5
+P00380,John Martinez,63,Female,B-,2023-10-03,2023-10-19,Orthopedics,Dr. Emily Thompson,Joint Replacement,47204.27,Self-Pay,0.00,16,Urgent,Deceased,Yes,7,2
+P00381,Michael Williams,66,Female,B+,2024-11-28,2024-12-21,Neurology,Dr. Michael Rodriguez,Parkinsons,59224.96,Corporate Insurance,62.41,23,Elective,Discharged,Yes,3,5
+P00382,Michael Johnson,36,Female,B-,2024-04-14,2024-04-21,Cardiology,Dr. Robert Kumar,Heart Failure,2884.66,Corporate Insurance,71.00,7,Urgent,Deceased,Yes,8,3
+P00383,Isabella Miller,28,Male,O+,2024-09-12,2024-09-26,Orthopedics,Dr. Sarah Chen,Sports Injury,23891.53,Corporate Insurance,68.89,14,Routine Checkup,Transferred,Yes,8,8
+P00384,Olivia Jones,22,Female,AB+,2023-06-01,2023-06-21,Cardiology,Dr. Lisa Patel,Arrhythmia,44913.54,Self-Pay,0.00,20,Emergency,Left AMA,Yes,3,11
+P00385,John Smith,29,Male,B+,2024-08-22,2024-08-27,Orthopedics,Dr. Sarah Chen,Joint Replacement,9029.82,Self-Pay,0.00,5,Emergency,Deceased,Yes,4,15
+P00386,Michael Wilson,5,Male,B-,2023-08-28,2023-09-01,Pediatrics,Dr. Emily Thompson,Infection,5386.59,Self-Pay,0.00,4,Elective,Admitted,No,5,13
+P00387,Isabella Garcia,2,Male,O-,2023-06-16,2023-06-19,Orthopedics,Dr. Lisa Patel,Sports Injury,7167.98,Private Insurance,60.75,3,Elective,Deceased,Yes,8,1
+P00388,William Jones,23,Female,A+,2023-11-23,2023-11-24,Emergency,Dr. James Miller,Poisoning,2959.92,Medicaid,87.66,1,Urgent,Discharged,No,5,9
+P00389,Isabella Miller,58,Female,B+,2024-04-29,2024-05-28,Pediatrics,Dr. Emily Thompson,Infection,27845.14,Medicare,72.86,29,Urgent,Left AMA,No,8,1
+P00390,Isabella Johnson,25,Female,A+,2024-09-05,2024-09-13,Orthopedics,Dr. Robert Kumar,Fracture,11807.54,Self-Pay,0.00,8,Urgent,Transferred,Yes,6,13
+P00391,John Smith,63,Female,B+,2023-07-10,2023-08-05,General Medicine,Dr. James Miller,Hypertension,15303.35,Medicaid,72.87,26,Emergency,Transferred,Yes,8,5
+P00392,Sophia Garcia,71,Female,O+,2024-10-04,2024-10-07,Neurology,Dr. Michael Rodriguez,Parkinsons,4952.73,Medicaid,73.15,3,Elective,Transferred,Yes,7,14
+P00393,Isabella Johnson,32,Male,A-,2023-06-02,2023-06-09,Emergency,Dr. Michael Rodriguez,Accident,6433.12,Medicaid,87.80,7,Emergency,Deceased,Yes,7,13
+P00394,Olivia Williams,74,Male,A-,2024-01-16,2024-02-13,Pediatrics,Dr. Michael Rodriguez,Growth Issues,83121.67,Corporate Insurance,84.22,28,Elective,Transferred,Yes,1,8
+P00395,John Martinez,6,Male,O-,2023-07-14,2023-08-10,Orthopedics,Dr. Lisa Patel,Fracture,57739.90,Private Insurance,62.09,27,Elective,Left AMA,Yes,7,1
+P00396,Olivia Martinez,45,Male,O+,2024-02-22,2024-03-13,General Medicine,Dr. Michael Rodriguez,Diabetes,57227.79,Corporate Insurance,80.53,20,Urgent,Transferred,Yes,7,2
+P00397,Michael Garcia,57,Male,A+,2023-02-04,2023-03-05,Cardiology,Dr. Lisa Patel,Arrhythmia,83671.19,Corporate Insurance,77.46,29,Routine Checkup,Transferred,Yes,5,2
+P00398,Ava Martinez,50,Male,O-,2023-08-09,2023-08-15,General Medicine,Dr. Robert Kumar,Hypertension,8173.34,Medicaid,71.26,6,Routine Checkup,Transferred,Yes,4,4
+P00399,John Smith,26,Male,AB-,2023-06-18,2023-07-09,General Medicine,Dr. Michael Rodriguez,Pneumonia,32374.76,Private Insurance,78.20,21,Routine Checkup,Admitted,No,5,7
+P00400,John Johnson,33,Female,B-,2023-04-21,2023-05-15,Orthopedics,Dr. Emily Thompson,Joint Replacement,60629.39,Medicaid,74.19,24,Emergency,Left AMA,Yes,1,15
+P00401,Emma Williams,21,Female,O-,2024-12-26,2024-12-30,Neurology,Dr. Lisa Patel,Migraine,13385.80,Medicare,79.57,4,Emergency,Deceased,Yes,5,2
+P00402,Ava Smith,1,Female,AB-,2023-01-05,2023-01-14,Orthopedics,Dr. Emily Thompson,Sports Injury,11205.10,Medicaid,73.15,9,Elective,Transferred,No,3,13
+P00403,Ava Miller,36,Female,O+,2024-06-28,2024-07-10,Orthopedics,Dr. Robert Kumar,Arthritis,17443.28,Medicaid,83.84,12,Routine Checkup,Admitted,Yes,3,2
+P00404,Ava Martinez,60,Female,O-,2024-03-09,2024-03-19,Cardiology,Dr. Robert Kumar,Angina,29422.95,Self-Pay,0.00,10,Emergency,Transferred,No,1,15
+P00405,James Brown,20,Female,AB-,2024-11-15,2024-11-23,Neurology,Dr. Sarah Chen,Epilepsy,7465.26,Medicaid,84.63,8,Emergency,Transferred,No,6,11
+P00406,Emma Brown,6,Male,AB+,2024-02-28,2024-03-12,Emergency,Dr. James Miller,Poisoning,29545.03,Corporate Insurance,88.44,13,Emergency,Admitted,Yes,2,12
+P00407,Robert Martinez,53,Male,A+,2024-01-04,2024-01-28,General Medicine,Dr. Robert Kumar,Hypertension,29964.97,Self-Pay,0.00,24,Routine Checkup,Left AMA,Yes,3,13
+P00408,William Davis,56,Male,AB+,2023-09-17,2023-10-09,Emergency,Dr. Emily Thompson,Poisoning,45433.95,Medicare,85.41,22,Emergency,Left AMA,Yes,6,6
+P00409,Ava Jones,49,Male,A+,2024-02-11,2024-03-03,Emergency,Dr. Sarah Chen,Trauma,63755.06,Self-Pay,0.00,21,Routine Checkup,Admitted,No,1,15
+P00410,Michael Smith,11,Female,O-,2023-09-11,2023-09-26,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,22755.45,Medicaid,85.93,15,Routine Checkup,Transferred,No,4,4
+P00411,Ava Williams,1,Female,A-,2024-04-01,2024-04-30,Neurology,Dr. Emily Thompson,Stroke,83926.15,Corporate Insurance,62.48,29,Elective,Transferred,Yes,4,3
+P00412,Michael Wilson,21,Female,A-,2023-06-15,2023-06-16,Emergency,Dr. Emily Thompson,Accident,422.12,Medicaid,80.62,1,Routine Checkup,Admitted,Yes,3,3
+P00413,William Williams,38,Male,A-,2024-06-24,2024-07-11,General Medicine,Dr. Michael Rodriguez,Gastritis,20513.71,Corporate Insurance,73.50,17,Routine Checkup,Deceased,No,6,7
+P00414,Robert Johnson,43,Female,B+,2023-12-14,2024-01-12,Cardiology,Dr. Michael Rodriguez,Angina,70326.01,Self-Pay,0.00,29,Elective,Discharged,Yes,4,11
+P00415,James Jones,72,Male,B-,2023-07-26,2023-08-18,Emergency,Dr. Lisa Patel,Burns,20400.82,Self-Pay,0.00,23,Urgent,Discharged,Yes,3,9
+P00416,William Wilson,13,Female,A-,2024-10-16,2024-10-25,Pediatrics,Dr. Emily Thompson,Growth Issues,11342.20,Private Insurance,60.14,9,Urgent,Admitted,No,3,14
+P00417,James Jones,37,Female,A+,2024-07-27,2024-08-06,Orthopedics,Dr. James Miller,Joint Replacement,26599.68,Self-Pay,0.00,10,Urgent,Admitted,Yes,5,9
+P00418,James Martinez,63,Female,AB+,2024-05-30,2024-06-19,Orthopedics,Dr. Emily Thompson,Arthritis,52376.59,Medicare,77.34,20,Elective,Deceased,Yes,6,11
+P00419,Michael Jones,50,Female,AB+,2024-02-08,2024-02-12,Emergency,Dr. James Miller,Trauma,7735.98,Medicaid,79.99,4,Urgent,Discharged,No,6,10
+P00420,Robert Brown,34,Female,O+,2023-10-14,2023-10-30,General Medicine,Dr. Robert Kumar,Pneumonia,45603.82,Medicaid,74.19,16,Routine Checkup,Deceased,Yes,8,3
+P00421,John Wilson,59,Male,O+,2024-03-26,2024-04-22,Neurology,Dr. Lisa Patel,Parkinsons,68133.94,Self-Pay,0.00,27,Elective,Left AMA,Yes,7,15
+P00422,John Johnson,77,Male,B+,2024-09-03,2024-10-02,General Medicine,Dr. Michael Rodriguez,Diabetes,52128.30,Private Insurance,89.75,29,Routine Checkup,Transferred,Yes,6,15
+P00423,Isabella Martinez,24,Female,A+,2023-02-23,2023-03-10,Orthopedics,Dr. Emily Thompson,Fracture,30303.62,Self-Pay,0.00,15,Emergency,Transferred,Yes,6,8
+P00424,Robert Smith,67,Female,AB-,2024-08-09,2024-08-22,Orthopedics,Dr. Robert Kumar,Sports Injury,27599.29,Self-Pay,0.00,13,Routine Checkup,Transferred,No,8,13
+P00425,James Jones,77,Female,B+,2023-10-25,2023-11-06,Pediatrics,Dr. James Miller,Fever,24843.91,Medicaid,85.78,12,Emergency,Left AMA,No,4,11
+P00426,Robert Martinez,36,Male,AB-,2023-10-24,2023-11-19,Emergency,Dr. Robert Kumar,Accident,25093.52,Private Insurance,74.47,26,Routine Checkup,Transferred,No,2,2
+P00427,Michael Miller,68,Female,B+,2024-05-03,2024-05-20,Neurology,Dr. Emily Thompson,Epilepsy,47514.86,Corporate Insurance,89.12,17,Emergency,Admitted,Yes,6,1
+P00428,Emma Garcia,71,Female,B-,2023-12-12,2024-01-01,General Medicine,Dr. Michael Rodriguez,Gastritis,31756.63,Corporate Insurance,75.61,20,Elective,Discharged,Yes,1,14
+P00429,James Williams,62,Female,AB-,2024-06-05,2024-06-14,Pediatrics,Dr. Emily Thompson,Growth Issues,26521.73,Corporate Insurance,85.00,9,Emergency,Left AMA,No,3,5
+P00430,Robert Brown,75,Female,A+,2023-11-16,2023-12-14,Cardiology,Dr. James Miller,Heart Attack,59643.63,Corporate Insurance,80.98,28,Emergency,Discharged,Yes,7,4
+P00431,Ava Miller,52,Male,A-,2024-05-05,2024-05-15,Pediatrics,Dr. Michael Rodriguez,Fever,16702.40,Self-Pay,0.00,10,Elective,Transferred,Yes,3,13
+P00432,Olivia Wilson,35,Female,AB-,2024-01-25,2024-02-10,Pediatrics,Dr. Michael Rodriguez,Infection,35520.71,Medicare,72.71,16,Elective,Discharged,Yes,6,14
+P00433,James Davis,68,Female,A+,2024-06-14,2024-07-01,Orthopedics,Dr. Emily Thompson,Joint Replacement,53185.33,Medicare,75.38,17,Elective,Left AMA,No,5,10
+P00434,Olivia Smith,28,Female,AB-,2023-10-27,2023-11-09,Cardiology,Dr. Robert Kumar,Angina,32653.13,Medicare,87.58,13,Elective,Deceased,Yes,6,9
+P00435,Emma Jones,66,Female,O-,2023-01-16,2023-01-26,General Medicine,Dr. James Miller,Pneumonia,4689.78,Medicaid,85.52,10,Routine Checkup,Left AMA,Yes,3,9
+P00436,William Jones,19,Female,B-,2023-08-26,2023-09-03,Pediatrics,Dr. Lisa Patel,Infection,23349.63,Medicare,73.73,8,Elective,Left AMA,Yes,5,4
+P00437,John Brown,26,Male,B+,2023-11-05,2023-11-17,Neurology,Dr. Sarah Chen,Migraine,10372.27,Medicare,81.27,12,Elective,Discharged,No,6,13
+P00438,Olivia Jones,28,Male,AB+,2023-02-12,2023-03-02,Emergency,Dr. James Miller,Burns,11284.33,Medicare,71.20,18,Urgent,Left AMA,Yes,1,12
+P00439,Olivia Davis,43,Female,AB-,2024-01-14,2024-01-29,Emergency,Dr. Robert Kumar,Accident,16007.98,Private Insurance,61.48,15,Emergency,Admitted,Yes,2,8
+P00440,Ava Johnson,6,Male,AB+,2024-01-13,2024-01-31,Cardiology,Dr. Emily Thompson,Arrhythmia,7300.11,Corporate Insurance,77.58,18,Emergency,Admitted,No,3,1
+P00441,Robert Smith,51,Female,B-,2023-07-10,2023-07-19,Neurology,Dr. Emily Thompson,Stroke,25089.17,Corporate Insurance,71.63,9,Emergency,Transferred,Yes,1,1
+P00442,Robert Martinez,62,Female,O-,2023-02-05,2023-02-24,Cardiology,Dr. Sarah Chen,Angina,16951.65,Medicare,71.60,19,Routine Checkup,Transferred,Yes,5,14
+P00443,Emma Garcia,62,Female,O+,2023-06-17,2023-07-07,Cardiology,Dr. Michael Rodriguez,Heart Failure,20554.68,Self-Pay,0.00,20,Emergency,Admitted,Yes,5,4
+P00444,Ava Garcia,43,Male,B+,2023-07-09,2023-08-01,Neurology,Dr. Robert Kumar,Parkinsons,15631.57,Medicaid,87.57,23,Emergency,Admitted,Yes,4,11
+P00445,James Johnson,40,Female,A+,2023-05-17,2023-05-24,Orthopedics,Dr. James Miller,Sports Injury,17732.53,Private Insurance,85.83,7,Urgent,Discharged,Yes,7,8
+P00446,Sophia Wilson,8,Male,B+,2023-05-13,2023-06-02,Pediatrics,Dr. Lisa Patel,Infection,26362.67,Corporate Insurance,85.75,20,Urgent,Admitted,No,5,4
+P00447,Sophia Smith,52,Male,AB-,2024-08-27,2024-08-31,Pediatrics,Dr. Emily Thompson,Asthma,3190.16,Private Insurance,63.03,4,Routine Checkup,Deceased,No,7,11
+P00448,Sophia Martinez,56,Female,O-,2023-10-23,2023-11-11,Pediatrics,Dr. James Miller,Asthma,39170.86,Medicare,82.82,19,Routine Checkup,Left AMA,Yes,7,10
+P00449,James Brown,65,Male,B-,2023-05-15,2023-05-19,Neurology,Dr. Lisa Patel,Stroke,5163.94,Corporate Insurance,87.28,4,Urgent,Deceased,Yes,3,9
+P00450,Ava Miller,15,Female,A+,2023-06-24,2023-07-19,Neurology,Dr. James Miller,Parkinsons,33440.95,Self-Pay,0.00,25,Routine Checkup,Deceased,Yes,2,4
+P00451,John Smith,79,Male,A-,2024-12-25,2024-12-29,Cardiology,Dr. Sarah Chen,Heart Attack,4377.28,Private Insurance,87.68,4,Elective,Deceased,Yes,5,9
+P00452,Michael Williams,24,Female,AB+,2024-02-10,2024-02-25,Pediatrics,Dr. Lisa Patel,Fever,34564.89,Medicare,82.42,15,Elective,Left AMA,No,8,14
+P00453,Emma Johnson,11,Male,A+,2023-10-22,2023-11-15,Neurology,Dr. Michael Rodriguez,Stroke,12717.82,Corporate Insurance,72.17,24,Urgent,Deceased,Yes,3,8
+P00454,Robert Martinez,39,Female,O+,2023-10-11,2023-11-10,Neurology,Dr. Sarah Chen,Migraine,16547.06,Self-Pay,0.00,30,Urgent,Admitted,No,4,2
+P00455,James Johnson,47,Male,B+,2023-07-19,2023-08-01,Orthopedics,Dr. Sarah Chen,Arthritis,22045.44,Corporate Insurance,67.26,13,Emergency,Transferred,Yes,4,6
+P00456,Robert Davis,45,Male,A-,2023-02-14,2023-03-01,Cardiology,Dr. James Miller,Angina,20750.95,Self-Pay,0.00,15,Elective,Transferred,No,7,4
+P00457,Isabella Williams,54,Female,A-,2023-07-07,2023-07-27,Cardiology,Dr. Lisa Patel,Angina,45306.79,Medicare,86.95,20,Emergency,Left AMA,No,2,9
+P00458,Michael Smith,67,Male,AB-,2024-08-05,2024-09-02,Neurology,Dr. Lisa Patel,Migraine,35645.92,Corporate Insurance,67.36,28,Emergency,Transferred,Yes,3,3
+P00459,Ava Jones,10,Male,A-,2024-05-25,2024-06-13,Pediatrics,Dr. Michael Rodriguez,Fever,29639.98,Self-Pay,0.00,19,Elective,Transferred,Yes,4,15
+P00460,James Williams,44,Male,O+,2023-06-17,2023-07-14,Pediatrics,Dr. Robert Kumar,Growth Issues,66548.97,Private Insurance,89.82,27,Routine Checkup,Transferred,No,5,12
+P00461,John Williams,67,Female,B+,2023-07-15,2023-07-20,Orthopedics,Dr. Sarah Chen,Sports Injury,9076.81,Medicaid,73.45,5,Urgent,Deceased,Yes,8,13
+P00462,William Miller,7,Female,A-,2024-02-09,2024-02-22,Cardiology,Dr. Robert Kumar,Angina,16887.96,Medicaid,85.04,13,Elective,Admitted,No,4,2
+P00463,Sophia Brown,52,Female,B-,2023-03-16,2023-03-20,General Medicine,Dr. Lisa Patel,Gastritis,11126.40,Self-Pay,0.00,4,Elective,Admitted,Yes,4,2
+P00464,Olivia Wilson,54,Male,O+,2023-09-23,2023-09-24,General Medicine,Dr. Robert Kumar,Pneumonia,1631.65,Corporate Insurance,73.84,1,Elective,Discharged,Yes,5,3
+P00465,James Jones,44,Female,B+,2023-05-27,2023-06-05,General Medicine,Dr. Lisa Patel,Hypertension,26439.24,Corporate Insurance,69.17,9,Elective,Deceased,Yes,6,13
+P00466,James Wilson,43,Male,B-,2024-06-23,2024-06-30,Orthopedics,Dr. Michael Rodriguez,Sports Injury,22740.73,Medicare,73.74,7,Urgent,Transferred,Yes,2,11
+P00467,William Martinez,74,Male,O-,2023-09-30,2023-10-29,General Medicine,Dr. Sarah Chen,Gastritis,71777.48,Self-Pay,0.00,29,Emergency,Discharged,Yes,1,3
+P00468,Ava Smith,48,Female,AB-,2023-04-24,2023-05-21,Pediatrics,Dr. Sarah Chen,Infection,37955.51,Medicaid,75.91,27,Emergency,Deceased,No,5,12
+P00469,Michael Jones,13,Male,O-,2023-06-07,2023-06-10,Orthopedics,Dr. James Miller,Joint Replacement,7980.71,Corporate Insurance,68.17,3,Routine Checkup,Transferred,Yes,4,12
+P00470,William Garcia,31,Female,AB-,2023-08-26,2023-09-01,Neurology,Dr. Lisa Patel,Stroke,5148.79,Medicare,89.01,6,Routine Checkup,Deceased,Yes,4,10
+P00471,Ava Smith,10,Male,B-,2023-05-27,2023-05-29,Emergency,Dr. Michael Rodriguez,Accident,4497.21,Corporate Insurance,77.16,2,Routine Checkup,Transferred,Yes,5,13
+P00472,Isabella Smith,53,Female,AB+,2024-06-08,2024-06-22,Emergency,Dr. Michael Rodriguez,Trauma,32623.51,Self-Pay,0.00,14,Emergency,Deceased,No,5,1
+P00473,Isabella Wilson,9,Female,AB-,2024-12-11,2025-01-01,General Medicine,Dr. Lisa Patel,Gastritis,61475.45,Private Insurance,86.11,21,Routine Checkup,Discharged,Yes,1,14
+P00474,Michael Johnson,31,Female,B+,2023-09-21,2023-10-03,General Medicine,Dr. Lisa Patel,Pneumonia,12451.16,Self-Pay,0.00,12,Emergency,Discharged,Yes,3,7
+P00475,Robert Martinez,65,Female,AB+,2023-07-11,2023-07-28,General Medicine,Dr. Lisa Patel,Pneumonia,27331.48,Medicare,82.83,17,Emergency,Discharged,No,5,8
+P00476,Isabella Martinez,16,Male,O+,2024-09-08,2024-10-04,Cardiology,Dr. Robert Kumar,Arrhythmia,22934.43,Corporate Insurance,64.65,26,Urgent,Admitted,Yes,8,6
+P00477,James Martinez,77,Male,AB+,2023-09-07,2023-09-23,Emergency,Dr. Lisa Patel,Trauma,23660.54,Private Insurance,84.76,16,Urgent,Transferred,Yes,3,2
+P00478,William Brown,72,Male,O-,2023-07-22,2023-08-21,Orthopedics,Dr. Lisa Patel,Sports Injury,35700.56,Private Insurance,78.97,30,Emergency,Deceased,Yes,6,15
+P00479,Robert Miller,77,Male,A-,2023-05-01,2023-05-05,Neurology,Dr. Emily Thompson,Epilepsy,3364.95,Self-Pay,0.00,4,Urgent,Deceased,Yes,5,2
+P00480,Michael Garcia,46,Male,AB+,2023-08-10,2023-08-16,Emergency,Dr. Lisa Patel,Accident,6019.02,Corporate Insurance,87.86,6,Urgent,Transferred,Yes,5,2
+P00481,Robert Jones,16,Male,O-,2023-03-25,2023-04-07,Emergency,Dr. James Miller,Trauma,29345.77,Self-Pay,0.00,13,Emergency,Discharged,No,5,5
+P00482,Ava Johnson,73,Male,AB-,2024-11-03,2024-11-11,Emergency,Dr. Sarah Chen,Burns,15454.11,Corporate Insurance,67.29,8,Urgent,Transferred,Yes,6,11
+P00483,Ava Williams,52,Female,B-,2024-05-15,2024-05-28,Orthopedics,Dr. Michael Rodriguez,Sports Injury,37556.19,Medicaid,80.48,13,Elective,Admitted,Yes,6,2
+P00484,Michael Jones,16,Female,A-,2024-12-07,2024-12-12,General Medicine,Dr. Lisa Patel,Gastritis,3407.61,Medicare,83.82,5,Emergency,Transferred,No,3,10
+P00485,Olivia Wilson,29,Female,A-,2023-10-05,2023-10-24,Emergency,Dr. Robert Kumar,Trauma,56811.83,Self-Pay,0.00,19,Emergency,Deceased,Yes,4,6
+P00486,Ava Garcia,44,Female,B-,2024-08-03,2024-08-20,General Medicine,Dr. Robert Kumar,Diabetes,27531.69,Self-Pay,0.00,17,Urgent,Discharged,No,2,15
+P00487,Olivia Williams,67,Male,AB-,2023-07-12,2023-07-15,Emergency,Dr. Robert Kumar,Accident,6882.29,Private Insurance,76.72,3,Emergency,Discharged,Yes,7,3
+P00488,Ava Johnson,69,Female,B+,2023-04-14,2023-04-15,General Medicine,Dr. Sarah Chen,Gastritis,1069.36,Self-Pay,0.00,1,Elective,Admitted,Yes,2,12
+P00489,Michael Smith,16,Female,O-,2023-08-23,2023-09-02,Emergency,Dr. Lisa Patel,Poisoning,29223.46,Self-Pay,0.00,10,Elective,Discharged,No,8,9
+P00490,William Garcia,43,Male,A-,2024-10-14,2024-11-09,Cardiology,Dr. James Miller,Arrhythmia,45470.36,Self-Pay,0.00,26,Routine Checkup,Transferred,No,1,14
+P00491,Sophia Williams,60,Female,A-,2023-02-25,2023-03-03,Orthopedics,Dr. Lisa Patel,Sports Injury,5073.08,Private Insurance,67.71,6,Elective,Admitted,Yes,8,1
+P00492,Robert Davis,20,Male,AB+,2024-04-02,2024-04-27,Orthopedics,Dr. James Miller,Arthritis,35778.77,Medicare,77.63,25,Routine Checkup,Admitted,No,1,12
+P00493,Michael Jones,14,Male,AB+,2024-09-10,2024-09-30,Cardiology,Dr. Lisa Patel,Heart Failure,47029.42,Self-Pay,0.00,20,Emergency,Left AMA,Yes,8,10
+P00494,John Davis,24,Male,O-,2024-09-12,2024-09-25,Pediatrics,Dr. Michael Rodriguez,Fever,16598.37,Medicaid,70.04,13,Elective,Left AMA,Yes,4,15
+P00495,Michael Wilson,55,Female,B-,2023-11-01,2023-11-11,Cardiology,Dr. James Miller,Heart Failure,16748.97,Corporate Insurance,66.33,10,Emergency,Deceased,Yes,6,9
+P00496,Robert Miller,25,Male,B+,2023-07-21,2023-08-18,Orthopedics,Dr. Robert Kumar,Joint Replacement,85822.21,Corporate Insurance,74.84,28,Emergency,Deceased,Yes,4,1
+P00497,Isabella Jones,66,Male,O-,2024-01-30,2024-02-05,General Medicine,Dr. Michael Rodriguez,Pneumonia,15496.13,Corporate Insurance,74.53,6,Emergency,Admitted,Yes,3,12
+P00498,Ava Smith,51,Male,O-,2023-04-18,2023-04-26,Neurology,Dr. James Miller,Epilepsy,16203.29,Medicare,77.17,8,Routine Checkup,Left AMA,Yes,6,9
+P00499,Sophia Jones,39,Male,AB+,2023-03-14,2023-03-25,Cardiology,Dr. James Miller,Heart Attack,21942.38,Self-Pay,0.00,11,Routine Checkup,Discharged,Yes,4,8
+P00500,Ava Williams,24,Female,B-,2024-09-10,2024-10-03,Emergency,Dr. Lisa Patel,Trauma,22743.65,Corporate Insurance,73.01,23,Elective,Left AMA,Yes,1,6
+P00501,Emma Jones,38,Male,A-,2024-05-04,2024-06-01,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,42529.23,Self-Pay,0.00,28,Urgent,Deceased,No,3,13
+P00502,John Jones,47,Male,O-,2023-04-18,2023-04-26,Cardiology,Dr. Lisa Patel,Arrhythmia,14539.85,Medicare,80.68,8,Elective,Transferred,Yes,6,10
+P00503,Emma Williams,32,Female,O-,2023-10-30,2023-11-28,Pediatrics,Dr. Michael Rodriguez,Infection,26036.29,Medicaid,81.71,29,Elective,Transferred,Yes,3,12
+P00504,William Martinez,54,Male,B+,2023-11-07,2023-12-01,Neurology,Dr. Michael Rodriguez,Stroke,69806.45,Medicaid,75.59,24,Emergency,Discharged,Yes,4,3
+P00505,Olivia Jones,42,Male,O-,2024-07-04,2024-07-21,General Medicine,Dr. Emily Thompson,Gastritis,15256.63,Medicare,85.11,17,Emergency,Discharged,No,3,1
+P00506,Olivia Johnson,55,Male,AB-,2024-07-07,2024-08-06,Orthopedics,Dr. Lisa Patel,Sports Injury,36046.27,Self-Pay,0.00,30,Emergency,Left AMA,No,5,12
+P00507,Olivia Johnson,2,Female,O-,2024-12-02,2024-12-12,Emergency,Dr. James Miller,Poisoning,13789.77,Self-Pay,0.00,10,Elective,Left AMA,No,1,5
+P00508,Sophia Wilson,40,Female,B+,2024-05-04,2024-05-19,Emergency,Dr. Lisa Patel,Poisoning,7176.91,Medicaid,86.25,15,Urgent,Admitted,Yes,2,6
+P00509,Michael Davis,7,Male,O+,2023-05-12,2023-05-20,Orthopedics,Dr. Robert Kumar,Arthritis,22427.41,Private Insurance,88.50,8,Elective,Discharged,Yes,8,1
+P00510,John Miller,76,Female,AB+,2023-12-30,2024-01-25,Neurology,Dr. Lisa Patel,Parkinsons,42463.18,Self-Pay,0.00,26,Urgent,Discharged,Yes,8,13
+P00511,John Garcia,30,Male,O+,2023-10-11,2023-10-21,Pediatrics,Dr. Michael Rodriguez,Asthma,17826.03,Self-Pay,0.00,10,Elective,Deceased,No,5,10
+P00512,Robert Smith,60,Male,AB+,2024-05-07,2024-05-17,Neurology,Dr. Sarah Chen,Stroke,21970.38,Medicare,78.81,10,Emergency,Transferred,Yes,3,2
+P00513,Sophia Johnson,39,Male,O+,2023-03-18,2023-04-11,Orthopedics,Dr. James Miller,Joint Replacement,16808.51,Medicare,70.41,24,Emergency,Discharged,No,3,10
+P00514,Michael Garcia,44,Female,B-,2024-01-12,2024-02-07,General Medicine,Dr. Sarah Chen,Gastritis,42909.29,Self-Pay,0.00,26,Routine Checkup,Left AMA,No,1,12
+P00515,Ava Miller,5,Female,AB-,2024-11-26,2024-12-12,Pediatrics,Dr. James Miller,Growth Issues,18379.20,Medicare,85.36,16,Emergency,Deceased,Yes,6,1
+P00516,Ava Johnson,48,Female,O+,2024-07-02,2024-07-12,Cardiology,Dr. Lisa Patel,Angina,23526.96,Medicaid,71.08,10,Routine Checkup,Admitted,No,1,13
+P00517,William Wilson,48,Female,B+,2024-07-25,2024-08-07,Emergency,Dr. Lisa Patel,Accident,14801.25,Medicaid,77.42,13,Emergency,Admitted,No,3,3
+P00518,Ava Miller,42,Female,B-,2023-06-10,2023-06-30,General Medicine,Dr. Robert Kumar,Hypertension,11074.55,Medicare,70.23,20,Routine Checkup,Left AMA,No,6,1
+P00519,James Martinez,70,Female,B+,2024-03-06,2024-03-13,General Medicine,Dr. Emily Thompson,Pneumonia,23712.35,Corporate Insurance,68.68,7,Elective,Transferred,Yes,6,11
+P00520,John Martinez,68,Female,O-,2023-05-06,2023-05-25,Cardiology,Dr. Emily Thompson,Heart Failure,22087.34,Corporate Insurance,65.68,19,Urgent,Discharged,Yes,5,7
+P00521,Ava Wilson,17,Male,O-,2024-10-28,2024-10-30,Emergency,Dr. Michael Rodriguez,Trauma,4330.96,Private Insurance,73.44,2,Elective,Transferred,Yes,5,10
+P00522,Olivia Garcia,44,Male,B-,2024-07-19,2024-08-03,Cardiology,Dr. Sarah Chen,Heart Failure,9152.24,Corporate Insurance,62.57,15,Elective,Left AMA,Yes,7,6
+P00523,Ava Jones,77,Male,B+,2024-11-09,2024-11-23,Emergency,Dr. Lisa Patel,Burns,26196.30,Private Insurance,62.51,14,Routine Checkup,Transferred,No,5,8
+P00524,Michael Jones,3,Male,A+,2024-11-11,2024-11-29,Pediatrics,Dr. Lisa Patel,Fever,7244.07,Medicare,85.50,18,Urgent,Deceased,Yes,2,4
+P00525,John Martinez,19,Male,AB-,2024-07-09,2024-07-17,Neurology,Dr. Sarah Chen,Stroke,17267.47,Medicaid,88.91,8,Routine Checkup,Discharged,Yes,8,10
+P00526,Olivia Garcia,68,Male,AB-,2023-11-05,2023-11-07,Pediatrics,Dr. James Miller,Asthma,4424.42,Medicaid,73.79,2,Emergency,Left AMA,Yes,8,15
+P00527,Ava Jones,7,Female,A-,2024-06-27,2024-07-10,General Medicine,Dr. Emily Thompson,Gastritis,26547.42,Self-Pay,0.00,13,Routine Checkup,Admitted,Yes,6,1
+P00528,James Miller,12,Female,AB-,2023-06-07,2023-06-20,Emergency,Dr. Sarah Chen,Burns,21214.54,Private Insurance,67.68,13,Elective,Transferred,No,7,13
+P00529,John Williams,21,Female,A+,2024-10-20,2024-11-14,Pediatrics,Dr. Michael Rodriguez,Growth Issues,81701.15,Corporate Insurance,84.40,25,Routine Checkup,Discharged,No,3,6
+P00530,Michael Johnson,2,Male,AB-,2023-01-26,2023-02-24,General Medicine,Dr. Robert Kumar,Pneumonia,87043.89,Medicaid,80.16,29,Urgent,Transferred,Yes,6,8
+P00531,John Garcia,53,Female,A-,2023-07-17,2023-08-02,General Medicine,Dr. Emily Thompson,Hypertension,27364.88,Medicare,84.79,16,Emergency,Discharged,No,7,14
+P00532,Isabella Brown,67,Male,A+,2024-09-26,2024-10-09,Orthopedics,Dr. Michael Rodriguez,Sports Injury,7278.47,Medicare,75.68,13,Routine Checkup,Discharged,Yes,1,13
+P00533,John Brown,19,Female,AB-,2024-04-20,2024-05-02,Neurology,Dr. Lisa Patel,Epilepsy,9994.85,Self-Pay,0.00,12,Emergency,Left AMA,Yes,1,4
+P00534,James Miller,74,Female,O+,2023-09-10,2023-10-08,Emergency,Dr. James Miller,Burns,58779.18,Medicaid,88.76,28,Elective,Left AMA,No,8,11
+P00535,John Garcia,47,Female,O+,2023-03-14,2023-03-21,Cardiology,Dr. Emily Thompson,Heart Attack,15584.66,Private Insurance,62.49,7,Elective,Admitted,Yes,1,3
+P00536,Ava Garcia,54,Female,B-,2024-06-13,2024-06-27,Neurology,Dr. James Miller,Migraine,38694.12,Self-Pay,0.00,14,Emergency,Discharged,Yes,7,2
+P00537,John Johnson,67,Female,O-,2024-04-29,2024-05-05,Cardiology,Dr. Michael Rodriguez,Arrhythmia,20355.11,Self-Pay,0.00,6,Elective,Left AMA,Yes,7,10
+P00538,Robert Williams,15,Female,B+,2024-11-26,2024-12-01,General Medicine,Dr. Emily Thompson,Diabetes,6272.40,Corporate Insurance,67.90,5,Urgent,Discharged,No,3,8
+P00539,Isabella Smith,77,Male,B-,2024-08-12,2024-08-28,Pediatrics,Dr. Michael Rodriguez,Asthma,36048.76,Self-Pay,0.00,16,Emergency,Deceased,No,2,6
+P00540,James Brown,31,Female,B-,2023-05-13,2023-06-02,Cardiology,Dr. James Miller,Heart Failure,47871.36,Private Insurance,78.77,20,Emergency,Discharged,Yes,1,7
+P00541,Isabella Johnson,39,Male,A-,2024-05-27,2024-06-09,Neurology,Dr. Michael Rodriguez,Parkinsons,19026.06,Self-Pay,0.00,13,Elective,Deceased,Yes,5,14
+P00542,Robert Smith,7,Female,A+,2023-03-09,2023-03-14,General Medicine,Dr. Lisa Patel,Gastritis,16944.09,Medicaid,83.57,5,Elective,Left AMA,No,7,1
+P00543,Ava Wilson,59,Female,O-,2024-07-19,2024-08-06,Neurology,Dr. Sarah Chen,Parkinsons,20104.56,Private Insurance,65.13,18,Routine Checkup,Transferred,Yes,7,13
+P00544,Olivia Williams,50,Female,AB-,2024-01-15,2024-02-09,Pediatrics,Dr. Michael Rodriguez,Growth Issues,84581.73,Medicare,72.65,25,Routine Checkup,Discharged,No,1,6
+P00545,Robert Williams,35,Male,A+,2023-05-16,2023-06-14,General Medicine,Dr. Robert Kumar,Hypertension,89124.61,Self-Pay,0.00,29,Elective,Deceased,No,8,14
+P00546,John Brown,77,Female,AB-,2023-06-06,2023-06-24,Neurology,Dr. James Miller,Stroke,10134.48,Self-Pay,0.00,18,Routine Checkup,Admitted,Yes,8,1
+P00547,Olivia Smith,80,Female,A-,2023-03-10,2023-03-11,Pediatrics,Dr. Sarah Chen,Fever,2066.44,Private Insurance,81.57,1,Emergency,Admitted,Yes,2,4
+P00548,Olivia Johnson,76,Female,O-,2023-08-22,2023-09-16,Orthopedics,Dr. James Miller,Joint Replacement,75505.36,Private Insurance,63.24,25,Routine Checkup,Discharged,Yes,3,13
+P00549,William Garcia,29,Male,O+,2023-12-06,2023-12-21,Neurology,Dr. Robert Kumar,Parkinsons,27457.40,Medicare,75.45,15,Routine Checkup,Left AMA,Yes,6,2
+P00550,Isabella Brown,22,Male,B+,2024-07-24,2024-08-21,General Medicine,Dr. Robert Kumar,Pneumonia,19572.05,Corporate Insurance,67.16,28,Urgent,Admitted,Yes,8,14
+P00551,Isabella Miller,60,Female,AB-,2023-11-07,2023-12-06,Emergency,Dr. Michael Rodriguez,Burns,32320.21,Medicaid,86.40,29,Urgent,Deceased,No,2,9
+P00552,Sophia Garcia,48,Female,B+,2024-10-25,2024-11-11,General Medicine,Dr. Sarah Chen,Diabetes,8278.06,Self-Pay,0.00,17,Routine Checkup,Left AMA,Yes,6,5
+P00553,Ava Davis,16,Female,B-,2024-10-21,2024-10-30,Orthopedics,Dr. James Miller,Sports Injury,8191.49,Self-Pay,0.00,9,Emergency,Left AMA,No,8,14
+P00554,Robert Johnson,2,Female,A-,2024-07-12,2024-07-13,Pediatrics,Dr. Sarah Chen,Asthma,2045.89,Medicaid,85.85,1,Elective,Left AMA,Yes,6,4
+P00555,John Williams,33,Male,A-,2024-06-06,2024-07-01,General Medicine,Dr. Lisa Patel,Pneumonia,41299.13,Medicare,70.16,25,Emergency,Admitted,Yes,5,11
+P00556,Michael Miller,14,Female,B-,2023-03-12,2023-04-08,Orthopedics,Dr. Emily Thompson,Sports Injury,72040.85,Medicare,87.26,27,Routine Checkup,Discharged,Yes,8,13
+P00557,James Johnson,76,Female,B-,2024-07-11,2024-07-12,General Medicine,Dr. Emily Thompson,Gastritis,1444.73,Medicare,86.77,1,Elective,Admitted,Yes,4,2
+P00558,James Jones,36,Female,B-,2023-07-22,2023-07-26,Neurology,Dr. James Miller,Stroke,4457.44,Medicaid,71.05,4,Elective,Deceased,Yes,6,11
+P00559,Michael Miller,15,Male,B-,2024-02-24,2024-03-14,Pediatrics,Dr. Robert Kumar,Asthma,41511.86,Medicaid,78.44,19,Elective,Left AMA,Yes,2,12
+P00560,Emma Miller,54,Male,AB-,2024-03-13,2024-03-28,Emergency,Dr. Robert Kumar,Poisoning,48562.09,Medicaid,87.00,15,Elective,Admitted,No,8,14
+P00561,Ava Williams,38,Female,O-,2024-07-10,2024-07-23,Orthopedics,Dr. James Miller,Sports Injury,8537.20,Medicare,86.12,13,Urgent,Admitted,No,3,11
+P00562,Robert Garcia,45,Female,AB+,2023-01-21,2023-02-06,General Medicine,Dr. James Miller,Diabetes,27571.96,Corporate Insurance,61.52,16,Routine Checkup,Discharged,Yes,5,6
+P00563,Ava Wilson,45,Male,A+,2024-09-02,2024-09-11,Cardiology,Dr. Robert Kumar,Heart Failure,27512.24,Corporate Insurance,84.02,9,Elective,Deceased,Yes,2,11
+P00564,Sophia Garcia,31,Female,AB+,2023-05-22,2023-05-29,Orthopedics,Dr. Robert Kumar,Fracture,13879.79,Corporate Insurance,81.25,7,Elective,Transferred,Yes,4,10
+P00565,Sophia Jones,46,Female,B+,2024-02-22,2024-03-02,Pediatrics,Dr. Michael Rodriguez,Infection,6415.38,Private Insurance,63.72,9,Urgent,Left AMA,No,5,2
+P00566,William Smith,35,Female,A-,2023-02-26,2023-03-28,Neurology,Dr. James Miller,Epilepsy,97602.89,Corporate Insurance,70.22,30,Urgent,Left AMA,No,5,14
+P00567,James Smith,67,Female,A+,2023-04-03,2023-04-19,Emergency,Dr. Michael Rodriguez,Accident,36726.38,Medicaid,79.43,16,Routine Checkup,Admitted,Yes,7,4
+P00568,Emma Jones,9,Male,AB-,2024-01-31,2024-02-20,Emergency,Dr. Robert Kumar,Trauma,9667.11,Private Insurance,72.37,20,Emergency,Discharged,Yes,8,2
+P00569,William Johnson,15,Female,A-,2023-09-09,2023-10-08,Pediatrics,Dr. Robert Kumar,Growth Issues,30633.69,Corporate Insurance,71.16,29,Routine Checkup,Discharged,No,3,9
+P00570,Olivia Jones,67,Female,AB+,2024-07-17,2024-07-25,Emergency,Dr. Sarah Chen,Burns,10885.25,Medicaid,88.11,8,Elective,Transferred,No,3,13
+P00571,Robert Davis,72,Male,B+,2024-12-10,2024-12-25,General Medicine,Dr. James Miller,Pneumonia,31760.91,Medicare,83.13,15,Urgent,Transferred,Yes,7,14
+P00572,Emma Garcia,9,Female,O+,2024-06-02,2024-06-05,Orthopedics,Dr. Sarah Chen,Joint Replacement,7277.30,Private Insurance,87.00,3,Emergency,Transferred,Yes,8,11
+P00573,Michael Williams,12,Female,O-,2024-12-29,2025-01-26,Neurology,Dr. Robert Kumar,Migraine,87497.49,Medicare,88.78,28,Elective,Admitted,No,5,10
+P00574,Ava Jones,5,Male,AB+,2023-11-19,2023-12-10,Orthopedics,Dr. James Miller,Joint Replacement,60015.67,Self-Pay,0.00,21,Emergency,Admitted,No,7,10
+P00575,Sophia Wilson,40,Male,A-,2023-12-22,2024-01-17,Pediatrics,Dr. James Miller,Fever,27634.17,Private Insurance,77.49,26,Urgent,Transferred,Yes,2,1
+P00576,Robert Miller,28,Female,B-,2024-08-01,2024-08-27,Pediatrics,Dr. Michael Rodriguez,Fever,21170.97,Private Insurance,78.32,26,Routine Checkup,Transferred,Yes,1,12
+P00577,Emma Miller,55,Male,O-,2024-10-01,2024-10-03,General Medicine,Dr. Robert Kumar,Hypertension,5152.47,Medicare,81.01,2,Emergency,Transferred,No,3,3
+P00578,Isabella Brown,37,Male,B+,2024-11-25,2024-12-19,Neurology,Dr. Robert Kumar,Epilepsy,20430.50,Corporate Insurance,75.29,24,Routine Checkup,Discharged,No,3,14
+P00579,Michael Wilson,66,Male,O-,2024-09-27,2024-10-19,Pediatrics,Dr. Sarah Chen,Fever,15707.50,Medicare,82.74,22,Elective,Left AMA,No,5,2
+P00580,William Martinez,19,Female,O-,2024-04-24,2024-04-27,Cardiology,Dr. Michael Rodriguez,Heart Attack,9932.42,Corporate Insurance,87.20,3,Urgent,Admitted,No,2,1
+P00581,Ava Smith,19,Male,A-,2023-10-02,2023-10-27,Neurology,Dr. James Miller,Epilepsy,42817.58,Corporate Insurance,89.77,25,Emergency,Discharged,Yes,5,3
+P00582,Olivia Smith,60,Male,A+,2023-10-31,2023-11-17,General Medicine,Dr. Robert Kumar,Diabetes,54387.65,Corporate Insurance,64.33,17,Routine Checkup,Deceased,Yes,2,14
+P00583,Sophia Johnson,30,Female,B-,2023-08-09,2023-09-02,Cardiology,Dr. Michael Rodriguez,Angina,19996.24,Corporate Insurance,61.36,24,Emergency,Admitted,No,3,10
+P00584,William Jones,21,Female,A-,2024-06-14,2024-06-19,General Medicine,Dr. James Miller,Gastritis,7722.34,Private Insurance,84.82,5,Urgent,Transferred,Yes,2,9
+P00585,Sophia Davis,79,Male,AB+,2024-01-10,2024-01-29,Pediatrics,Dr. Sarah Chen,Growth Issues,53992.77,Medicaid,75.32,19,Emergency,Admitted,No,1,11
+P00586,Michael Smith,78,Female,A-,2023-11-19,2023-12-15,Pediatrics,Dr. Emily Thompson,Infection,37103.83,Self-Pay,0.00,26,Emergency,Deceased,Yes,4,15
+P00587,Emma Wilson,25,Male,A+,2024-02-01,2024-02-24,Cardiology,Dr. James Miller,Heart Attack,64611.40,Corporate Insurance,73.52,23,Elective,Discharged,No,2,4
+P00588,Olivia Davis,7,Female,AB+,2024-07-31,2024-08-20,Neurology,Dr. Sarah Chen,Parkinsons,14749.37,Private Insurance,70.32,20,Emergency,Left AMA,No,3,2
+P00589,Robert Garcia,55,Female,A+,2023-01-23,2023-01-26,General Medicine,Dr. Lisa Patel,Gastritis,4539.40,Private Insurance,81.69,3,Routine Checkup,Admitted,Yes,8,7
+P00590,Ava Jones,18,Female,A+,2024-11-05,2024-11-22,Emergency,Dr. Michael Rodriguez,Accident,11564.18,Corporate Insurance,67.67,17,Routine Checkup,Discharged,Yes,6,4
+P00591,Isabella Garcia,4,Male,AB-,2024-06-14,2024-06-26,Pediatrics,Dr. James Miller,Growth Issues,12805.21,Medicaid,78.73,12,Elective,Deceased,No,8,11
+P00592,James Martinez,58,Male,B-,2024-11-03,2024-11-22,Pediatrics,Dr. Emily Thompson,Fever,36927.29,Corporate Insurance,63.40,19,Elective,Discharged,Yes,6,10
+P00593,James Williams,70,Male,AB-,2024-09-07,2024-09-14,Orthopedics,Dr. Sarah Chen,Sports Injury,10311.71,Medicare,89.05,7,Emergency,Left AMA,No,7,4
+P00594,Michael Martinez,4,Male,O+,2024-08-06,2024-08-22,Cardiology,Dr. Emily Thompson,Heart Failure,16141.56,Medicaid,81.50,16,Routine Checkup,Admitted,Yes,8,6
+P00595,William Williams,39,Female,A+,2023-12-20,2024-01-11,General Medicine,Dr. James Miller,Pneumonia,36504.72,Corporate Insurance,62.28,22,Emergency,Discharged,No,1,15
+P00596,John Smith,71,Male,A+,2024-10-23,2024-11-12,General Medicine,Dr. Emily Thompson,Diabetes,19266.08,Medicaid,88.45,20,Urgent,Discharged,Yes,6,4
+P00597,Emma Johnson,70,Male,AB+,2023-06-17,2023-06-25,Emergency,Dr. James Miller,Poisoning,10232.96,Corporate Insurance,63.18,8,Elective,Deceased,No,3,3
+P00598,John Jones,44,Male,A+,2023-02-24,2023-03-03,Orthopedics,Dr. James Miller,Joint Replacement,11632.32,Self-Pay,0.00,7,Elective,Discharged,No,7,11
+P00599,James Jones,23,Female,A-,2023-03-04,2023-04-02,Pediatrics,Dr. James Miller,Infection,58917.78,Corporate Insurance,80.02,29,Urgent,Admitted,No,5,12
+P00600,Isabella Jones,30,Male,B+,2023-04-03,2023-04-14,Orthopedics,Dr. Lisa Patel,Fracture,12210.85,Self-Pay,0.00,11,Routine Checkup,Admitted,Yes,3,7
+P00601,Robert Garcia,74,Female,AB-,2024-02-15,2024-03-03,Orthopedics,Dr. Sarah Chen,Arthritis,28588.18,Private Insurance,74.61,17,Elective,Admitted,Yes,4,12
+P00602,Michael Garcia,47,Male,A+,2024-04-22,2024-05-08,Pediatrics,Dr. Lisa Patel,Fever,8204.95,Medicaid,84.28,16,Urgent,Transferred,No,2,6
+P00603,Michael Smith,57,Male,AB-,2023-06-15,2023-06-30,Pediatrics,Dr. Robert Kumar,Growth Issues,29250.79,Corporate Insurance,63.46,15,Urgent,Left AMA,Yes,7,15
+P00604,John Garcia,6,Female,O+,2024-11-07,2024-11-27,Emergency,Dr. Robert Kumar,Accident,41902.77,Medicare,85.27,20,Urgent,Admitted,Yes,4,10
+P00605,Emma Wilson,77,Male,AB-,2024-02-01,2024-02-23,Cardiology,Dr. Michael Rodriguez,Heart Failure,74735.10,Corporate Insurance,74.41,22,Urgent,Discharged,Yes,6,9
+P00606,Michael Garcia,28,Male,O+,2024-01-20,2024-01-23,Pediatrics,Dr. Lisa Patel,Growth Issues,4036.86,Corporate Insurance,82.53,3,Routine Checkup,Discharged,Yes,5,11
+P00607,James Brown,31,Female,B+,2024-12-12,2024-12-27,Pediatrics,Dr. Emily Thompson,Infection,7666.87,Private Insurance,82.94,15,Elective,Transferred,No,1,14
+P00608,Robert Miller,26,Female,AB+,2024-08-16,2024-08-26,Neurology,Dr. Lisa Patel,Parkinsons,17876.59,Private Insurance,88.98,10,Routine Checkup,Transferred,Yes,6,1
+P00609,Michael Miller,21,Female,O+,2023-11-27,2023-12-11,General Medicine,Dr. Emily Thompson,Hypertension,6258.53,Corporate Insurance,86.60,14,Emergency,Discharged,Yes,3,8
+P00610,William Smith,13,Female,A+,2023-05-29,2023-06-04,Emergency,Dr. Emily Thompson,Trauma,12594.06,Corporate Insurance,66.47,6,Emergency,Transferred,Yes,7,1
+P00611,Sophia Smith,80,Female,O-,2024-10-09,2024-10-13,General Medicine,Dr. Lisa Patel,Gastritis,6044.76,Private Insurance,82.25,4,Urgent,Admitted,No,3,3
+P00612,Michael Martinez,76,Female,B-,2023-07-19,2023-07-27,General Medicine,Dr. James Miller,Gastritis,18298.62,Corporate Insurance,77.23,8,Routine Checkup,Deceased,Yes,4,2
+P00613,Ava Williams,16,Male,AB-,2024-04-18,2024-04-23,Neurology,Dr. Michael Rodriguez,Epilepsy,10188.05,Medicaid,75.86,5,Emergency,Admitted,No,6,5
+P00614,William Johnson,2,Female,O-,2024-05-04,2024-05-24,Cardiology,Dr. Michael Rodriguez,Arrhythmia,60630.96,Medicare,79.08,20,Routine Checkup,Transferred,Yes,4,12
+P00615,James Garcia,57,Female,A+,2023-06-29,2023-07-17,Emergency,Dr. Sarah Chen,Trauma,28898.05,Medicaid,76.69,18,Emergency,Deceased,Yes,8,15
+P00616,William Johnson,36,Female,AB-,2024-12-17,2025-01-11,Orthopedics,Dr. James Miller,Joint Replacement,81653.71,Medicaid,78.49,25,Elective,Left AMA,Yes,2,5
+P00617,Emma Miller,76,Male,B-,2024-03-12,2024-03-27,Cardiology,Dr. Lisa Patel,Angina,17251.97,Self-Pay,0.00,15,Routine Checkup,Admitted,Yes,6,5
+P00618,John Brown,14,Male,AB-,2023-06-12,2023-07-01,Emergency,Dr. Lisa Patel,Trauma,39867.83,Medicare,83.07,19,Routine Checkup,Deceased,No,3,15
+P00619,William Miller,74,Male,A-,2024-09-28,2024-10-26,General Medicine,Dr. Michael Rodriguez,Hypertension,90617.94,Private Insurance,67.35,28,Urgent,Admitted,Yes,3,2
+P00620,Emma Garcia,80,Female,O-,2024-03-20,2024-04-09,Cardiology,Dr. James Miller,Angina,19251.60,Medicaid,83.40,20,Emergency,Deceased,Yes,4,11
+P00621,William Jones,58,Male,B+,2024-08-25,2024-08-28,Cardiology,Dr. Robert Kumar,Arrhythmia,1461.82,Medicare,83.29,3,Emergency,Transferred,No,7,4
+P00622,Emma Garcia,65,Male,O-,2023-02-28,2023-03-10,Neurology,Dr. James Miller,Epilepsy,31341.55,Corporate Insurance,66.03,10,Urgent,Transferred,No,7,12
+P00623,Sophia Wilson,52,Female,O+,2024-10-08,2024-10-19,General Medicine,Dr. Emily Thompson,Hypertension,33181.11,Medicare,84.35,11,Routine Checkup,Deceased,Yes,7,4
+P00624,Sophia Williams,59,Female,O+,2024-04-15,2024-04-17,Cardiology,Dr. James Miller,Heart Attack,5128.82,Medicaid,71.85,2,Routine Checkup,Transferred,Yes,1,4
+P00625,William Miller,71,Male,A-,2023-10-09,2023-10-29,Cardiology,Dr. Sarah Chen,Arrhythmia,11879.28,Corporate Insurance,66.79,20,Emergency,Transferred,Yes,5,6
+P00626,John Brown,73,Female,O+,2024-10-12,2024-10-13,General Medicine,Dr. Robert Kumar,Gastritis,1567.63,Medicaid,82.62,1,Routine Checkup,Transferred,Yes,3,9
+P00627,Ava Miller,42,Male,A+,2024-03-01,2024-03-26,Orthopedics,Dr. Emily Thompson,Sports Injury,25006.59,Medicaid,89.40,25,Routine Checkup,Left AMA,No,6,14
+P00628,William Martinez,9,Male,O+,2024-07-07,2024-07-27,General Medicine,Dr. Michael Rodriguez,Hypertension,11049.21,Private Insurance,80.54,20,Routine Checkup,Admitted,Yes,5,7
+P00629,Sophia Wilson,21,Male,B+,2023-06-14,2023-06-28,Emergency,Dr. Sarah Chen,Burns,30813.47,Self-Pay,0.00,14,Routine Checkup,Left AMA,No,1,8
+P00630,John Davis,18,Female,AB+,2023-10-03,2023-10-22,General Medicine,Dr. Michael Rodriguez,Hypertension,17254.30,Self-Pay,0.00,19,Routine Checkup,Deceased,Yes,5,10
+P00631,Isabella Davis,37,Female,A+,2024-12-30,2025-01-22,Neurology,Dr. James Miller,Migraine,33462.19,Corporate Insurance,81.49,23,Urgent,Admitted,No,2,15
+P00632,Robert Davis,58,Female,O+,2023-07-30,2023-08-21,Pediatrics,Dr. Sarah Chen,Infection,43118.05,Private Insurance,78.80,22,Elective,Discharged,No,1,7
+P00633,John Davis,18,Female,AB-,2023-05-24,2023-05-25,Emergency,Dr. Robert Kumar,Trauma,2076.22,Medicare,89.26,1,Routine Checkup,Admitted,Yes,4,9
+P00634,John Garcia,58,Female,O+,2024-05-15,2024-05-18,Pediatrics,Dr. Lisa Patel,Infection,5165.75,Private Insurance,86.39,3,Elective,Transferred,No,8,6
+P00635,Robert Williams,53,Male,AB+,2024-02-12,2024-03-09,Neurology,Dr. Emily Thompson,Stroke,20850.60,Corporate Insurance,80.48,26,Urgent,Admitted,No,1,5
+P00636,William Smith,61,Female,O+,2024-12-04,2024-12-30,Emergency,Dr. Michael Rodriguez,Trauma,52790.22,Self-Pay,0.00,26,Emergency,Left AMA,Yes,4,8
+P00637,Emma Williams,43,Male,AB-,2024-03-15,2024-03-29,Cardiology,Dr. Robert Kumar,Arrhythmia,38456.44,Corporate Insurance,64.02,14,Urgent,Admitted,Yes,6,12
+P00638,William Jones,25,Female,AB-,2024-03-20,2024-04-12,General Medicine,Dr. Michael Rodriguez,Diabetes,33197.67,Medicaid,79.84,23,Routine Checkup,Deceased,Yes,4,3
+P00639,Emma Davis,56,Male,AB+,2023-10-15,2023-11-14,Orthopedics,Dr. James Miller,Joint Replacement,20925.29,Medicare,88.43,30,Elective,Discharged,Yes,1,9
+P00640,Olivia Miller,76,Male,AB-,2024-07-23,2024-08-04,Orthopedics,Dr. Lisa Patel,Fracture,5821.23,Medicare,85.67,12,Emergency,Discharged,Yes,8,7
+P00641,Emma Brown,9,Female,B+,2024-07-09,2024-07-18,Emergency,Dr. Lisa Patel,Burns,28022.16,Corporate Insurance,60.01,9,Elective,Admitted,Yes,4,4
+P00642,John Miller,69,Female,B-,2023-06-05,2023-07-01,Orthopedics,Dr. Sarah Chen,Sports Injury,17811.53,Medicaid,88.19,26,Urgent,Admitted,Yes,5,11
+P00643,Olivia Wilson,29,Female,O-,2024-09-13,2024-09-25,Orthopedics,Dr. Emily Thompson,Arthritis,30915.02,Self-Pay,0.00,12,Elective,Left AMA,Yes,3,9
+P00644,William Miller,2,Male,O+,2024-11-06,2024-11-13,Emergency,Dr. Emily Thompson,Burns,23388.97,Self-Pay,0.00,7,Elective,Left AMA,No,5,12
+P00645,Olivia Williams,35,Male,AB+,2024-09-09,2024-09-11,Emergency,Dr. James Miller,Poisoning,4465.64,Corporate Insurance,85.78,2,Elective,Discharged,No,6,15
+P00646,James Davis,42,Female,B-,2023-03-04,2023-04-03,Emergency,Dr. Robert Kumar,Poisoning,84622.82,Medicare,82.11,30,Emergency,Admitted,Yes,1,5
+P00647,John Garcia,80,Male,O-,2023-06-03,2023-06-04,Neurology,Dr. Michael Rodriguez,Stroke,3274.82,Self-Pay,0.00,1,Urgent,Transferred,No,5,7
+P00648,Isabella Smith,16,Male,A+,2024-09-12,2024-09-22,Cardiology,Dr. Lisa Patel,Arrhythmia,25239.18,Medicaid,83.83,10,Elective,Deceased,Yes,8,6
+P00649,Robert Smith,65,Male,O-,2024-06-05,2024-06-29,General Medicine,Dr. Emily Thompson,Diabetes,19793.92,Corporate Insurance,69.13,24,Routine Checkup,Transferred,No,4,10
+P00650,William Brown,57,Male,AB+,2024-05-31,2024-06-13,Emergency,Dr. James Miller,Burns,38599.01,Medicaid,80.38,13,Elective,Admitted,Yes,7,15
+P00651,William Miller,34,Male,O+,2023-04-08,2023-05-08,Emergency,Dr. James Miller,Burns,92580.45,Private Insurance,68.21,30,Routine Checkup,Discharged,Yes,2,1
+P00652,William Johnson,12,Female,AB+,2024-01-28,2024-02-12,Neurology,Dr. Sarah Chen,Stroke,45807.42,Private Insurance,89.41,15,Elective,Deceased,Yes,5,7
+P00653,Olivia Garcia,29,Female,B-,2023-11-05,2023-11-23,Cardiology,Dr. Michael Rodriguez,Angina,58560.61,Medicaid,86.65,18,Elective,Transferred,Yes,3,9
+P00654,Michael Smith,11,Male,AB-,2023-04-03,2023-04-16,Neurology,Dr. Sarah Chen,Stroke,22634.84,Private Insurance,69.93,13,Emergency,Left AMA,Yes,4,10
+P00655,Michael Miller,1,Female,A+,2023-04-01,2023-04-27,Orthopedics,Dr. Robert Kumar,Fracture,50208.50,Corporate Insurance,71.78,26,Emergency,Deceased,Yes,7,5
+P00656,William Brown,47,Female,AB-,2023-11-14,2023-12-10,Emergency,Dr. Robert Kumar,Trauma,59217.80,Medicaid,74.30,26,Elective,Discharged,Yes,5,1
+P00657,Olivia Williams,57,Female,AB-,2023-08-26,2023-09-11,Emergency,Dr. Emily Thompson,Poisoning,28540.69,Medicare,70.98,16,Routine Checkup,Admitted,Yes,8,3
+P00658,Ava Davis,68,Male,O-,2024-05-19,2024-06-06,Neurology,Dr. Robert Kumar,Stroke,54666.57,Self-Pay,0.00,18,Emergency,Left AMA,No,6,5
+P00659,Ava Smith,20,Female,B+,2023-05-11,2023-06-06,Orthopedics,Dr. Robert Kumar,Sports Injury,23707.48,Medicare,87.98,26,Urgent,Left AMA,Yes,2,7
+P00660,William Jones,62,Female,B-,2024-12-01,2024-12-06,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,5808.13,Private Insurance,65.65,5,Emergency,Admitted,Yes,6,2
+P00661,Sophia Jones,11,Female,AB+,2024-12-05,2024-12-26,Pediatrics,Dr. Lisa Patel,Fever,31241.53,Self-Pay,0.00,21,Emergency,Left AMA,No,5,15
+P00662,Sophia Jones,66,Male,AB+,2023-09-16,2023-09-25,Pediatrics,Dr. Lisa Patel,Asthma,4029.28,Private Insurance,66.90,9,Urgent,Discharged,Yes,6,10
+P00663,Michael Smith,22,Male,AB-,2024-01-02,2024-01-22,Orthopedics,Dr. Michael Rodriguez,Fracture,42580.62,Medicaid,72.01,20,Urgent,Deceased,Yes,2,8
+P00664,Michael Williams,33,Female,O+,2023-02-09,2023-02-11,Pediatrics,Dr. Michael Rodriguez,Growth Issues,5206.84,Private Insurance,68.83,2,Elective,Admitted,Yes,4,8
+P00665,Sophia Johnson,31,Male,AB-,2024-07-27,2024-08-03,Orthopedics,Dr. Robert Kumar,Fracture,3033.18,Medicaid,74.32,7,Routine Checkup,Deceased,Yes,3,5
+P00666,Olivia Brown,12,Female,AB-,2023-02-02,2023-02-17,Cardiology,Dr. Emily Thompson,Heart Attack,50690.14,Medicaid,82.78,15,Routine Checkup,Admitted,No,5,7
+P00667,Sophia Garcia,72,Female,B+,2024-03-13,2024-03-28,Cardiology,Dr. Michael Rodriguez,Arrhythmia,32401.31,Private Insurance,64.01,15,Elective,Deceased,Yes,5,8
+P00668,John Jones,20,Female,O+,2023-01-03,2023-01-05,Neurology,Dr. Lisa Patel,Parkinsons,2042.37,Medicaid,89.70,2,Elective,Transferred,No,6,6
+P00669,Ava Smith,67,Female,B-,2023-08-07,2023-08-28,Neurology,Dr. Michael Rodriguez,Migraine,35771.09,Private Insurance,74.97,21,Emergency,Admitted,Yes,1,9
+P00670,Ava Brown,50,Male,AB+,2023-07-15,2023-08-06,Neurology,Dr. James Miller,Parkinsons,26373.26,Corporate Insurance,68.23,22,Elective,Admitted,Yes,2,7
+P00671,Ava Garcia,75,Female,AB-,2024-03-13,2024-03-21,Emergency,Dr. Lisa Patel,Burns,11713.05,Self-Pay,0.00,8,Routine Checkup,Discharged,No,2,1
+P00672,Isabella Johnson,43,Male,B+,2024-04-24,2024-05-10,Neurology,Dr. Michael Rodriguez,Stroke,51199.76,Medicaid,89.50,16,Elective,Left AMA,Yes,3,14
+P00673,William Williams,27,Male,O-,2024-04-16,2024-05-01,Emergency,Dr. James Miller,Burns,9888.59,Private Insurance,84.43,15,Emergency,Left AMA,No,3,9
+P00674,William Smith,48,Female,B+,2023-09-29,2023-10-28,Cardiology,Dr. James Miller,Heart Failure,18500.18,Medicaid,77.38,29,Routine Checkup,Left AMA,No,2,2
+P00675,John Martinez,24,Female,B-,2023-09-12,2023-10-08,Cardiology,Dr. Michael Rodriguez,Angina,58439.60,Medicaid,73.24,26,Routine Checkup,Discharged,Yes,4,9
+P00676,William Garcia,28,Male,B-,2024-10-29,2024-11-07,Emergency,Dr. Sarah Chen,Trauma,24062.11,Medicare,77.02,9,Routine Checkup,Left AMA,Yes,8,8
+P00677,John Garcia,69,Female,A-,2023-05-09,2023-05-10,Orthopedics,Dr. Robert Kumar,Sports Injury,861.51,Private Insurance,72.86,1,Emergency,Transferred,Yes,8,10
+P00678,Isabella Garcia,62,Female,A-,2023-04-14,2023-05-03,Orthopedics,Dr. Sarah Chen,Arthritis,20166.28,Corporate Insurance,89.48,19,Elective,Transferred,Yes,2,11
+P00679,William Martinez,48,Female,AB+,2023-01-01,2023-01-04,Orthopedics,Dr. Robert Kumar,Joint Replacement,7557.17,Medicare,71.03,3,Emergency,Admitted,No,5,15
+P00680,William Martinez,27,Female,O+,2023-11-10,2023-11-19,General Medicine,Dr. Lisa Patel,Pneumonia,15842.47,Self-Pay,0.00,9,Elective,Discharged,No,5,12
+P00681,Sophia Smith,69,Female,O+,2023-06-17,2023-07-13,General Medicine,Dr. Michael Rodriguez,Hypertension,41650.47,Self-Pay,0.00,26,Elective,Transferred,Yes,3,12
+P00682,Sophia Garcia,38,Male,B+,2024-01-26,2024-02-06,Emergency,Dr. Robert Kumar,Accident,34852.05,Corporate Insurance,86.89,11,Elective,Discharged,No,6,10
+P00683,Emma Johnson,48,Male,B+,2023-07-01,2023-07-09,Orthopedics,Dr. Michael Rodriguez,Fracture,19381.95,Medicare,77.49,8,Urgent,Discharged,Yes,1,15
+P00684,Ava Johnson,69,Male,O+,2024-06-24,2024-07-04,Emergency,Dr. Robert Kumar,Accident,26005.14,Private Insurance,64.89,10,Emergency,Deceased,No,3,10
+P00685,Ava Miller,60,Female,O+,2023-02-17,2023-02-28,Pediatrics,Dr. James Miller,Infection,15857.90,Private Insurance,72.26,11,Emergency,Discharged,Yes,1,7
+P00686,William Wilson,65,Male,B-,2023-07-01,2023-07-20,Neurology,Dr. James Miller,Migraine,32517.01,Medicare,71.14,19,Emergency,Deceased,No,2,13
+P00687,William Davis,41,Male,O+,2023-04-18,2023-05-12,Neurology,Dr. Michael Rodriguez,Parkinsons,74314.92,Self-Pay,0.00,24,Emergency,Admitted,Yes,5,14
+P00688,Isabella Wilson,55,Male,B+,2024-07-11,2024-07-26,General Medicine,Dr. Sarah Chen,Diabetes,39687.24,Self-Pay,0.00,15,Elective,Deceased,Yes,1,8
+P00689,Sophia Miller,37,Male,O+,2023-08-05,2023-09-04,General Medicine,Dr. Robert Kumar,Pneumonia,89167.27,Private Insurance,76.12,30,Elective,Discharged,No,7,7
+P00690,Robert Wilson,5,Male,O+,2024-04-21,2024-04-30,Pediatrics,Dr. James Miller,Infection,18328.16,Self-Pay,0.00,9,Urgent,Left AMA,Yes,4,3
+P00691,John Smith,45,Female,B+,2023-02-07,2023-02-13,General Medicine,Dr. Sarah Chen,Gastritis,8402.49,Private Insurance,68.16,6,Routine Checkup,Left AMA,Yes,5,4
+P00692,James Smith,37,Male,AB-,2023-03-15,2023-03-20,Orthopedics,Dr. James Miller,Fracture,11044.69,Medicaid,84.05,5,Urgent,Transferred,Yes,4,7
+P00693,Ava Wilson,8,Female,A+,2023-05-06,2023-05-15,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,4567.85,Self-Pay,0.00,9,Urgent,Left AMA,No,1,9
+P00694,Robert Brown,39,Male,O-,2023-12-25,2024-01-08,Orthopedics,Dr. James Miller,Fracture,39195.07,Self-Pay,0.00,14,Urgent,Transferred,No,4,13
+P00695,James Brown,39,Female,B+,2023-05-25,2023-06-07,Cardiology,Dr. Lisa Patel,Heart Attack,34589.97,Self-Pay,0.00,13,Elective,Deceased,Yes,1,5
+P00696,James Miller,71,Male,A+,2024-06-15,2024-06-22,Emergency,Dr. Emily Thompson,Burns,19595.71,Self-Pay,0.00,7,Emergency,Admitted,No,7,15
+P00697,William Williams,3,Male,AB+,2024-12-02,2024-12-14,Cardiology,Dr. Emily Thompson,Heart Attack,29983.89,Corporate Insurance,67.87,12,Routine Checkup,Admitted,No,1,13
+P00698,Michael Davis,4,Female,AB+,2023-05-25,2023-06-12,Orthopedics,Dr. Sarah Chen,Joint Replacement,26289.05,Medicare,76.15,18,Emergency,Transferred,Yes,2,9
+P00699,William Davis,19,Female,AB+,2024-03-26,2024-04-23,Orthopedics,Dr. Sarah Chen,Joint Replacement,43505.39,Private Insurance,69.10,28,Elective,Transferred,Yes,1,14
+P00700,Michael Johnson,46,Male,AB+,2024-08-18,2024-09-15,Emergency,Dr. Michael Rodriguez,Trauma,22042.84,Private Insurance,81.59,28,Elective,Left AMA,No,2,15
+P00701,Sophia Martinez,40,Female,B+,2024-10-11,2024-10-31,Cardiology,Dr. Sarah Chen,Heart Failure,25828.70,Corporate Insurance,81.96,20,Routine Checkup,Left AMA,No,7,4
+P00702,Sophia Smith,34,Female,O-,2023-08-08,2023-08-23,Cardiology,Dr. James Miller,Heart Failure,24183.35,Medicaid,77.64,15,Urgent,Transferred,Yes,3,12
+P00703,James Jones,27,Female,AB-,2024-01-05,2024-01-10,Emergency,Dr. Robert Kumar,Poisoning,11000.14,Medicaid,78.27,5,Emergency,Admitted,No,8,12
+P00704,Olivia Wilson,23,Female,B+,2024-01-10,2024-01-15,Pediatrics,Dr. Lisa Patel,Fever,9371.19,Private Insurance,74.77,5,Emergency,Transferred,No,2,6
+P00705,Sophia Williams,41,Male,O-,2024-12-30,2025-01-11,Neurology,Dr. Sarah Chen,Migraine,20539.29,Corporate Insurance,63.11,12,Urgent,Discharged,Yes,4,14
+P00706,Isabella Smith,18,Male,O-,2024-12-06,2024-12-17,Orthopedics,Dr. Lisa Patel,Sports Injury,15034.47,Medicaid,79.91,11,Routine Checkup,Discharged,No,8,9
+P00707,Sophia Wilson,5,Female,AB+,2024-06-18,2024-06-20,Orthopedics,Dr. Robert Kumar,Arthritis,6788.76,Private Insurance,68.87,2,Urgent,Left AMA,Yes,4,9
+P00708,Ava Williams,33,Male,A+,2024-03-20,2024-03-30,Emergency,Dr. Robert Kumar,Poisoning,9574.20,Self-Pay,0.00,10,Routine Checkup,Transferred,No,1,10
+P00709,Sophia Garcia,68,Female,O+,2024-06-20,2024-06-23,Emergency,Dr. Lisa Patel,Poisoning,1795.83,Corporate Insurance,60.76,3,Routine Checkup,Deceased,No,2,7
+P00710,Emma Wilson,14,Female,AB-,2023-08-12,2023-09-10,Neurology,Dr. Emily Thompson,Parkinsons,52439.00,Medicaid,79.28,29,Elective,Left AMA,Yes,1,15
+P00711,William Williams,58,Female,O+,2023-06-16,2023-07-09,General Medicine,Dr. Emily Thompson,Gastritis,58061.91,Corporate Insurance,76.52,23,Routine Checkup,Left AMA,Yes,7,13
+P00712,Sophia Brown,29,Male,O+,2024-08-25,2024-08-31,Orthopedics,Dr. Robert Kumar,Arthritis,14106.19,Private Insurance,67.66,6,Emergency,Discharged,No,2,2
+P00713,Olivia Brown,78,Female,O+,2024-10-11,2024-10-22,Pediatrics,Dr. Michael Rodriguez,Asthma,8096.81,Medicare,79.80,11,Routine Checkup,Admitted,Yes,4,11
+P00714,Robert Davis,77,Female,B-,2023-07-22,2023-08-10,Emergency,Dr. Sarah Chen,Accident,56385.10,Medicare,83.08,19,Emergency,Transferred,Yes,3,11
+P00715,Michael Miller,10,Male,O+,2023-03-17,2023-04-12,Pediatrics,Dr. Lisa Patel,Growth Issues,29119.27,Corporate Insurance,62.40,26,Emergency,Left AMA,No,7,14
+P00716,Isabella Martinez,2,Male,A-,2023-04-16,2023-04-26,Emergency,Dr. James Miller,Poisoning,20883.11,Private Insurance,88.91,10,Urgent,Transferred,Yes,5,8
+P00717,Isabella Martinez,64,Female,AB-,2024-03-21,2024-04-11,Cardiology,Dr. Lisa Patel,Heart Attack,35956.84,Medicaid,88.68,21,Urgent,Admitted,Yes,7,8
+P00718,John Johnson,52,Female,O+,2024-10-16,2024-10-18,Orthopedics,Dr. Sarah Chen,Sports Injury,3756.25,Private Insurance,81.36,2,Routine Checkup,Left AMA,Yes,8,12
+P00719,William Brown,65,Male,B-,2024-02-08,2024-02-23,Cardiology,Dr. Sarah Chen,Arrhythmia,15807.89,Private Insurance,79.38,15,Routine Checkup,Discharged,Yes,3,15
+P00720,Sophia Brown,3,Female,AB-,2023-08-01,2023-08-24,Neurology,Dr. Robert Kumar,Stroke,29878.31,Self-Pay,0.00,23,Urgent,Admitted,Yes,2,5
+P00721,James Williams,4,Female,B+,2024-01-29,2024-02-26,General Medicine,Dr. Lisa Patel,Hypertension,34841.33,Corporate Insurance,62.90,28,Emergency,Discharged,Yes,3,14
+P00722,Isabella Jones,14,Female,AB+,2024-03-04,2024-04-02,Orthopedics,Dr. Sarah Chen,Fracture,82813.32,Private Insurance,64.13,29,Emergency,Left AMA,Yes,4,12
+P00723,James Williams,63,Female,AB+,2024-03-12,2024-04-10,Emergency,Dr. Robert Kumar,Accident,79052.19,Medicare,87.54,29,Emergency,Discharged,No,5,1
+P00724,Sophia Miller,56,Female,AB+,2024-10-28,2024-11-20,Emergency,Dr. Lisa Patel,Accident,35949.30,Medicare,73.85,23,Urgent,Deceased,Yes,4,4
+P00725,Robert Miller,17,Male,O+,2023-10-28,2023-10-31,Emergency,Dr. Emily Thompson,Burns,6162.15,Self-Pay,0.00,3,Emergency,Discharged,Yes,6,2
+P00726,Isabella Wilson,77,Male,O+,2024-02-02,2024-02-17,Cardiology,Dr. Michael Rodriguez,Heart Failure,21147.23,Medicaid,76.53,15,Routine Checkup,Transferred,No,5,5
+P00727,James Williams,80,Female,B+,2023-02-09,2023-03-09,Pediatrics,Dr. Sarah Chen,Growth Issues,75371.63,Corporate Insurance,74.08,28,Elective,Discharged,No,5,8
+P00728,Emma Brown,26,Male,B-,2023-12-11,2023-12-30,Orthopedics,Dr. Sarah Chen,Fracture,34502.81,Medicare,79.71,19,Elective,Deceased,No,4,14
+P00729,John Miller,33,Female,O+,2023-01-31,2023-02-16,Neurology,Dr. Michael Rodriguez,Parkinsons,17732.20,Corporate Insurance,86.08,16,Emergency,Discharged,No,3,9
+P00730,William Wilson,54,Male,O-,2023-03-24,2023-03-30,Pediatrics,Dr. Michael Rodriguez,Fever,14777.60,Private Insurance,80.94,6,Routine Checkup,Discharged,Yes,4,15
+P00731,Robert Wilson,33,Female,AB-,2024-11-05,2024-11-09,Cardiology,Dr. Sarah Chen,Arrhythmia,1981.24,Self-Pay,0.00,4,Urgent,Admitted,Yes,3,11
+P00732,John Davis,59,Male,O-,2024-03-28,2024-04-02,Orthopedics,Dr. Lisa Patel,Arthritis,12990.93,Corporate Insurance,84.25,5,Elective,Transferred,Yes,8,15
+P00733,James Johnson,68,Male,O-,2023-02-20,2023-02-22,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,3942.98,Corporate Insurance,84.62,2,Emergency,Transferred,No,4,3
+P00734,William Wilson,79,Female,AB-,2024-01-17,2024-02-12,Pediatrics,Dr. Robert Kumar,Asthma,79148.29,Self-Pay,0.00,26,Emergency,Deceased,Yes,3,12
+P00735,Olivia Smith,55,Male,A-,2023-09-25,2023-10-11,Emergency,Dr. Lisa Patel,Accident,35067.61,Corporate Insurance,81.40,16,Routine Checkup,Discharged,Yes,2,6
+P00736,John Davis,68,Female,B-,2024-02-27,2024-03-09,Orthopedics,Dr. Sarah Chen,Arthritis,17330.17,Self-Pay,0.00,11,Routine Checkup,Transferred,No,5,8
+P00737,Ava Smith,48,Male,AB+,2023-07-22,2023-07-30,Neurology,Dr. Sarah Chen,Epilepsy,11354.20,Medicaid,70.15,8,Emergency,Transferred,Yes,7,3
+P00738,Olivia Davis,3,Female,A-,2024-10-08,2024-11-07,Neurology,Dr. James Miller,Stroke,42806.91,Medicare,72.24,30,Emergency,Admitted,No,7,13
+P00739,Sophia Wilson,73,Male,O+,2023-02-13,2023-02-24,Pediatrics,Dr. Emily Thompson,Growth Issues,35800.22,Medicare,85.41,11,Routine Checkup,Admitted,No,1,14
+P00740,William Garcia,58,Male,A+,2023-03-18,2023-03-26,Pediatrics,Dr. Sarah Chen,Growth Issues,3853.56,Medicaid,73.96,8,Emergency,Left AMA,Yes,7,14
+P00741,James Williams,1,Female,B-,2024-05-15,2024-06-09,Cardiology,Dr. Sarah Chen,Angina,66018.55,Self-Pay,0.00,25,Elective,Admitted,Yes,7,6
+P00742,James Brown,78,Male,A-,2024-02-01,2024-03-02,General Medicine,Dr. Lisa Patel,Diabetes,15192.01,Medicare,89.46,30,Emergency,Left AMA,Yes,6,10
+P00743,Ava Williams,30,Male,B-,2024-09-12,2024-09-18,Emergency,Dr. Sarah Chen,Trauma,12866.44,Corporate Insurance,71.06,6,Emergency,Discharged,No,7,7
+P00744,John Miller,41,Male,AB-,2023-08-07,2023-09-05,Neurology,Dr. Robert Kumar,Epilepsy,33175.11,Medicare,71.00,29,Emergency,Discharged,Yes,6,8
+P00745,James Johnson,61,Female,O-,2024-01-23,2024-02-22,Pediatrics,Dr. Robert Kumar,Infection,14939.51,Private Insurance,74.77,30,Emergency,Admitted,Yes,2,11
+P00746,Robert Miller,68,Male,O+,2023-06-01,2023-06-19,Neurology,Dr. Sarah Chen,Parkinsons,33238.86,Medicare,84.32,18,Emergency,Admitted,No,1,8
+P00747,John Miller,8,Male,A+,2024-03-22,2024-03-28,General Medicine,Dr. Sarah Chen,Pneumonia,20379.63,Self-Pay,0.00,6,Routine Checkup,Discharged,Yes,2,9
+P00748,John Wilson,67,Male,AB-,2023-09-10,2023-10-08,Neurology,Dr. James Miller,Epilepsy,93376.74,Private Insurance,82.44,28,Routine Checkup,Left AMA,Yes,6,4
+P00749,Emma Williams,5,Male,A-,2023-07-08,2023-08-06,General Medicine,Dr. Robert Kumar,Diabetes,94720.60,Medicaid,78.64,29,Elective,Transferred,Yes,5,15
+P00750,Ava Wilson,80,Male,O-,2023-04-08,2023-04-19,Emergency,Dr. James Miller,Trauma,37256.38,Self-Pay,0.00,11,Elective,Left AMA,No,1,10
+P00751,Isabella Brown,42,Female,B+,2023-07-15,2023-07-20,Cardiology,Dr. Emily Thompson,Angina,7022.39,Self-Pay,0.00,5,Elective,Left AMA,Yes,6,11
+P00752,Michael Smith,27,Female,B+,2024-08-22,2024-09-21,Orthopedics,Dr. James Miller,Joint Replacement,84997.46,Private Insurance,68.75,30,Routine Checkup,Left AMA,Yes,5,7
+P00753,William Williams,77,Male,AB-,2023-08-27,2023-09-17,Pediatrics,Dr. Lisa Patel,Fever,50872.30,Medicare,84.23,21,Emergency,Admitted,Yes,5,1
+P00754,Sophia Brown,16,Female,O+,2024-12-30,2025-01-24,Pediatrics,Dr. Emily Thompson,Asthma,76938.08,Medicaid,80.32,25,Routine Checkup,Deceased,No,5,2
+P00755,Sophia Johnson,75,Male,B+,2024-04-15,2024-05-08,Cardiology,Dr. James Miller,Heart Attack,69005.74,Private Insurance,65.22,23,Emergency,Admitted,No,1,6
+P00756,John Davis,75,Female,B+,2024-07-18,2024-07-24,General Medicine,Dr. Michael Rodriguez,Hypertension,10265.56,Corporate Insurance,83.05,6,Urgent,Deceased,Yes,1,5
+P00757,James Smith,32,Female,A+,2024-12-26,2024-12-28,General Medicine,Dr. Michael Rodriguez,Diabetes,890.55,Medicare,81.77,2,Elective,Discharged,Yes,8,6
+P00758,Sophia Smith,37,Female,A+,2024-02-20,2024-03-15,Neurology,Dr. Robert Kumar,Parkinsons,59905.66,Self-Pay,0.00,24,Emergency,Discharged,Yes,4,8
+P00759,Emma Miller,17,Male,O+,2024-08-02,2024-08-07,Neurology,Dr. Emily Thompson,Parkinsons,7733.90,Medicare,77.70,5,Emergency,Discharged,No,2,14
+P00760,Ava Williams,56,Female,B+,2024-08-27,2024-09-13,Cardiology,Dr. Emily Thompson,Heart Failure,25166.14,Private Insurance,61.46,17,Routine Checkup,Admitted,Yes,8,6
+P00761,Emma Wilson,12,Male,A+,2023-08-27,2023-09-09,Orthopedics,Dr. Robert Kumar,Joint Replacement,32606.20,Self-Pay,0.00,13,Emergency,Deceased,Yes,2,8
+P00762,Olivia Martinez,24,Female,AB+,2023-04-30,2023-05-10,Orthopedics,Dr. Lisa Patel,Fracture,15991.97,Self-Pay,0.00,10,Urgent,Discharged,No,3,13
+P00763,Isabella Miller,18,Male,AB-,2023-04-27,2023-05-12,Orthopedics,Dr. James Miller,Joint Replacement,11680.58,Medicare,84.96,15,Routine Checkup,Deceased,Yes,7,8
+P00764,Ava Garcia,65,Male,A-,2023-07-19,2023-08-01,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,10205.34,Corporate Insurance,63.92,13,Urgent,Admitted,Yes,6,6
+P00765,William Jones,57,Male,AB+,2023-04-11,2023-05-08,Cardiology,Dr. Lisa Patel,Arrhythmia,84878.50,Corporate Insurance,74.65,27,Elective,Transferred,Yes,1,14
+P00766,Robert Davis,38,Male,AB+,2023-03-12,2023-03-25,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,30451.02,Private Insurance,77.96,13,Emergency,Transferred,Yes,1,14
+P00767,William Brown,7,Female,O-,2023-11-27,2023-12-18,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,31278.88,Self-Pay,0.00,21,Emergency,Deceased,Yes,4,11
+P00768,Isabella Johnson,59,Female,B+,2024-04-07,2024-04-08,Orthopedics,Dr. Lisa Patel,Fracture,1959.71,Medicaid,73.33,1,Emergency,Discharged,Yes,4,4
+P00769,Michael Davis,2,Male,O+,2024-01-12,2024-01-17,Cardiology,Dr. Sarah Chen,Heart Attack,16029.50,Medicare,78.94,5,Emergency,Left AMA,No,4,5
+P00770,Robert Jones,59,Female,B+,2023-07-06,2023-07-27,Orthopedics,Dr. Emily Thompson,Arthritis,46628.14,Private Insurance,78.20,21,Urgent,Discharged,Yes,5,10
+P00771,Isabella Wilson,78,Female,B+,2024-05-05,2024-05-27,Neurology,Dr. Lisa Patel,Stroke,51341.12,Medicare,84.53,22,Emergency,Admitted,Yes,6,5
+P00772,Ava Miller,19,Male,B-,2023-03-28,2023-04-06,Neurology,Dr. Sarah Chen,Migraine,10406.66,Medicaid,75.33,9,Routine Checkup,Transferred,No,7,12
+P00773,Ava Garcia,65,Male,B-,2023-10-18,2023-11-16,Neurology,Dr. Sarah Chen,Parkinsons,33859.85,Medicare,77.32,29,Elective,Discharged,No,7,3
+P00774,John Martinez,10,Female,O-,2023-08-06,2023-08-07,General Medicine,Dr. Sarah Chen,Gastritis,2943.71,Self-Pay,0.00,1,Routine Checkup,Discharged,No,6,6
+P00775,Michael Garcia,10,Male,B+,2023-06-08,2023-07-07,Cardiology,Dr. Lisa Patel,Heart Attack,33770.01,Self-Pay,0.00,29,Emergency,Deceased,Yes,3,10
+P00776,Isabella Jones,22,Female,O+,2023-04-16,2023-05-08,Emergency,Dr. Michael Rodriguez,Burns,29683.67,Medicare,73.50,22,Elective,Transferred,Yes,7,11
+P00777,Emma Martinez,78,Male,B-,2024-07-14,2024-07-16,Emergency,Dr. Michael Rodriguez,Trauma,6244.73,Medicaid,82.41,2,Routine Checkup,Deceased,Yes,4,5
+P00778,William Wilson,74,Female,A+,2023-01-27,2023-02-23,Neurology,Dr. Michael Rodriguez,Epilepsy,23477.84,Self-Pay,0.00,27,Emergency,Left AMA,Yes,1,14
+P00779,Sophia Brown,59,Female,O+,2024-05-31,2024-06-09,Cardiology,Dr. Sarah Chen,Arrhythmia,22460.80,Corporate Insurance,60.64,9,Urgent,Admitted,Yes,5,12
+P00780,Olivia Smith,34,Male,B+,2023-11-17,2023-11-28,Emergency,Dr. James Miller,Poisoning,25762.48,Medicare,73.57,11,Routine Checkup,Discharged,Yes,7,14
+P00781,John Jones,70,Female,A+,2024-05-28,2024-06-04,General Medicine,Dr. Emily Thompson,Gastritis,23338.78,Corporate Insurance,73.82,7,Routine Checkup,Discharged,Yes,8,14
+P00782,Robert Williams,26,Male,AB+,2023-04-02,2023-04-08,Pediatrics,Dr. James Miller,Infection,18264.98,Corporate Insurance,80.97,6,Elective,Admitted,Yes,3,5
+P00783,Robert Martinez,65,Male,B-,2023-10-08,2023-10-21,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,13253.00,Self-Pay,0.00,13,Elective,Admitted,No,2,7
+P00784,John Wilson,52,Male,AB-,2023-12-04,2023-12-19,Cardiology,Dr. James Miller,Heart Attack,22996.08,Medicaid,83.86,15,Urgent,Transferred,No,3,8
+P00785,Robert Garcia,62,Male,O+,2023-10-25,2023-10-27,Orthopedics,Dr. Robert Kumar,Fracture,2228.13,Private Insurance,78.19,2,Urgent,Deceased,Yes,6,3
+P00786,Ava Miller,5,Female,AB-,2024-09-20,2024-10-14,Pediatrics,Dr. Michael Rodriguez,Infection,54212.82,Medicaid,80.91,24,Elective,Admitted,Yes,6,9
+P00787,James Davis,78,Male,O-,2024-04-28,2024-05-09,Pediatrics,Dr. Robert Kumar,Asthma,5056.90,Corporate Insurance,85.92,11,Urgent,Discharged,No,8,12
+P00788,Robert Brown,11,Male,B-,2024-07-17,2024-08-10,Cardiology,Dr. Michael Rodriguez,Heart Failure,53021.41,Medicaid,71.19,24,Emergency,Admitted,Yes,7,5
+P00789,Emma Davis,52,Female,O-,2023-11-07,2023-11-16,Emergency,Dr. Sarah Chen,Burns,13199.10,Private Insurance,66.47,9,Routine Checkup,Admitted,No,7,3
+P00790,Ava Martinez,23,Male,A-,2024-08-03,2024-08-11,Pediatrics,Dr. Michael Rodriguez,Fever,10837.95,Medicaid,75.77,8,Routine Checkup,Admitted,Yes,6,9
+P00791,Michael Wilson,11,Male,A+,2024-10-30,2024-11-25,Cardiology,Dr. Sarah Chen,Heart Attack,84461.13,Self-Pay,0.00,26,Routine Checkup,Admitted,Yes,4,11
+P00792,Michael Garcia,2,Male,AB-,2024-11-07,2024-11-16,Neurology,Dr. Emily Thompson,Parkinsons,26173.55,Medicare,80.47,9,Routine Checkup,Discharged,Yes,6,1
+P00793,Sophia Martinez,77,Male,B+,2024-03-10,2024-03-13,Orthopedics,Dr. Michael Rodriguez,Arthritis,9627.40,Medicare,86.75,3,Emergency,Left AMA,No,3,8
+P00794,Ava Davis,13,Female,AB+,2024-03-17,2024-03-29,Emergency,Dr. Lisa Patel,Accident,6492.99,Private Insurance,82.70,12,Elective,Left AMA,Yes,8,4
+P00795,Michael Jones,22,Female,O+,2023-10-15,2023-11-03,Neurology,Dr. James Miller,Parkinsons,43049.21,Corporate Insurance,63.88,19,Urgent,Deceased,No,4,11
+P00796,James Williams,7,Female,A-,2024-04-07,2024-05-04,Neurology,Dr. Sarah Chen,Parkinsons,56781.04,Corporate Insurance,72.75,27,Routine Checkup,Admitted,Yes,8,9
+P00797,Emma Jones,9,Female,A-,2024-01-23,2024-02-07,Cardiology,Dr. James Miller,Heart Attack,21368.22,Private Insurance,71.47,15,Urgent,Admitted,Yes,2,1
+P00798,Olivia Johnson,60,Male,A+,2023-11-05,2023-12-03,Cardiology,Dr. James Miller,Heart Failure,26731.16,Private Insurance,72.98,28,Emergency,Transferred,Yes,7,8
+P00799,Sophia Davis,2,Male,O+,2024-07-06,2024-08-04,Pediatrics,Dr. Sarah Chen,Infection,22117.54,Self-Pay,0.00,29,Routine Checkup,Transferred,Yes,5,15
+P00800,Sophia Davis,16,Female,AB-,2024-05-10,2024-05-13,Orthopedics,Dr. Sarah Chen,Sports Injury,2694.29,Corporate Insurance,86.24,3,Elective,Transferred,Yes,3,9
+P00801,Olivia Jones,10,Male,AB-,2023-07-02,2023-07-22,General Medicine,Dr. Michael Rodriguez,Gastritis,34892.49,Self-Pay,0.00,20,Urgent,Transferred,Yes,6,14
+P00802,Isabella Smith,67,Male,A+,2023-06-17,2023-06-22,General Medicine,Dr. Robert Kumar,Gastritis,10848.86,Medicare,74.50,5,Urgent,Transferred,Yes,5,2
+P00803,James Johnson,37,Male,B+,2024-08-19,2024-08-21,Cardiology,Dr. Sarah Chen,Arrhythmia,1745.38,Corporate Insurance,79.97,2,Routine Checkup,Admitted,Yes,5,4
+P00804,John Miller,53,Female,A-,2024-12-27,2025-01-10,Neurology,Dr. Robert Kumar,Migraine,34888.21,Corporate Insurance,63.58,14,Elective,Deceased,Yes,7,12
+P00805,Olivia Jones,28,Male,O-,2023-11-06,2023-11-23,General Medicine,Dr. Robert Kumar,Hypertension,24819.01,Medicaid,76.10,17,Routine Checkup,Discharged,No,3,6
+P00806,Robert Wilson,42,Female,A-,2024-11-26,2024-12-25,Cardiology,Dr. Sarah Chen,Heart Failure,69729.75,Corporate Insurance,78.09,29,Emergency,Left AMA,Yes,1,8
+P00807,Emma Martinez,25,Female,O-,2024-01-30,2024-02-13,Emergency,Dr. James Miller,Poisoning,45647.40,Medicaid,83.52,14,Urgent,Transferred,Yes,5,8
+P00808,Emma Martinez,28,Female,A-,2023-04-02,2023-04-21,General Medicine,Dr. Michael Rodriguez,Diabetes,13888.56,Medicaid,84.10,19,Routine Checkup,Admitted,No,4,9
+P00809,Robert Miller,47,Female,AB+,2024-04-11,2024-04-19,General Medicine,Dr. Lisa Patel,Gastritis,17418.87,Corporate Insurance,64.28,8,Urgent,Deceased,Yes,8,9
+P00810,Isabella Wilson,38,Female,AB-,2023-12-23,2024-01-06,General Medicine,Dr. Emily Thompson,Hypertension,9363.79,Private Insurance,83.74,14,Elective,Discharged,Yes,1,13
+P00811,Emma Davis,72,Female,AB-,2023-10-16,2023-11-01,Pediatrics,Dr. Robert Kumar,Growth Issues,23793.38,Medicaid,87.34,16,Urgent,Discharged,Yes,8,4
+P00812,James Jones,3,Female,B-,2023-03-23,2023-04-15,Orthopedics,Dr. Lisa Patel,Sports Injury,40050.26,Medicare,82.29,23,Urgent,Deceased,No,7,13
+P00813,Emma Smith,26,Female,A-,2023-06-21,2023-07-09,Orthopedics,Dr. Sarah Chen,Arthritis,59818.03,Private Insurance,88.33,18,Urgent,Admitted,Yes,5,12
+P00814,Sophia Brown,31,Male,AB+,2024-11-29,2024-12-20,Emergency,Dr. Michael Rodriguez,Trauma,10677.17,Corporate Insurance,88.88,21,Emergency,Transferred,No,1,3
+P00815,Isabella Davis,71,Female,A+,2023-10-08,2023-10-16,Neurology,Dr. Robert Kumar,Parkinsons,12286.44,Self-Pay,0.00,8,Emergency,Left AMA,Yes,1,5
+P00816,Robert Jones,67,Male,B-,2024-05-12,2024-05-17,Pediatrics,Dr. Robert Kumar,Infection,15004.63,Corporate Insurance,62.03,5,Urgent,Transferred,Yes,7,13
+P00817,Isabella Johnson,3,Female,O+,2024-06-30,2024-07-21,Neurology,Dr. Emily Thompson,Migraine,53986.41,Corporate Insurance,71.65,21,Routine Checkup,Transferred,Yes,2,10
+P00818,John Wilson,51,Female,B-,2023-03-22,2023-04-03,Emergency,Dr. James Miller,Accident,14326.61,Medicare,73.20,12,Routine Checkup,Admitted,No,6,6
+P00819,Michael Martinez,59,Female,A+,2023-04-26,2023-05-04,General Medicine,Dr. Lisa Patel,Pneumonia,23404.66,Private Insurance,64.24,8,Elective,Admitted,No,6,12
+P00820,William Brown,28,Male,O-,2023-05-17,2023-06-10,Emergency,Dr. Emily Thompson,Accident,13975.12,Medicare,79.15,24,Routine Checkup,Left AMA,Yes,1,13
+P00821,John Johnson,78,Male,A-,2023-10-16,2023-11-06,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,55577.55,Private Insurance,86.98,21,Routine Checkup,Deceased,Yes,4,14
+P00822,Isabella Garcia,69,Male,B-,2024-11-26,2024-12-14,Pediatrics,Dr. James Miller,Infection,50982.29,Self-Pay,0.00,18,Urgent,Deceased,No,5,13
+P00823,Olivia Garcia,36,Female,O-,2023-08-30,2023-09-10,Pediatrics,Dr. Michael Rodriguez,Asthma,10807.94,Medicare,87.23,11,Emergency,Deceased,No,2,6
+P00824,William Williams,79,Male,B+,2024-11-30,2024-12-29,Orthopedics,Dr. Lisa Patel,Sports Injury,55654.67,Corporate Insurance,86.39,29,Emergency,Left AMA,No,6,12
+P00825,Olivia Johnson,41,Female,B+,2024-06-27,2024-07-07,Emergency,Dr. James Miller,Accident,18825.03,Corporate Insurance,61.82,10,Emergency,Transferred,Yes,7,2
+P00826,Michael Jones,59,Male,O+,2023-10-09,2023-10-25,Orthopedics,Dr. Lisa Patel,Joint Replacement,50290.84,Corporate Insurance,72.53,16,Elective,Discharged,No,8,10
+P00827,Ava Miller,70,Female,O+,2023-09-30,2023-10-18,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,61044.84,Private Insurance,85.01,18,Routine Checkup,Discharged,No,2,15
+P00828,Robert Miller,3,Male,B-,2023-04-13,2023-04-21,Cardiology,Dr. Lisa Patel,Heart Failure,16103.09,Medicaid,83.10,8,Routine Checkup,Left AMA,Yes,6,2
+P00829,Michael Wilson,9,Female,O-,2023-11-30,2023-12-10,General Medicine,Dr. Sarah Chen,Diabetes,15203.76,Corporate Insurance,67.82,10,Elective,Left AMA,Yes,3,9
+P00830,Robert Johnson,51,Female,AB-,2024-10-21,2024-10-29,Cardiology,Dr. Robert Kumar,Arrhythmia,12088.76,Medicare,79.89,8,Routine Checkup,Transferred,No,3,12
+P00831,Olivia Davis,9,Male,A+,2024-05-19,2024-06-02,Cardiology,Dr. Emily Thompson,Heart Attack,19633.74,Self-Pay,0.00,14,Routine Checkup,Discharged,Yes,1,7
+P00832,Isabella Jones,29,Male,B-,2024-02-21,2024-02-28,Neurology,Dr. Robert Kumar,Epilepsy,14266.64,Medicaid,88.84,7,Routine Checkup,Transferred,Yes,3,1
+P00833,James Johnson,9,Female,A+,2024-04-18,2024-05-03,General Medicine,Dr. Emily Thompson,Hypertension,12694.92,Medicare,89.00,15,Emergency,Deceased,Yes,3,2
+P00834,Ava Jones,33,Male,O+,2024-02-07,2024-03-03,General Medicine,Dr. Lisa Patel,Gastritis,78000.63,Medicare,81.12,25,Urgent,Discharged,Yes,3,3
+P00835,Sophia Williams,32,Female,O+,2024-01-20,2024-01-22,Cardiology,Dr. James Miller,Heart Attack,4468.73,Private Insurance,64.23,2,Urgent,Discharged,Yes,3,11
+P00836,Robert Miller,12,Male,B-,2023-08-13,2023-08-25,Orthopedics,Dr. Robert Kumar,Arthritis,29713.95,Corporate Insurance,82.27,12,Elective,Transferred,Yes,1,10
+P00837,Sophia Brown,39,Male,O-,2024-07-20,2024-08-19,Orthopedics,Dr. James Miller,Joint Replacement,77603.41,Medicaid,87.86,30,Elective,Left AMA,No,1,4
+P00838,John Smith,79,Male,AB+,2024-03-16,2024-03-27,Neurology,Dr. Lisa Patel,Parkinsons,35131.52,Medicaid,77.00,11,Elective,Deceased,Yes,3,5
+P00839,William Williams,22,Female,AB+,2024-03-11,2024-03-20,Neurology,Dr. Michael Rodriguez,Migraine,28859.15,Medicaid,75.22,9,Elective,Admitted,No,2,15
+P00840,Emma Garcia,49,Male,AB+,2023-12-18,2024-01-13,Emergency,Dr. Sarah Chen,Trauma,62674.24,Private Insurance,60.94,26,Elective,Admitted,Yes,6,4
+P00841,William Williams,64,Female,B+,2024-09-19,2024-10-10,Emergency,Dr. Sarah Chen,Burns,59614.45,Corporate Insurance,80.60,21,Routine Checkup,Transferred,Yes,5,13
+P00842,John Miller,57,Female,A-,2023-09-11,2023-09-25,Pediatrics,Dr. Robert Kumar,Infection,46591.68,Self-Pay,0.00,14,Emergency,Transferred,No,3,9
+P00843,Ava Garcia,4,Male,A-,2024-04-02,2024-04-27,Orthopedics,Dr. Sarah Chen,Arthritis,18105.34,Self-Pay,0.00,25,Emergency,Transferred,Yes,8,11
+P00844,Ava Martinez,72,Male,A-,2024-11-27,2024-12-18,Cardiology,Dr. Michael Rodriguez,Heart Failure,9430.53,Private Insurance,65.91,21,Urgent,Admitted,Yes,3,10
+P00845,Michael Wilson,75,Female,B-,2023-12-12,2024-01-08,Neurology,Dr. Lisa Patel,Epilepsy,22999.05,Medicare,81.65,27,Emergency,Deceased,Yes,1,5
+P00846,William Miller,50,Male,AB-,2024-10-25,2024-11-01,Cardiology,Dr. Sarah Chen,Angina,22369.30,Self-Pay,0.00,7,Elective,Left AMA,Yes,2,9
+P00847,James Jones,35,Male,B-,2023-08-08,2023-08-24,General Medicine,Dr. Sarah Chen,Diabetes,42484.36,Private Insurance,77.78,16,Emergency,Admitted,Yes,6,4
+P00848,Isabella Wilson,18,Male,AB-,2023-11-05,2023-11-26,Neurology,Dr. Michael Rodriguez,Epilepsy,69615.04,Corporate Insurance,70.04,21,Emergency,Deceased,No,3,13
+P00849,Sophia Garcia,13,Male,O+,2023-10-29,2023-11-10,Pediatrics,Dr. Emily Thompson,Fever,37099.57,Medicaid,87.02,12,Emergency,Admitted,Yes,7,6
+P00850,Olivia Garcia,20,Male,A+,2024-03-15,2024-04-05,Neurology,Dr. Lisa Patel,Stroke,67017.55,Self-Pay,0.00,21,Urgent,Transferred,No,3,6
+P00851,Emma Davis,12,Male,O+,2023-11-13,2023-12-03,Orthopedics,Dr. Emily Thompson,Sports Injury,50549.13,Private Insurance,87.99,20,Urgent,Discharged,Yes,3,15
+P00852,Robert Miller,28,Male,O-,2023-02-27,2023-03-08,Pediatrics,Dr. James Miller,Infection,8826.33,Corporate Insurance,89.19,9,Emergency,Left AMA,No,5,2
+P00853,Sophia Davis,22,Female,A+,2023-08-10,2023-08-31,Pediatrics,Dr. Sarah Chen,Fever,17364.32,Private Insurance,66.63,21,Urgent,Deceased,Yes,1,10
+P00854,Robert Miller,25,Male,A-,2023-09-20,2023-09-26,Orthopedics,Dr. Robert Kumar,Sports Injury,15132.06,Medicare,88.21,6,Elective,Transferred,Yes,8,13
+P00855,Isabella Davis,23,Male,B-,2024-08-05,2024-08-30,Emergency,Dr. Emily Thompson,Poisoning,10643.10,Corporate Insurance,72.99,25,Elective,Discharged,Yes,6,3
+P00856,James Davis,3,Male,O-,2024-02-09,2024-02-24,Pediatrics,Dr. James Miller,Infection,30367.08,Self-Pay,0.00,15,Urgent,Discharged,Yes,2,15
+P00857,Robert Williams,40,Male,B-,2023-12-28,2023-12-31,Orthopedics,Dr. Lisa Patel,Joint Replacement,9650.26,Medicare,89.33,3,Elective,Left AMA,No,6,2
+P00858,Emma Brown,71,Female,AB-,2024-07-04,2024-07-28,Neurology,Dr. Robert Kumar,Migraine,53622.77,Corporate Insurance,67.50,24,Elective,Left AMA,Yes,4,10
+P00859,Olivia Wilson,49,Female,O-,2024-05-06,2024-05-09,Pediatrics,Dr. Michael Rodriguez,Infection,9532.29,Corporate Insurance,62.35,3,Elective,Left AMA,Yes,5,3
+P00860,Emma Davis,33,Male,A-,2023-02-08,2023-02-15,Orthopedics,Dr. Emily Thompson,Joint Replacement,2935.25,Medicaid,74.60,7,Urgent,Deceased,No,6,7
+P00861,William Johnson,25,Female,O+,2023-08-22,2023-08-31,Emergency,Dr. Robert Kumar,Burns,17548.76,Medicare,88.23,9,Elective,Deceased,No,6,9
+P00862,Emma Miller,57,Male,O+,2023-07-25,2023-08-01,Cardiology,Dr. Robert Kumar,Angina,4499.81,Corporate Insurance,65.46,7,Urgent,Discharged,Yes,4,11
+P00863,Sophia Brown,37,Female,A-,2024-06-16,2024-06-18,General Medicine,Dr. Michael Rodriguez,Diabetes,3324.32,Corporate Insurance,87.33,2,Elective,Deceased,No,6,1
+P00864,Michael Smith,59,Male,B+,2023-05-16,2023-06-02,Neurology,Dr. Robert Kumar,Epilepsy,17156.52,Medicare,72.62,17,Elective,Left AMA,No,2,11
+P00865,Sophia Williams,45,Female,B+,2024-05-04,2024-05-12,Pediatrics,Dr. Lisa Patel,Fever,22508.20,Private Insurance,86.77,8,Elective,Deceased,Yes,4,10
+P00866,William Johnson,15,Female,O+,2023-08-09,2023-08-10,Emergency,Dr. James Miller,Burns,1416.71,Medicare,72.91,1,Urgent,Left AMA,Yes,3,14
+P00867,James Jones,38,Female,A+,2023-09-04,2023-09-24,Cardiology,Dr. Robert Kumar,Arrhythmia,29403.39,Self-Pay,0.00,20,Elective,Transferred,Yes,4,8
+P00868,Emma Garcia,7,Female,A+,2024-02-27,2024-03-26,Emergency,Dr. Michael Rodriguez,Burns,86805.45,Private Insurance,84.81,28,Emergency,Left AMA,Yes,3,14
+P00869,Ava Brown,1,Male,A-,2023-03-25,2023-04-06,Pediatrics,Dr. Michael Rodriguez,Asthma,34588.26,Private Insurance,74.47,12,Elective,Transferred,Yes,4,12
+P00870,John Davis,47,Female,AB+,2024-06-02,2024-06-20,Pediatrics,Dr. Michael Rodriguez,Fever,21331.75,Private Insurance,71.27,18,Emergency,Left AMA,Yes,6,14
+P00871,Olivia Jones,37,Female,O+,2023-04-08,2023-04-24,Cardiology,Dr. Emily Thompson,Heart Failure,37143.43,Corporate Insurance,66.39,16,Emergency,Discharged,No,8,9
+P00872,Isabella Smith,72,Male,B-,2024-03-12,2024-03-26,General Medicine,Dr. Emily Thompson,Pneumonia,34374.14,Corporate Insurance,78.87,14,Elective,Transferred,Yes,7,7
+P00873,James Johnson,77,Female,B-,2023-09-12,2023-09-29,Cardiology,Dr. Emily Thompson,Arrhythmia,44982.54,Medicare,89.71,17,Urgent,Transferred,No,5,4
+P00874,Ava Garcia,25,Male,AB-,2023-07-16,2023-07-21,Orthopedics,Dr. Robert Kumar,Sports Injury,16586.77,Self-Pay,0.00,5,Elective,Transferred,No,7,2
+P00875,Emma Garcia,44,Female,O-,2023-04-14,2023-05-03,Emergency,Dr. James Miller,Accident,52255.30,Medicaid,78.62,19,Routine Checkup,Admitted,No,8,6
+P00876,John Martinez,4,Female,A-,2024-07-13,2024-07-16,Neurology,Dr. James Miller,Migraine,4550.78,Self-Pay,0.00,3,Elective,Left AMA,No,8,8
+P00877,Ava Garcia,47,Female,O-,2024-02-11,2024-02-15,Neurology,Dr. Lisa Patel,Stroke,5670.89,Self-Pay,0.00,4,Elective,Discharged,No,4,11
+P00878,John Garcia,38,Male,AB-,2024-07-05,2024-07-30,General Medicine,Dr. Sarah Chen,Diabetes,38449.34,Corporate Insurance,64.69,25,Routine Checkup,Deceased,No,4,11
+P00879,Isabella Miller,64,Female,B-,2024-11-04,2024-11-20,Orthopedics,Dr. Michael Rodriguez,Arthritis,10962.05,Self-Pay,0.00,16,Emergency,Admitted,Yes,2,8
+P00880,Olivia Wilson,67,Female,B+,2023-01-21,2023-02-06,Emergency,Dr. Lisa Patel,Trauma,31236.63,Self-Pay,0.00,16,Urgent,Left AMA,No,8,8
+P00881,Michael Jones,3,Male,A-,2023-06-29,2023-07-18,Cardiology,Dr. James Miller,Heart Failure,34060.17,Self-Pay,0.00,19,Emergency,Left AMA,Yes,1,13
+P00882,Sophia Davis,5,Male,A+,2024-10-14,2024-11-10,Pediatrics,Dr. Michael Rodriguez,Fever,61074.06,Corporate Insurance,80.90,27,Routine Checkup,Transferred,Yes,5,10
+P00883,Olivia Williams,5,Male,O+,2024-06-13,2024-06-22,Pediatrics,Dr. James Miller,Infection,5098.22,Self-Pay,0.00,9,Emergency,Discharged,Yes,5,15
+P00884,Emma Smith,79,Male,A+,2023-11-24,2023-12-13,Orthopedics,Dr. Robert Kumar,Fracture,57262.27,Medicaid,73.01,19,Routine Checkup,Left AMA,No,2,14
+P00885,Robert Johnson,2,Female,A+,2024-12-19,2025-01-11,Neurology,Dr. Lisa Patel,Migraine,61774.69,Corporate Insurance,62.07,23,Emergency,Admitted,Yes,4,12
+P00886,Michael Garcia,1,Male,A-,2023-02-15,2023-03-15,Cardiology,Dr. Sarah Chen,Heart Failure,20363.53,Self-Pay,0.00,28,Emergency,Discharged,Yes,4,5
+P00887,Isabella Brown,53,Female,O+,2023-07-15,2023-07-21,Emergency,Dr. Robert Kumar,Burns,15501.62,Self-Pay,0.00,6,Elective,Admitted,No,2,4
+P00888,Emma Williams,39,Male,O-,2023-12-23,2024-01-10,Emergency,Dr. James Miller,Trauma,8868.04,Medicaid,84.52,18,Routine Checkup,Discharged,Yes,8,13
+P00889,William Garcia,19,Male,B+,2024-10-21,2024-11-10,Neurology,Dr. James Miller,Parkinsons,43886.71,Medicare,79.25,20,Emergency,Admitted,No,4,7
+P00890,John Miller,51,Male,AB-,2023-03-04,2023-04-03,Orthopedics,Dr. Sarah Chen,Sports Injury,67530.30,Self-Pay,0.00,30,Emergency,Discharged,No,3,4
+P00891,James Miller,49,Male,A-,2023-03-11,2023-03-19,Emergency,Dr. Emily Thompson,Poisoning,7106.42,Medicaid,78.11,8,Routine Checkup,Transferred,Yes,6,15
+P00892,Robert Williams,36,Male,AB-,2024-05-03,2024-05-06,General Medicine,Dr. Sarah Chen,Pneumonia,8948.83,Corporate Insurance,71.18,3,Routine Checkup,Left AMA,Yes,3,13
+P00893,Olivia Johnson,2,Female,B+,2023-03-20,2023-03-28,Pediatrics,Dr. Michael Rodriguez,Fever,19874.33,Corporate Insurance,86.76,8,Emergency,Transferred,No,5,13
+P00894,Sophia Davis,16,Female,A+,2024-02-20,2024-03-02,Neurology,Dr. Robert Kumar,Stroke,21028.62,Private Insurance,63.21,11,Routine Checkup,Discharged,No,1,9
+P00895,Isabella Smith,19,Male,A+,2024-03-06,2024-03-30,Neurology,Dr. Michael Rodriguez,Stroke,49768.51,Private Insurance,60.34,24,Elective,Deceased,Yes,3,11
+P00896,John Brown,10,Female,B+,2024-04-27,2024-05-10,General Medicine,Dr. Sarah Chen,Diabetes,38648.86,Private Insurance,65.86,13,Elective,Left AMA,Yes,3,1
+P00897,Michael Wilson,18,Male,B-,2024-05-09,2024-05-23,General Medicine,Dr. James Miller,Hypertension,41583.56,Medicare,71.46,14,Routine Checkup,Left AMA,Yes,6,15
+P00898,Michael Wilson,59,Female,A-,2024-03-26,2024-04-06,Orthopedics,Dr. Emily Thompson,Arthritis,31631.01,Private Insurance,88.22,11,Urgent,Deceased,Yes,3,5
+P00899,John Wilson,46,Female,AB+,2024-09-28,2024-10-07,Emergency,Dr. Robert Kumar,Accident,16712.04,Medicaid,77.81,9,Emergency,Transferred,Yes,5,3
+P00900,Isabella Garcia,61,Male,AB+,2023-01-12,2023-01-28,Cardiology,Dr. James Miller,Arrhythmia,22760.25,Corporate Insurance,60.51,16,Elective,Admitted,No,7,7
+P00901,William Brown,72,Male,A-,2024-12-14,2024-12-26,Neurology,Dr. Lisa Patel,Epilepsy,28980.46,Medicaid,79.95,12,Emergency,Left AMA,Yes,3,14
+P00902,John Davis,16,Male,O-,2023-08-23,2023-09-17,Neurology,Dr. Sarah Chen,Parkinsons,64002.61,Medicare,72.09,25,Routine Checkup,Transferred,Yes,6,12
+P00903,Ava Brown,59,Male,O+,2023-11-11,2023-12-05,Neurology,Dr. Robert Kumar,Epilepsy,46738.89,Medicare,86.95,24,Routine Checkup,Left AMA,Yes,3,9
+P00904,William Williams,78,Female,A-,2023-10-24,2023-11-15,Orthopedics,Dr. Sarah Chen,Arthritis,73486.30,Self-Pay,0.00,22,Elective,Transferred,No,3,9
+P00905,William Smith,25,Male,O-,2024-04-20,2024-05-14,Neurology,Dr. James Miller,Stroke,79618.63,Private Insurance,83.44,24,Urgent,Transferred,Yes,4,15
+P00906,Sophia Martinez,33,Male,A-,2024-02-22,2024-03-10,Orthopedics,Dr. James Miller,Sports Injury,38842.01,Private Insurance,80.62,17,Elective,Admitted,Yes,2,9
+P00907,Michael Wilson,45,Female,O+,2023-04-03,2023-04-27,Orthopedics,Dr. James Miller,Joint Replacement,39830.56,Self-Pay,0.00,24,Urgent,Deceased,No,8,1
+P00908,Ava Johnson,53,Male,B+,2024-04-02,2024-04-04,Cardiology,Dr. Robert Kumar,Arrhythmia,3560.15,Private Insurance,70.05,2,Routine Checkup,Discharged,Yes,2,14
+P00909,John Miller,12,Male,A+,2023-03-23,2023-04-07,Emergency,Dr. Sarah Chen,Poisoning,50337.33,Corporate Insurance,61.01,15,Elective,Discharged,Yes,8,4
+P00910,Emma Wilson,51,Male,O-,2023-05-16,2023-06-12,Neurology,Dr. Emily Thompson,Parkinsons,57210.36,Medicare,88.58,27,Elective,Deceased,Yes,4,10
+P00911,Robert Garcia,60,Male,A+,2023-07-29,2023-08-03,Pediatrics,Dr. James Miller,Asthma,14812.29,Self-Pay,0.00,5,Routine Checkup,Left AMA,No,7,9
+P00912,John Wilson,28,Male,AB+,2024-03-19,2024-04-11,Neurology,Dr. Michael Rodriguez,Migraine,39641.53,Corporate Insurance,80.05,23,Routine Checkup,Deceased,No,1,8
+P00913,Isabella Brown,6,Female,O+,2023-11-02,2023-11-19,Pediatrics,Dr. Lisa Patel,Growth Issues,43520.78,Corporate Insurance,70.13,17,Elective,Transferred,No,1,4
+P00914,Olivia Smith,52,Female,AB+,2023-01-23,2023-02-06,Cardiology,Dr. James Miller,Angina,23160.42,Medicaid,81.00,14,Elective,Deceased,No,7,14
+P00915,Ava Smith,75,Male,AB+,2024-06-28,2024-07-16,Cardiology,Dr. Sarah Chen,Arrhythmia,53587.69,Corporate Insurance,61.08,18,Emergency,Left AMA,No,1,4
+P00916,Ava Garcia,3,Female,A-,2024-02-08,2024-02-11,Cardiology,Dr. James Miller,Heart Attack,7517.14,Self-Pay,0.00,3,Urgent,Discharged,Yes,2,12
+P00917,Sophia Martinez,32,Male,B-,2023-01-09,2023-01-26,Pediatrics,Dr. Emily Thompson,Growth Issues,35182.57,Private Insurance,71.68,17,Elective,Left AMA,No,3,11
+P00918,Olivia Miller,60,Female,AB+,2024-06-10,2024-06-14,Orthopedics,Dr. Emily Thompson,Fracture,6513.19,Medicare,89.00,4,Emergency,Admitted,No,5,7
+P00919,Robert Miller,53,Male,A+,2024-12-26,2025-01-03,Emergency,Dr. Michael Rodriguez,Poisoning,17207.53,Self-Pay,0.00,8,Elective,Admitted,Yes,3,13
+P00920,Ava Davis,1,Male,O+,2023-10-10,2023-10-18,Cardiology,Dr. Sarah Chen,Heart Failure,25002.93,Corporate Insurance,68.82,8,Elective,Deceased,No,5,15
+P00921,Robert Martinez,22,Female,AB+,2023-06-17,2023-06-26,Neurology,Dr. Emily Thompson,Migraine,16264.71,Medicaid,70.37,9,Emergency,Admitted,No,1,13
+P00922,Ava Smith,54,Female,AB-,2023-08-28,2023-09-11,Cardiology,Dr. Sarah Chen,Heart Failure,8114.08,Corporate Insurance,68.73,14,Emergency,Transferred,Yes,8,6
+P00923,James Wilson,68,Male,A-,2024-07-15,2024-07-26,General Medicine,Dr. Lisa Patel,Pneumonia,5640.37,Private Insurance,62.98,11,Urgent,Left AMA,No,3,13
+P00924,John Garcia,10,Female,A+,2023-04-21,2023-05-18,Emergency,Dr. Lisa Patel,Accident,68375.73,Medicaid,86.03,27,Emergency,Admitted,No,4,15
+P00925,Isabella Brown,75,Male,O-,2023-07-13,2023-07-21,General Medicine,Dr. Sarah Chen,Pneumonia,10449.72,Corporate Insurance,67.97,8,Elective,Transferred,Yes,8,3
+P00926,Isabella Garcia,15,Male,A+,2024-11-25,2024-12-21,Cardiology,Dr. Michael Rodriguez,Heart Failure,28492.91,Corporate Insurance,69.18,26,Routine Checkup,Discharged,Yes,2,7
+P00927,Isabella Williams,1,Female,AB+,2024-09-02,2024-09-30,Orthopedics,Dr. Lisa Patel,Sports Injury,44852.95,Medicaid,80.06,28,Elective,Admitted,No,3,1
+P00928,Isabella Jones,16,Male,B-,2023-09-05,2023-09-21,Pediatrics,Dr. James Miller,Growth Issues,25776.41,Private Insurance,79.87,16,Elective,Transferred,No,5,9
+P00929,James Brown,12,Female,B-,2024-04-22,2024-05-17,General Medicine,Dr. Sarah Chen,Gastritis,71505.88,Private Insurance,70.62,25,Urgent,Transferred,No,8,12
+P00930,Michael Davis,27,Male,O-,2024-06-28,2024-07-01,Orthopedics,Dr. Robert Kumar,Sports Injury,4520.59,Medicaid,85.62,3,Elective,Discharged,Yes,1,8
+P00931,William Garcia,43,Female,O-,2023-02-18,2023-03-01,General Medicine,Dr. Sarah Chen,Gastritis,16746.77,Corporate Insurance,65.02,11,Urgent,Transferred,No,1,13
+P00932,Emma Smith,16,Female,B-,2023-12-27,2024-01-13,Neurology,Dr. James Miller,Epilepsy,21734.94,Private Insurance,76.99,17,Elective,Admitted,Yes,6,2
+P00933,John Williams,2,Male,AB+,2023-12-29,2024-01-18,Orthopedics,Dr. Emily Thompson,Joint Replacement,34376.63,Corporate Insurance,60.01,20,Routine Checkup,Admitted,No,6,14
+P00934,James Garcia,50,Female,A+,2024-12-08,2024-12-11,Cardiology,Dr. Lisa Patel,Heart Attack,4299.71,Private Insurance,85.42,3,Urgent,Deceased,No,5,9
+P00935,John Davis,78,Female,A-,2024-11-04,2024-12-01,Emergency,Dr. Lisa Patel,Burns,19637.14,Private Insurance,84.93,27,Elective,Discharged,No,3,11
+P00936,William Miller,37,Female,O+,2024-10-29,2024-11-15,General Medicine,Dr. Robert Kumar,Gastritis,8684.53,Private Insurance,76.43,17,Routine Checkup,Transferred,Yes,6,1
+P00937,James Davis,52,Male,B+,2023-08-04,2023-08-28,Orthopedics,Dr. James Miller,Arthritis,25200.05,Medicare,73.50,24,Emergency,Deceased,No,1,4
+P00938,Emma Williams,62,Male,AB-,2023-07-19,2023-07-31,General Medicine,Dr. Sarah Chen,Hypertension,14927.57,Medicare,86.03,12,Urgent,Transferred,Yes,5,9
+P00939,Ava Jones,65,Female,O+,2024-03-06,2024-03-31,General Medicine,Dr. Robert Kumar,Diabetes,11407.28,Self-Pay,0.00,25,Urgent,Admitted,Yes,3,5
+P00940,Robert Martinez,52,Female,AB-,2023-05-28,2023-06-22,Emergency,Dr. Lisa Patel,Poisoning,81972.92,Self-Pay,0.00,25,Routine Checkup,Left AMA,Yes,5,3
+P00941,Robert Wilson,71,Female,B+,2024-03-02,2024-03-28,Orthopedics,Dr. Lisa Patel,Sports Injury,20540.28,Corporate Insurance,68.67,26,Routine Checkup,Left AMA,No,8,5
+P00942,Robert Martinez,8,Female,O+,2024-01-10,2024-01-28,Neurology,Dr. James Miller,Migraine,32966.10,Self-Pay,0.00,18,Urgent,Deceased,Yes,2,15
+P00943,John Smith,24,Female,A-,2024-11-03,2024-11-15,Pediatrics,Dr. Sarah Chen,Asthma,40757.94,Corporate Insurance,89.14,12,Urgent,Deceased,Yes,1,10
+P00944,Ava Smith,9,Female,A-,2023-01-23,2023-01-29,Pediatrics,Dr. Lisa Patel,Growth Issues,6050.58,Corporate Insurance,77.38,6,Routine Checkup,Discharged,Yes,1,5
+P00945,Emma Miller,63,Male,O-,2024-09-05,2024-09-20,General Medicine,Dr. Lisa Patel,Gastritis,43224.13,Corporate Insurance,76.94,15,Routine Checkup,Admitted,No,8,10
+P00946,Sophia Garcia,64,Female,AB-,2024-06-05,2024-06-17,Cardiology,Dr. Sarah Chen,Heart Attack,7353.31,Private Insurance,83.23,12,Routine Checkup,Deceased,No,3,13
+P00947,John Wilson,56,Female,AB+,2023-09-02,2023-09-25,Neurology,Dr. Sarah Chen,Migraine,40423.27,Corporate Insurance,67.30,23,Routine Checkup,Left AMA,Yes,7,10
+P00948,Emma Smith,9,Female,AB+,2023-03-11,2023-03-29,Emergency,Dr. Sarah Chen,Burns,17849.72,Corporate Insurance,61.39,18,Emergency,Admitted,Yes,4,1
+P00949,William Miller,22,Male,O+,2024-12-17,2025-01-11,Cardiology,Dr. Sarah Chen,Angina,79523.09,Corporate Insurance,73.03,25,Emergency,Transferred,Yes,6,5
+P00950,Michael Davis,31,Female,A-,2024-09-08,2024-09-18,Pediatrics,Dr. James Miller,Infection,26238.84,Medicare,74.46,10,Emergency,Deceased,No,7,12
+P00951,Ava Smith,37,Male,A-,2024-11-15,2024-12-01,Cardiology,Dr. Sarah Chen,Angina,11673.69,Corporate Insurance,69.16,16,Emergency,Discharged,No,1,3
+P00952,Robert Davis,69,Male,A-,2023-01-29,2023-02-11,Emergency,Dr. Emily Thompson,Poisoning,14052.53,Medicaid,72.97,13,Routine Checkup,Admitted,Yes,5,15
+P00953,Michael Brown,52,Female,A-,2023-08-31,2023-09-06,Orthopedics,Dr. James Miller,Fracture,9246.04,Medicare,87.79,6,Elective,Left AMA,No,5,2
+P00954,James Johnson,27,Female,B+,2024-02-20,2024-03-18,Orthopedics,Dr. Lisa Patel,Joint Replacement,75532.76,Corporate Insurance,78.36,27,Routine Checkup,Discharged,Yes,7,13
+P00955,James Williams,80,Female,B+,2023-12-05,2023-12-19,General Medicine,Dr. Robert Kumar,Pneumonia,12910.07,Private Insurance,84.59,14,Elective,Transferred,No,7,7
+P00956,Sophia Johnson,51,Female,O-,2023-12-28,2024-01-09,Neurology,Dr. Emily Thompson,Epilepsy,7361.54,Medicare,83.66,12,Urgent,Discharged,Yes,5,4
+P00957,William Martinez,13,Male,A+,2023-06-04,2023-06-21,General Medicine,Dr. Michael Rodriguez,Gastritis,26035.11,Corporate Insurance,77.52,17,Emergency,Left AMA,Yes,2,13
+P00958,Isabella Brown,46,Female,AB-,2023-09-22,2023-09-23,Orthopedics,Dr. James Miller,Arthritis,2474.03,Self-Pay,0.00,1,Routine Checkup,Admitted,Yes,7,7
+P00959,Sophia Johnson,75,Male,AB+,2023-02-21,2023-03-06,Pediatrics,Dr. Sarah Chen,Growth Issues,19610.83,Medicaid,74.43,13,Routine Checkup,Discharged,Yes,1,15
+P00960,Ava Smith,63,Female,AB-,2023-04-18,2023-05-06,Orthopedics,Dr. Emily Thompson,Arthritis,22123.63,Corporate Insurance,60.60,18,Routine Checkup,Deceased,No,5,10
+P00961,Isabella Garcia,15,Male,O-,2024-12-16,2025-01-07,Cardiology,Dr. James Miller,Heart Attack,39936.87,Self-Pay,0.00,22,Elective,Transferred,No,6,8
+P00962,Isabella Williams,72,Male,A-,2023-04-13,2023-05-08,Cardiology,Dr. James Miller,Heart Failure,15367.60,Corporate Insurance,87.48,25,Urgent,Admitted,No,2,10
+P00963,Olivia Davis,19,Male,AB-,2023-12-30,2024-01-21,Orthopedics,Dr. Michael Rodriguez,Sports Injury,64824.14,Private Insurance,73.33,22,Urgent,Transferred,Yes,6,6
+P00964,William Davis,21,Female,A+,2024-03-31,2024-04-10,General Medicine,Dr. Emily Thompson,Hypertension,7987.60,Self-Pay,0.00,10,Elective,Discharged,Yes,3,1
+P00965,Michael Wilson,2,Male,A+,2024-08-23,2024-09-20,Pediatrics,Dr. Robert Kumar,Growth Issues,51786.79,Medicaid,80.14,28,Urgent,Admitted,Yes,7,5
+P00966,Isabella Davis,32,Male,O+,2024-08-12,2024-09-04,Pediatrics,Dr. Lisa Patel,Growth Issues,50413.31,Medicaid,71.82,23,Urgent,Discharged,Yes,4,4
+P00967,Michael Williams,32,Female,B+,2023-01-13,2023-01-29,Pediatrics,Dr. Sarah Chen,Growth Issues,18046.38,Private Insurance,69.79,16,Emergency,Admitted,Yes,3,4
+P00968,Emma Wilson,76,Female,AB-,2024-05-14,2024-05-21,Orthopedics,Dr. Lisa Patel,Joint Replacement,14681.93,Private Insurance,78.18,7,Elective,Deceased,No,7,8
+P00969,Robert Garcia,26,Male,B+,2024-01-02,2024-01-11,General Medicine,Dr. James Miller,Gastritis,8565.20,Corporate Insurance,70.93,9,Routine Checkup,Left AMA,Yes,2,4
+P00970,Sophia Davis,9,Female,AB-,2024-05-10,2024-06-09,General Medicine,Dr. James Miller,Pneumonia,14160.87,Corporate Insurance,86.22,30,Routine Checkup,Transferred,Yes,2,11
+P00971,Olivia Martinez,23,Female,AB+,2024-08-30,2024-09-18,Pediatrics,Dr. Emily Thompson,Infection,28688.12,Corporate Insurance,80.00,19,Urgent,Discharged,Yes,2,7
+P00972,James Wilson,26,Male,O+,2023-06-23,2023-07-10,Cardiology,Dr. Lisa Patel,Arrhythmia,34917.00,Medicaid,71.11,17,Routine Checkup,Admitted,No,2,13
+P00973,James Martinez,41,Female,O-,2023-10-19,2023-11-12,Pediatrics,Dr. Robert Kumar,Asthma,67478.02,Medicare,87.97,24,Emergency,Admitted,Yes,2,11
+P00974,Robert Johnson,10,Female,AB+,2023-04-04,2023-04-18,Emergency,Dr. Lisa Patel,Poisoning,24783.81,Private Insurance,66.43,14,Elective,Transferred,No,3,12
+P00975,James Williams,43,Male,O+,2024-01-18,2024-02-03,Neurology,Dr. Sarah Chen,Epilepsy,39127.57,Medicare,77.18,16,Routine Checkup,Admitted,Yes,1,14
+P00976,William Miller,48,Male,O-,2024-10-28,2024-11-17,General Medicine,Dr. Lisa Patel,Gastritis,32795.49,Corporate Insurance,74.39,20,Emergency,Transferred,Yes,2,9
+P00977,John Wilson,69,Female,A-,2024-04-26,2024-05-12,Emergency,Dr. James Miller,Burns,32397.11,Medicaid,75.80,16,Routine Checkup,Discharged,Yes,1,15
+P00978,Olivia Wilson,45,Male,AB-,2023-09-03,2023-09-29,Cardiology,Dr. Robert Kumar,Angina,28248.21,Medicaid,87.88,26,Elective,Transferred,Yes,3,12
+P00979,James Smith,61,Male,AB+,2024-12-11,2025-01-09,Neurology,Dr. Emily Thompson,Parkinsons,74374.32,Corporate Insurance,63.83,29,Emergency,Transferred,Yes,7,11
+P00980,Michael Martinez,35,Male,B-,2023-09-22,2023-10-04,Emergency,Dr. Michael Rodriguez,Poisoning,14969.72,Medicare,74.83,12,Urgent,Discharged,Yes,7,11
+P00981,William Wilson,6,Male,O-,2023-08-16,2023-09-15,Emergency,Dr. Lisa Patel,Trauma,36412.86,Self-Pay,0.00,30,Elective,Deceased,No,7,13
+P00982,Ava Wilson,43,Female,AB+,2024-12-27,2025-01-18,Cardiology,Dr. Sarah Chen,Arrhythmia,36054.79,Corporate Insurance,68.79,22,Routine Checkup,Transferred,Yes,7,3
+P00983,Olivia Davis,37,Male,O-,2024-03-08,2024-03-13,Neurology,Dr. Michael Rodriguez,Migraine,10910.19,Private Insurance,86.33,5,Emergency,Left AMA,Yes,1,13
+P00984,James Johnson,58,Female,AB+,2023-09-03,2023-09-22,Emergency,Dr. Michael Rodriguez,Poisoning,19401.87,Medicaid,87.52,19,Urgent,Discharged,Yes,1,10
+P00985,John Wilson,77,Male,B+,2024-06-14,2024-06-26,Orthopedics,Dr. Sarah Chen,Arthritis,28868.81,Self-Pay,0.00,12,Routine Checkup,Left AMA,No,2,4
+P00986,James Jones,35,Female,B-,2023-02-27,2023-03-29,Neurology,Dr. Lisa Patel,Stroke,70943.99,Medicaid,84.49,30,Emergency,Left AMA,No,7,2
+P00987,James Brown,55,Female,O+,2023-07-30,2023-08-07,Orthopedics,Dr. Emily Thompson,Joint Replacement,20719.18,Medicaid,77.44,8,Urgent,Deceased,No,7,2
+P00988,William Williams,52,Female,AB+,2023-05-15,2023-06-04,Pediatrics,Dr. Robert Kumar,Growth Issues,40979.17,Self-Pay,0.00,20,Urgent,Transferred,Yes,6,4
+P00989,Ava Martinez,49,Female,B-,2024-08-06,2024-09-01,Pediatrics,Dr. Robert Kumar,Infection,19119.57,Corporate Insurance,64.74,26,Elective,Left AMA,Yes,2,5
+P00990,William Garcia,79,Female,A+,2023-05-10,2023-05-22,Emergency,Dr. Lisa Patel,Poisoning,24508.29,Medicaid,83.96,12,Routine Checkup,Admitted,No,3,9
+P00991,Isabella Garcia,31,Male,A+,2024-09-22,2024-10-12,Cardiology,Dr. Michael Rodriguez,Arrhythmia,44085.41,Medicare,88.44,20,Routine Checkup,Deceased,Yes,2,8
+P00992,Sophia Smith,2,Male,B+,2024-05-08,2024-06-05,Neurology,Dr. Sarah Chen,Stroke,79209.25,Medicare,88.69,28,Elective,Deceased,Yes,8,3
+P00993,James Johnson,6,Female,A+,2023-08-30,2023-09-22,Pediatrics,Dr. Sarah Chen,Asthma,50270.35,Medicaid,71.57,23,Urgent,Discharged,Yes,8,12
+P00994,Isabella Jones,75,Male,O-,2024-01-31,2024-02-05,Cardiology,Dr. Michael Rodriguez,Arrhythmia,11317.07,Private Insurance,72.84,5,Elective,Left AMA,Yes,8,13
+P00995,Emma Jones,20,Female,O-,2023-11-10,2023-11-19,Pediatrics,Dr. Michael Rodriguez,Infection,30586.60,Medicaid,81.55,9,Urgent,Left AMA,Yes,4,2
+P00996,Robert Jones,28,Male,O-,2024-06-03,2024-06-27,Orthopedics,Dr. Michael Rodriguez,Arthritis,13507.17,Self-Pay,0.00,24,Urgent,Deceased,No,1,13
+P00997,Ava Davis,55,Male,O+,2023-09-07,2023-09-16,General Medicine,Dr. Robert Kumar,Pneumonia,11999.84,Self-Pay,0.00,9,Routine Checkup,Deceased,No,8,12
+P00998,Emma Davis,28,Female,A+,2024-06-01,2024-06-18,Neurology,Dr. Sarah Chen,Epilepsy,45703.22,Private Insurance,72.30,17,Routine Checkup,Discharged,Yes,1,12
+P00999,William Jones,66,Female,A-,2024-11-06,2024-11-21,Orthopedics,Dr. Michael Rodriguez,Sports Injury,36477.91,Self-Pay,0.00,15,Routine Checkup,Discharged,No,1,6
+P01000,John Smith,68,Male,AB+,2023-06-03,2023-06-30,Cardiology,Dr. Robert Kumar,Angina,70294.80,Medicaid,87.16,27,Routine Checkup,Transferred,Yes,5,5
+P01001,Isabella Johnson,64,Female,O+,2024-08-05,2024-09-02,Pediatrics,Dr. Sarah Chen,Asthma,74310.30,Medicare,70.62,28,Routine Checkup,Discharged,Yes,1,14
+P01002,John Jones,74,Male,A+,2023-06-27,2023-07-04,Orthopedics,Dr. James Miller,Arthritis,7312.14,Self-Pay,0.00,7,Elective,Left AMA,No,2,7
+P01003,John Wilson,2,Female,A-,2024-09-21,2024-10-04,Emergency,Dr. James Miller,Trauma,18434.22,Self-Pay,0.00,13,Emergency,Deceased,No,2,3
+P01004,Isabella Garcia,30,Male,AB+,2023-05-03,2023-05-16,General Medicine,Dr. Michael Rodriguez,Diabetes,11303.01,Private Insurance,66.96,13,Elective,Admitted,Yes,2,2
+P01005,William Davis,61,Female,O+,2024-11-21,2024-12-03,General Medicine,Dr. Sarah Chen,Gastritis,25485.14,Corporate Insurance,79.48,12,Elective,Discharged,Yes,4,9
+P01006,James Brown,35,Female,B+,2023-10-20,2023-10-31,Cardiology,Dr. Robert Kumar,Arrhythmia,10511.16,Medicare,89.52,11,Emergency,Admitted,No,7,10
+P01007,Ava Williams,61,Male,B+,2023-01-15,2023-01-19,Neurology,Dr. Emily Thompson,Epilepsy,7030.99,Medicare,88.28,4,Urgent,Discharged,Yes,3,7
+P01008,Olivia Johnson,24,Male,A-,2023-06-08,2023-06-24,Pediatrics,Dr. Robert Kumar,Asthma,17031.27,Medicare,77.15,16,Emergency,Left AMA,Yes,2,10
+P01009,Emma Smith,8,Female,B-,2024-08-03,2024-08-23,General Medicine,Dr. Lisa Patel,Hypertension,58030.66,Private Insurance,86.53,20,Elective,Left AMA,No,2,6
+P01010,Michael Jones,29,Male,AB-,2024-05-23,2024-06-11,Emergency,Dr. Robert Kumar,Accident,18333.24,Corporate Insurance,69.01,19,Urgent,Deceased,Yes,6,12
+P01011,William Martinez,54,Female,AB-,2024-07-05,2024-07-28,Emergency,Dr. Lisa Patel,Burns,36826.39,Self-Pay,0.00,23,Elective,Admitted,Yes,8,12
+P01012,Isabella Williams,61,Male,B+,2024-08-02,2024-08-11,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,5691.38,Medicaid,71.33,9,Elective,Deceased,No,4,5
+P01013,Sophia Martinez,79,Male,O+,2024-12-22,2024-12-28,Orthopedics,Dr. Sarah Chen,Sports Injury,9497.94,Medicaid,75.52,6,Emergency,Deceased,Yes,7,14
+P01014,Robert Miller,46,Male,A-,2024-02-02,2024-02-28,Orthopedics,Dr. Emily Thompson,Fracture,23797.71,Self-Pay,0.00,26,Elective,Left AMA,Yes,5,9
+P01015,William Martinez,5,Male,AB-,2024-12-20,2025-01-12,Cardiology,Dr. Emily Thompson,Angina,77434.41,Corporate Insurance,89.34,23,Elective,Deceased,Yes,5,7
+P01016,John Brown,63,Male,B-,2024-11-14,2024-11-19,Cardiology,Dr. Emily Thompson,Arrhythmia,4823.38,Private Insurance,70.43,5,Elective,Transferred,Yes,2,6
+P01017,Emma Miller,76,Male,B+,2023-12-26,2024-01-22,Orthopedics,Dr. Sarah Chen,Sports Injury,66916.29,Medicaid,83.90,27,Urgent,Deceased,No,1,6
+P01018,John Davis,75,Male,B+,2024-01-15,2024-01-27,Emergency,Dr. Robert Kumar,Poisoning,30647.59,Self-Pay,0.00,12,Routine Checkup,Deceased,No,7,5
+P01019,William Williams,55,Male,B-,2023-01-31,2023-02-01,Cardiology,Dr. Michael Rodriguez,Arrhythmia,1114.01,Private Insurance,89.49,1,Urgent,Left AMA,Yes,5,11
+P01020,John Davis,5,Female,AB+,2023-08-29,2023-09-18,General Medicine,Dr. Lisa Patel,Gastritis,44152.92,Medicaid,84.14,20,Routine Checkup,Transferred,Yes,3,5
+P01021,Emma Jones,49,Male,O+,2023-06-20,2023-07-16,Cardiology,Dr. Robert Kumar,Angina,25821.84,Private Insurance,81.61,26,Routine Checkup,Admitted,No,5,15
+P01022,Sophia Jones,67,Male,AB-,2023-11-10,2023-12-03,Pediatrics,Dr. Sarah Chen,Growth Issues,15330.15,Medicaid,87.11,23,Emergency,Discharged,Yes,5,9
+P01023,Ava Davis,42,Female,A+,2023-11-09,2023-11-29,Cardiology,Dr. James Miller,Arrhythmia,54650.15,Medicare,78.61,20,Elective,Left AMA,Yes,1,6
+P01024,Isabella Smith,8,Female,O-,2024-10-28,2024-11-19,General Medicine,Dr. Sarah Chen,Gastritis,26589.17,Corporate Insurance,73.74,22,Emergency,Discharged,Yes,5,8
+P01025,Ava Miller,58,Female,O+,2023-01-30,2023-02-07,Cardiology,Dr. Michael Rodriguez,Heart Failure,17553.60,Corporate Insurance,66.56,8,Elective,Discharged,Yes,6,6
+P01026,Robert Williams,65,Female,B+,2024-11-17,2024-11-24,General Medicine,Dr. Robert Kumar,Hypertension,12084.11,Corporate Insurance,62.58,7,Emergency,Left AMA,No,5,6
+P01027,William Smith,14,Female,O+,2024-11-10,2024-11-11,Orthopedics,Dr. Robert Kumar,Arthritis,1190.95,Corporate Insurance,88.76,1,Routine Checkup,Deceased,No,1,11
+P01028,William Johnson,40,Male,A+,2023-08-22,2023-08-26,Orthopedics,Dr. Sarah Chen,Fracture,10007.76,Medicare,87.62,4,Emergency,Deceased,Yes,6,1
+P01029,Robert Martinez,44,Female,O-,2024-11-26,2024-11-29,Pediatrics,Dr. Lisa Patel,Asthma,2862.77,Corporate Insurance,61.16,3,Urgent,Deceased,No,6,2
+P01030,Olivia Martinez,65,Male,B-,2023-11-11,2023-11-15,Neurology,Dr. Sarah Chen,Stroke,1772.77,Self-Pay,0.00,4,Routine Checkup,Transferred,Yes,7,5
+P01031,Emma Johnson,71,Male,B+,2023-05-08,2023-05-27,Emergency,Dr. Michael Rodriguez,Accident,20801.45,Medicaid,85.62,19,Elective,Transferred,Yes,7,12
+P01032,Olivia Davis,51,Male,O+,2024-09-22,2024-10-22,Orthopedics,Dr. Lisa Patel,Fracture,65484.40,Medicare,79.89,30,Urgent,Transferred,No,7,5
+P01033,Sophia Brown,42,Female,O-,2023-08-19,2023-08-27,Emergency,Dr. Lisa Patel,Trauma,25193.43,Medicaid,84.27,8,Elective,Deceased,Yes,8,1
+P01034,William Miller,21,Male,AB-,2024-09-04,2024-10-01,Neurology,Dr. Lisa Patel,Stroke,82584.71,Corporate Insurance,64.26,27,Urgent,Admitted,No,1,5
+P01035,Olivia Wilson,28,Female,AB-,2024-03-23,2024-04-10,Cardiology,Dr. Michael Rodriguez,Heart Failure,22060.00,Medicaid,74.29,18,Routine Checkup,Deceased,No,3,11
+P01036,Olivia Johnson,32,Female,O+,2024-07-03,2024-07-04,Cardiology,Dr. Robert Kumar,Angina,856.13,Medicare,87.51,1,Emergency,Discharged,Yes,1,2
+P01037,James Miller,60,Male,O+,2023-03-16,2023-03-23,Orthopedics,Dr. Lisa Patel,Joint Replacement,15846.56,Private Insurance,75.20,7,Elective,Discharged,Yes,2,1
+P01038,James Williams,43,Female,A-,2023-10-24,2023-11-11,Emergency,Dr. Robert Kumar,Accident,50576.82,Medicare,72.77,18,Routine Checkup,Admitted,No,3,6
+P01039,Emma Davis,48,Female,B-,2023-02-09,2023-02-23,Emergency,Dr. Emily Thompson,Burns,36650.13,Medicare,77.19,14,Urgent,Deceased,Yes,7,11
+P01040,Emma Brown,38,Female,A+,2024-08-24,2024-08-30,Pediatrics,Dr. James Miller,Asthma,8262.99,Medicaid,73.49,6,Emergency,Left AMA,Yes,5,8
+P01041,James Miller,77,Male,O+,2024-06-22,2024-06-23,Pediatrics,Dr. Sarah Chen,Fever,3253.92,Medicare,76.61,1,Urgent,Deceased,Yes,8,14
+P01042,Sophia Martinez,41,Male,AB-,2023-10-01,2023-10-04,Neurology,Dr. Robert Kumar,Parkinsons,8007.27,Corporate Insurance,81.19,3,Routine Checkup,Admitted,No,5,5
+P01043,Robert Brown,2,Female,B-,2023-02-24,2023-03-09,Neurology,Dr. Robert Kumar,Parkinsons,15906.70,Corporate Insurance,71.76,13,Routine Checkup,Transferred,Yes,6,3
+P01044,James Davis,40,Female,B+,2024-02-11,2024-03-12,Emergency,Dr. Robert Kumar,Burns,35575.64,Private Insurance,75.63,30,Urgent,Deceased,Yes,7,14
+P01045,James Williams,43,Female,AB+,2023-09-19,2023-09-20,General Medicine,Dr. Michael Rodriguez,Pneumonia,3334.47,Medicaid,73.95,1,Emergency,Admitted,No,7,15
+P01046,Isabella Miller,22,Male,AB+,2023-03-03,2023-03-18,General Medicine,Dr. Emily Thompson,Hypertension,27317.56,Medicare,81.50,15,Elective,Admitted,No,3,13
+P01047,Emma Jones,37,Male,AB+,2024-01-21,2024-01-24,Cardiology,Dr. Michael Rodriguez,Heart Attack,9765.16,Self-Pay,0.00,3,Elective,Admitted,No,2,3
+P01048,Olivia Brown,46,Female,AB-,2024-01-05,2024-02-01,Orthopedics,Dr. James Miller,Fracture,38075.52,Corporate Insurance,71.48,27,Routine Checkup,Discharged,Yes,5,6
+P01049,Emma Davis,54,Male,A-,2023-11-27,2023-12-23,Neurology,Dr. James Miller,Parkinsons,64461.27,Private Insurance,71.14,26,Emergency,Admitted,Yes,3,12
+P01050,John Davis,59,Male,O+,2024-12-03,2024-12-09,Cardiology,Dr. James Miller,Arrhythmia,8566.52,Corporate Insurance,87.72,6,Urgent,Discharged,No,4,7
+P01051,Ava Smith,40,Male,O+,2024-01-12,2024-02-05,Emergency,Dr. James Miller,Poisoning,68426.16,Private Insurance,78.31,24,Elective,Admitted,Yes,4,6
+P01052,Olivia Brown,77,Male,AB-,2023-01-23,2023-02-11,Cardiology,Dr. Emily Thompson,Arrhythmia,62851.01,Corporate Insurance,64.12,19,Routine Checkup,Admitted,Yes,1,9
+P01053,James Davis,48,Female,B+,2024-01-18,2024-02-11,Cardiology,Dr. Robert Kumar,Arrhythmia,58758.53,Private Insurance,64.17,24,Elective,Admitted,No,1,8
+P01054,Olivia Martinez,42,Male,O+,2024-07-30,2024-08-24,Pediatrics,Dr. James Miller,Growth Issues,40002.69,Self-Pay,0.00,25,Elective,Transferred,Yes,8,8
+P01055,Sophia Wilson,33,Male,A+,2024-08-30,2024-09-15,Emergency,Dr. Sarah Chen,Poisoning,27744.63,Medicare,81.29,16,Elective,Transferred,Yes,5,13
+P01056,Sophia Jones,14,Female,B-,2023-06-19,2023-07-07,Orthopedics,Dr. Michael Rodriguez,Sports Injury,52297.03,Self-Pay,0.00,18,Routine Checkup,Deceased,No,7,5
+P01057,Emma Smith,53,Female,B-,2024-02-14,2024-02-22,Emergency,Dr. Lisa Patel,Burns,23661.26,Medicaid,71.03,8,Routine Checkup,Left AMA,Yes,8,4
+P01058,Emma Brown,2,Female,A-,2024-07-11,2024-08-03,Emergency,Dr. Lisa Patel,Poisoning,77820.14,Medicare,79.14,23,Elective,Left AMA,No,7,9
+P01059,James Brown,12,Female,B+,2024-10-25,2024-11-16,Neurology,Dr. Emily Thompson,Migraine,35641.68,Medicaid,86.60,22,Elective,Admitted,Yes,7,6
+P01060,William Jones,17,Female,O-,2023-04-16,2023-05-16,Pediatrics,Dr. Robert Kumar,Fever,53751.06,Private Insurance,79.19,30,Emergency,Discharged,No,3,6
+P01061,Emma Davis,23,Female,AB+,2023-01-11,2023-02-01,Orthopedics,Dr. Sarah Chen,Sports Injury,60541.10,Self-Pay,0.00,21,Routine Checkup,Deceased,Yes,6,8
+P01062,Olivia Garcia,15,Female,B+,2024-01-08,2024-01-21,Pediatrics,Dr. Robert Kumar,Asthma,29687.41,Medicaid,79.19,13,Routine Checkup,Transferred,No,2,13
+P01063,Emma Garcia,1,Male,AB+,2023-11-27,2023-12-21,Pediatrics,Dr. Emily Thompson,Growth Issues,56341.41,Medicaid,81.77,24,Emergency,Transferred,Yes,3,8
+P01064,Olivia Johnson,67,Male,A+,2024-06-11,2024-07-06,Neurology,Dr. Robert Kumar,Epilepsy,57807.10,Corporate Insurance,87.51,25,Urgent,Transferred,No,7,7
+P01065,Ava Miller,43,Female,AB+,2024-06-05,2024-06-28,Cardiology,Dr. James Miller,Angina,32435.91,Corporate Insurance,63.26,23,Elective,Admitted,No,3,9
+P01066,John Miller,31,Female,O+,2024-03-23,2024-04-06,Pediatrics,Dr. Lisa Patel,Infection,40935.41,Self-Pay,0.00,14,Urgent,Admitted,No,4,11
+P01067,Sophia Smith,48,Female,O+,2023-07-15,2023-08-11,Emergency,Dr. Lisa Patel,Trauma,19631.43,Corporate Insurance,78.72,27,Urgent,Admitted,No,3,15
+P01068,Isabella Martinez,19,Male,AB+,2024-04-01,2024-04-04,Cardiology,Dr. Lisa Patel,Arrhythmia,5009.42,Corporate Insurance,89.96,3,Emergency,Discharged,No,2,8
+P01069,James Garcia,25,Male,AB-,2023-07-15,2023-07-18,General Medicine,Dr. Emily Thompson,Hypertension,6754.73,Private Insurance,63.93,3,Urgent,Transferred,Yes,1,8
+P01070,Emma Brown,26,Female,B-,2023-12-09,2023-12-24,Cardiology,Dr. Michael Rodriguez,Arrhythmia,21671.22,Private Insurance,66.97,15,Elective,Left AMA,Yes,5,14
+P01071,Michael Wilson,35,Male,O+,2023-01-07,2023-01-08,Cardiology,Dr. Emily Thompson,Arrhythmia,2073.29,Private Insurance,78.51,1,Emergency,Deceased,Yes,3,3
+P01072,Isabella Williams,59,Male,B+,2023-03-05,2023-03-28,Emergency,Dr. Michael Rodriguez,Burns,15601.08,Self-Pay,0.00,23,Urgent,Left AMA,Yes,4,9
+P01073,Isabella Smith,29,Female,AB-,2023-12-10,2024-01-07,Neurology,Dr. Emily Thompson,Migraine,86256.82,Medicaid,77.83,28,Urgent,Admitted,Yes,2,3
+P01074,Ava Davis,61,Female,B+,2024-05-14,2024-06-05,Orthopedics,Dr. Lisa Patel,Joint Replacement,51447.09,Medicaid,76.74,22,Elective,Left AMA,No,3,9
+P01075,Sophia Miller,46,Male,O-,2023-06-09,2023-06-13,Pediatrics,Dr. Sarah Chen,Asthma,6995.07,Corporate Insurance,67.92,4,Emergency,Deceased,Yes,7,10
+P01076,Robert Miller,67,Female,AB+,2024-07-15,2024-07-22,Emergency,Dr. Lisa Patel,Poisoning,12824.30,Corporate Insurance,61.53,7,Elective,Deceased,Yes,4,3
+P01077,Ava Brown,1,Male,B+,2023-12-10,2024-01-08,Orthopedics,Dr. Michael Rodriguez,Sports Injury,37137.50,Medicare,88.48,29,Routine Checkup,Discharged,Yes,7,6
+P01078,James Wilson,27,Male,O+,2024-03-19,2024-04-02,Emergency,Dr. James Miller,Poisoning,29767.61,Medicaid,83.65,14,Urgent,Transferred,No,8,6
+P01079,Emma Jones,62,Male,A+,2023-07-24,2023-07-25,Neurology,Dr. Lisa Patel,Parkinsons,2197.55,Self-Pay,0.00,1,Elective,Discharged,No,7,2
+P01080,Olivia Miller,68,Male,O-,2023-08-01,2023-08-07,Cardiology,Dr. Lisa Patel,Angina,7133.95,Private Insurance,71.34,6,Urgent,Transferred,No,6,3
+P01081,James Brown,13,Female,B+,2024-10-14,2024-10-20,Emergency,Dr. Sarah Chen,Poisoning,7940.95,Medicaid,74.24,6,Emergency,Transferred,No,7,7
+P01082,William Davis,74,Male,AB+,2023-02-16,2023-02-23,Emergency,Dr. Sarah Chen,Poisoning,7283.23,Self-Pay,0.00,7,Urgent,Deceased,Yes,8,6
+P01083,Ava Jones,78,Female,AB+,2024-10-26,2024-11-14,Neurology,Dr. Sarah Chen,Stroke,19709.47,Private Insurance,72.37,19,Routine Checkup,Deceased,No,4,6
+P01084,Sophia Smith,13,Male,A+,2023-04-15,2023-04-30,Cardiology,Dr. Sarah Chen,Arrhythmia,39883.18,Self-Pay,0.00,15,Elective,Deceased,No,1,8
+P01085,Olivia Garcia,22,Male,O+,2024-09-05,2024-10-01,Neurology,Dr. James Miller,Parkinsons,41688.96,Self-Pay,0.00,26,Urgent,Left AMA,Yes,6,10
+P01086,Olivia Garcia,38,Female,B+,2024-04-26,2024-05-14,General Medicine,Dr. Emily Thompson,Hypertension,40694.12,Private Insurance,67.34,18,Emergency,Deceased,Yes,7,1
+P01087,Emma Johnson,37,Male,O-,2024-10-19,2024-11-02,General Medicine,Dr. Michael Rodriguez,Hypertension,43818.01,Corporate Insurance,73.00,14,Emergency,Admitted,No,5,6
+P01088,Michael Jones,54,Female,A+,2023-12-24,2024-01-17,Neurology,Dr. James Miller,Parkinsons,26146.60,Medicaid,80.09,24,Emergency,Admitted,No,1,8
+P01089,Michael Williams,18,Male,A+,2024-05-10,2024-06-07,Pediatrics,Dr. Michael Rodriguez,Infection,40941.05,Private Insurance,70.70,28,Emergency,Left AMA,Yes,8,1
+P01090,Sophia Miller,78,Male,A+,2023-03-05,2023-03-08,Neurology,Dr. Robert Kumar,Migraine,1238.30,Corporate Insurance,61.88,3,Routine Checkup,Discharged,Yes,5,3
+P01091,Robert Williams,18,Female,AB+,2024-02-05,2024-02-29,Neurology,Dr. Robert Kumar,Stroke,51955.59,Medicare,88.19,24,Elective,Left AMA,Yes,2,12
+P01092,Emma Davis,44,Male,B-,2024-08-14,2024-08-30,Emergency,Dr. Emily Thompson,Poisoning,10207.35,Medicaid,70.41,16,Urgent,Deceased,Yes,3,15
+P01093,Emma Brown,8,Female,A-,2024-07-09,2024-07-20,General Medicine,Dr. Michael Rodriguez,Pneumonia,11633.71,Medicaid,85.73,11,Emergency,Transferred,Yes,5,2
+P01094,Robert Williams,5,Female,B+,2024-05-06,2024-05-09,Pediatrics,Dr. Sarah Chen,Asthma,6961.96,Self-Pay,0.00,3,Elective,Admitted,No,7,8
+P01095,Michael Wilson,32,Female,O+,2024-01-27,2024-01-31,Emergency,Dr. James Miller,Trauma,11267.81,Self-Pay,0.00,4,Urgent,Left AMA,No,6,14
+P01096,Michael Davis,18,Male,B-,2023-03-13,2023-03-22,Orthopedics,Dr. Sarah Chen,Arthritis,28053.36,Self-Pay,0.00,9,Elective,Deceased,Yes,5,7
+P01097,Michael Brown,78,Male,AB-,2024-01-16,2024-01-18,Orthopedics,Dr. Michael Rodriguez,Fracture,6770.48,Private Insurance,89.13,2,Routine Checkup,Transferred,Yes,6,14
+P01098,Isabella Garcia,75,Female,O+,2024-08-18,2024-08-23,Neurology,Dr. James Miller,Stroke,5990.06,Medicare,70.19,5,Elective,Left AMA,Yes,1,13
+P01099,Sophia Miller,76,Male,O-,2023-11-09,2023-12-03,Pediatrics,Dr. Sarah Chen,Growth Issues,21719.53,Medicaid,73.72,24,Emergency,Transferred,No,7,6
+P01100,Emma Johnson,20,Female,O-,2024-05-28,2024-06-14,General Medicine,Dr. James Miller,Diabetes,34068.46,Private Insurance,81.02,17,Elective,Discharged,Yes,3,9
+P01101,William Martinez,68,Male,A+,2024-01-23,2024-02-06,Emergency,Dr. Lisa Patel,Trauma,24618.48,Private Insurance,66.07,14,Urgent,Admitted,No,8,1
+P01102,Emma Johnson,62,Male,AB-,2023-08-10,2023-08-21,Cardiology,Dr. James Miller,Angina,7207.48,Private Insurance,77.18,11,Urgent,Discharged,Yes,7,10
+P01103,Michael Garcia,74,Female,O+,2024-02-04,2024-02-26,Pediatrics,Dr. Sarah Chen,Growth Issues,37737.17,Private Insurance,77.03,22,Routine Checkup,Transferred,No,8,5
+P01104,James Jones,17,Female,B-,2024-05-25,2024-06-24,Emergency,Dr. Robert Kumar,Burns,47296.65,Private Insurance,85.77,30,Routine Checkup,Discharged,Yes,1,12
+P01105,Emma Brown,72,Male,AB+,2024-05-14,2024-05-30,General Medicine,Dr. Robert Kumar,Diabetes,12977.72,Corporate Insurance,88.15,16,Routine Checkup,Admitted,No,4,9
+P01106,Robert Jones,79,Female,A-,2024-12-26,2025-01-09,Emergency,Dr. Emily Thompson,Burns,18574.15,Self-Pay,0.00,14,Routine Checkup,Admitted,No,3,10
+P01107,Robert Smith,17,Female,AB-,2023-04-23,2023-04-26,Emergency,Dr. James Miller,Burns,6175.57,Private Insurance,68.12,3,Urgent,Left AMA,Yes,2,15
+P01108,Ava Davis,56,Female,B+,2023-12-07,2023-12-10,Orthopedics,Dr. Robert Kumar,Arthritis,8368.90,Private Insurance,65.32,3,Elective,Discharged,Yes,4,15
+P01109,Isabella Brown,70,Female,B+,2023-09-28,2023-10-26,Neurology,Dr. Lisa Patel,Stroke,34399.50,Medicare,84.53,28,Urgent,Transferred,No,1,3
+P01110,William Wilson,70,Female,B-,2024-09-13,2024-10-11,Pediatrics,Dr. Emily Thompson,Infection,30161.56,Medicaid,71.43,28,Routine Checkup,Transferred,Yes,4,14
+P01111,Emma Garcia,24,Female,AB+,2024-08-03,2024-08-30,General Medicine,Dr. Robert Kumar,Diabetes,26705.95,Medicare,77.95,27,Routine Checkup,Left AMA,Yes,5,14
+P01112,Emma Brown,54,Male,O+,2024-07-01,2024-07-17,Neurology,Dr. Emily Thompson,Migraine,15651.57,Medicaid,75.03,16,Routine Checkup,Left AMA,No,7,14
+P01113,William Garcia,10,Male,AB+,2024-11-14,2024-12-09,Orthopedics,Dr. Sarah Chen,Fracture,33385.72,Self-Pay,0.00,25,Emergency,Discharged,No,3,1
+P01114,John Martinez,16,Male,AB+,2023-01-12,2023-01-29,Pediatrics,Dr. Sarah Chen,Asthma,37033.20,Self-Pay,0.00,17,Routine Checkup,Admitted,No,1,9
+P01115,Michael Smith,47,Female,AB-,2024-01-29,2024-01-30,Cardiology,Dr. Lisa Patel,Heart Attack,1954.51,Medicare,70.56,1,Elective,Discharged,No,5,1
+P01116,Isabella Jones,12,Male,O-,2023-02-18,2023-02-26,Pediatrics,Dr. Michael Rodriguez,Infection,15848.41,Private Insurance,75.23,8,Elective,Admitted,No,5,14
+P01117,Michael Brown,15,Female,AB-,2024-02-23,2024-03-09,General Medicine,Dr. James Miller,Hypertension,23422.74,Self-Pay,0.00,15,Urgent,Deceased,Yes,2,12
+P01118,Ava Jones,72,Female,A-,2024-04-19,2024-04-21,General Medicine,Dr. Sarah Chen,Hypertension,1221.08,Corporate Insurance,64.63,2,Urgent,Left AMA,Yes,5,2
+P01119,Ava Davis,53,Female,B+,2023-06-23,2023-07-21,Pediatrics,Dr. James Miller,Infection,18278.37,Medicaid,70.93,28,Elective,Discharged,Yes,1,8
+P01120,William Brown,41,Female,AB+,2024-03-22,2024-03-26,Neurology,Dr. Sarah Chen,Stroke,7538.68,Self-Pay,0.00,4,Urgent,Deceased,No,6,4
+P01121,Michael Miller,32,Female,A+,2024-12-28,2025-01-21,Emergency,Dr. Emily Thompson,Accident,51118.83,Self-Pay,0.00,24,Urgent,Transferred,Yes,2,8
+P01122,William Miller,76,Female,AB-,2023-12-14,2023-12-18,General Medicine,Dr. Sarah Chen,Diabetes,10674.77,Corporate Insurance,74.18,4,Emergency,Transferred,Yes,8,6
+P01123,William Martinez,32,Male,AB-,2024-03-02,2024-03-12,Pediatrics,Dr. Sarah Chen,Fever,29512.61,Corporate Insurance,62.53,10,Emergency,Discharged,No,4,1
+P01124,Michael Wilson,38,Male,O-,2024-06-07,2024-06-22,Neurology,Dr. Robert Kumar,Migraine,40909.58,Corporate Insurance,75.25,15,Elective,Discharged,Yes,6,2
+P01125,James Brown,34,Female,AB-,2024-06-16,2024-06-22,Pediatrics,Dr. Michael Rodriguez,Infection,13016.17,Corporate Insurance,71.88,6,Urgent,Admitted,Yes,2,3
+P01126,Michael Martinez,74,Male,O-,2024-01-28,2024-02-21,Pediatrics,Dr. Michael Rodriguez,Asthma,45253.90,Medicare,85.29,24,Routine Checkup,Left AMA,No,7,1
+P01127,James Davis,1,Male,AB+,2024-07-10,2024-07-13,Cardiology,Dr. Sarah Chen,Heart Attack,6072.54,Medicare,87.08,3,Routine Checkup,Left AMA,Yes,1,2
+P01128,Olivia Brown,36,Male,A-,2024-03-11,2024-03-22,General Medicine,Dr. James Miller,Diabetes,18952.02,Medicaid,76.70,11,Urgent,Left AMA,No,6,7
+P01129,Ava Williams,2,Female,O+,2023-04-16,2023-05-16,Emergency,Dr. Michael Rodriguez,Trauma,19006.55,Self-Pay,0.00,30,Elective,Discharged,Yes,5,12
+P01130,John Wilson,68,Male,AB-,2024-06-14,2024-06-16,General Medicine,Dr. Lisa Patel,Diabetes,2572.27,Corporate Insurance,89.42,2,Elective,Left AMA,No,3,13
+P01131,William Jones,30,Male,B+,2024-03-02,2024-03-09,General Medicine,Dr. Lisa Patel,Pneumonia,6954.91,Medicaid,85.46,7,Elective,Transferred,Yes,7,3
+P01132,Sophia Williams,68,Female,O+,2023-04-06,2023-04-27,General Medicine,Dr. Robert Kumar,Diabetes,59201.25,Medicaid,77.08,21,Urgent,Deceased,Yes,6,10
+P01133,Michael Garcia,58,Male,A-,2024-07-02,2024-07-30,Cardiology,Dr. Robert Kumar,Arrhythmia,14162.74,Medicaid,74.66,28,Urgent,Discharged,No,3,9
+P01134,James Garcia,41,Female,B-,2024-04-24,2024-05-05,General Medicine,Dr. Emily Thompson,Diabetes,13693.98,Medicare,77.31,11,Elective,Discharged,No,5,5
+P01135,Isabella Miller,77,Female,B+,2024-06-17,2024-07-03,Orthopedics,Dr. Michael Rodriguez,Sports Injury,50761.45,Private Insurance,72.97,16,Elective,Transferred,Yes,5,15
+P01136,Emma Garcia,77,Male,AB-,2024-02-27,2024-02-28,Cardiology,Dr. Emily Thompson,Heart Failure,1623.95,Medicare,86.74,1,Elective,Transferred,No,3,9
+P01137,Robert Smith,33,Female,B-,2024-11-17,2024-12-05,Neurology,Dr. Emily Thompson,Parkinsons,37545.72,Corporate Insurance,74.34,18,Routine Checkup,Admitted,Yes,6,7
+P01138,Sophia Brown,48,Male,A+,2023-02-07,2023-02-23,Pediatrics,Dr. Emily Thompson,Asthma,26663.56,Private Insurance,60.84,16,Urgent,Transferred,Yes,3,2
+P01139,Robert Jones,64,Female,B-,2024-11-17,2024-12-13,Pediatrics,Dr. Emily Thompson,Asthma,35037.37,Medicare,77.46,26,Urgent,Admitted,Yes,5,12
+P01140,Michael Garcia,69,Male,B-,2024-07-14,2024-07-22,General Medicine,Dr. Lisa Patel,Diabetes,14765.22,Medicaid,85.29,8,Emergency,Left AMA,Yes,5,3
+P01141,Emma Johnson,12,Male,B-,2023-09-19,2023-09-29,Cardiology,Dr. Sarah Chen,Angina,17793.69,Corporate Insurance,69.63,10,Urgent,Admitted,Yes,4,1
+P01142,James Garcia,31,Female,A+,2023-10-22,2023-11-14,Neurology,Dr. Emily Thompson,Stroke,31648.00,Self-Pay,0.00,23,Elective,Left AMA,Yes,3,7
+P01143,Ava Miller,35,Female,A+,2024-09-19,2024-10-17,Cardiology,Dr. Robert Kumar,Heart Attack,21980.01,Medicare,82.77,28,Elective,Admitted,Yes,4,1
+P01144,Robert Wilson,71,Female,O+,2024-09-10,2024-10-06,Emergency,Dr. Lisa Patel,Burns,65330.74,Private Insurance,81.15,26,Routine Checkup,Transferred,No,5,8
+P01145,John Martinez,69,Female,B+,2023-02-06,2023-02-14,Emergency,Dr. Robert Kumar,Burns,15384.88,Medicare,86.15,8,Routine Checkup,Admitted,No,8,14
+P01146,Emma Williams,53,Female,B+,2024-04-09,2024-04-19,Orthopedics,Dr. Emily Thompson,Arthritis,23643.55,Medicare,80.66,10,Urgent,Transferred,Yes,8,4
+P01147,John Jones,68,Male,AB+,2024-03-22,2024-04-01,Cardiology,Dr. Robert Kumar,Arrhythmia,5226.66,Self-Pay,0.00,10,Emergency,Left AMA,Yes,1,10
+P01148,Sophia Garcia,61,Male,B+,2024-01-26,2024-02-20,Orthopedics,Dr. Sarah Chen,Fracture,71913.86,Private Insurance,68.20,25,Elective,Left AMA,Yes,7,13
+P01149,John Smith,72,Male,O+,2023-11-07,2023-11-14,Orthopedics,Dr. James Miller,Fracture,23390.65,Medicaid,88.42,7,Routine Checkup,Left AMA,Yes,7,13
+P01150,Ava Jones,19,Male,A+,2023-06-22,2023-07-12,Cardiology,Dr. Robert Kumar,Angina,36409.22,Self-Pay,0.00,20,Emergency,Left AMA,Yes,7,12
+P01151,Olivia Martinez,14,Female,O+,2024-12-11,2024-12-29,General Medicine,Dr. Lisa Patel,Pneumonia,14868.47,Self-Pay,0.00,18,Urgent,Transferred,Yes,2,2
+P01152,Robert Wilson,42,Male,AB+,2024-02-12,2024-02-17,General Medicine,Dr. Lisa Patel,Gastritis,13707.03,Self-Pay,0.00,5,Emergency,Discharged,No,2,3
+P01153,Sophia Williams,6,Male,A+,2023-07-17,2023-08-15,Cardiology,Dr. Emily Thompson,Heart Failure,32784.51,Corporate Insurance,80.09,29,Emergency,Deceased,Yes,1,11
+P01154,Robert Miller,21,Male,A+,2023-08-13,2023-08-15,Cardiology,Dr. Sarah Chen,Heart Attack,5193.60,Medicaid,72.86,2,Emergency,Left AMA,No,6,6
+P01155,Isabella Jones,55,Male,A+,2023-12-12,2024-01-04,Emergency,Dr. James Miller,Accident,77397.51,Private Insurance,77.51,23,Routine Checkup,Admitted,Yes,3,13
+P01156,John Johnson,64,Male,O+,2024-04-01,2024-04-20,Emergency,Dr. Robert Kumar,Burns,58165.63,Medicare,83.88,19,Elective,Transferred,Yes,3,13
+P01157,John Garcia,39,Female,A+,2023-12-08,2023-12-28,Emergency,Dr. Michael Rodriguez,Burns,22466.69,Corporate Insurance,79.87,20,Routine Checkup,Discharged,No,4,3
+P01158,James Wilson,56,Male,B-,2023-09-27,2023-10-18,Neurology,Dr. Robert Kumar,Parkinsons,60234.37,Medicare,78.63,21,Urgent,Transferred,No,7,13
+P01159,Sophia Wilson,73,Female,AB-,2024-07-17,2024-08-11,Cardiology,Dr. Robert Kumar,Heart Failure,48704.00,Self-Pay,0.00,25,Urgent,Discharged,No,7,2
+P01160,Sophia Williams,32,Male,O-,2023-03-03,2023-03-29,Emergency,Dr. Emily Thompson,Burns,59652.52,Medicare,73.46,26,Elective,Transferred,No,8,14
+P01161,James Martinez,26,Female,AB+,2023-06-10,2023-06-19,General Medicine,Dr. Lisa Patel,Hypertension,17225.09,Medicare,71.75,9,Routine Checkup,Transferred,Yes,5,6
+P01162,John Miller,26,Female,A+,2024-06-13,2024-06-16,Orthopedics,Dr. Robert Kumar,Joint Replacement,8744.72,Private Insurance,87.26,3,Urgent,Deceased,No,6,5
+P01163,Michael Jones,64,Female,AB-,2023-03-25,2023-04-12,General Medicine,Dr. James Miller,Pneumonia,15553.62,Corporate Insurance,78.81,18,Urgent,Deceased,Yes,4,15
+P01164,William Jones,76,Female,AB-,2024-04-07,2024-04-25,Pediatrics,Dr. Lisa Patel,Asthma,17687.58,Medicaid,77.24,18,Routine Checkup,Left AMA,No,5,1
+P01165,Sophia Wilson,2,Female,A-,2024-07-10,2024-07-12,Orthopedics,Dr. Sarah Chen,Fracture,5105.20,Self-Pay,0.00,2,Routine Checkup,Admitted,No,5,1
+P01166,John Brown,1,Male,O-,2023-04-03,2023-04-09,Pediatrics,Dr. James Miller,Fever,8719.84,Corporate Insurance,74.11,6,Emergency,Deceased,Yes,3,9
+P01167,Sophia Garcia,16,Female,O+,2023-05-07,2023-06-02,Pediatrics,Dr. Lisa Patel,Infection,44672.97,Medicaid,80.44,26,Urgent,Discharged,Yes,5,1
+P01168,Emma Johnson,14,Female,B+,2023-12-22,2024-01-17,Orthopedics,Dr. Michael Rodriguez,Joint Replacement,50489.39,Private Insurance,72.90,26,Emergency,Admitted,Yes,3,1
+P01169,Olivia Davis,75,Female,O-,2023-07-18,2023-07-26,General Medicine,Dr. Lisa Patel,Diabetes,26716.30,Self-Pay,0.00,8,Routine Checkup,Transferred,Yes,2,12
+P01170,Michael Miller,53,Male,AB-,2023-04-25,2023-05-21,Orthopedics,Dr. Sarah Chen,Joint Replacement,38277.08,Private Insurance,89.91,26,Elective,Left AMA,No,6,2
+P01171,John Brown,19,Female,A+,2023-07-20,2023-08-14,Neurology,Dr. James Miller,Stroke,77275.32,Medicaid,75.20,25,Routine Checkup,Admitted,Yes,3,4
+P01172,Isabella Smith,57,Male,AB-,2024-05-26,2024-06-01,Cardiology,Dr. Robert Kumar,Heart Attack,3209.47,Private Insurance,78.85,6,Elective,Admitted,Yes,5,10
+P01173,Emma Wilson,71,Male,AB+,2023-05-30,2023-06-27,Pediatrics,Dr. James Miller,Fever,11828.54,Self-Pay,0.00,28,Elective,Left AMA,No,2,13
+P01174,William Miller,66,Female,AB+,2023-12-19,2024-01-12,General Medicine,Dr. Robert Kumar,Pneumonia,29382.70,Medicaid,72.60,24,Urgent,Discharged,No,1,6
+P01175,John Martinez,34,Male,B+,2023-12-30,2024-01-17,Pediatrics,Dr. Sarah Chen,Asthma,59901.72,Corporate Insurance,83.86,18,Urgent,Discharged,Yes,2,15
+P01176,John Johnson,31,Female,AB+,2023-07-05,2023-07-24,Pediatrics,Dr. Sarah Chen,Growth Issues,10316.34,Self-Pay,0.00,19,Routine Checkup,Transferred,No,6,4
+P01177,James Martinez,39,Female,AB-,2023-12-15,2023-12-28,Pediatrics,Dr. Sarah Chen,Asthma,19119.10,Medicaid,89.62,13,Urgent,Deceased,Yes,6,1
+P01178,Ava Miller,32,Female,AB+,2023-11-07,2023-11-10,Emergency,Dr. Emily Thompson,Poisoning,9785.71,Medicare,86.81,3,Emergency,Admitted,No,8,4
+P01179,William Smith,56,Male,AB-,2024-09-04,2024-09-24,Emergency,Dr. Lisa Patel,Poisoning,17836.17,Medicaid,73.20,20,Urgent,Admitted,No,4,14
+P01180,Olivia Martinez,67,Male,A-,2023-02-11,2023-02-21,Emergency,Dr. Lisa Patel,Trauma,9988.77,Medicaid,76.74,10,Emergency,Admitted,No,5,1
+P01181,Olivia Jones,4,Male,O-,2024-07-21,2024-08-04,Orthopedics,Dr. Lisa Patel,Joint Replacement,25732.08,Medicaid,80.05,14,Emergency,Left AMA,Yes,2,2
+P01182,Ava Miller,63,Male,B+,2023-02-16,2023-02-23,Cardiology,Dr. Michael Rodriguez,Heart Attack,5275.66,Corporate Insurance,60.90,7,Routine Checkup,Admitted,No,5,9
+P01183,Michael Williams,66,Male,O+,2023-10-01,2023-10-25,Pediatrics,Dr. Michael Rodriguez,Infection,14205.64,Private Insurance,67.74,24,Urgent,Transferred,No,8,15
+P01184,Olivia Brown,42,Male,B-,2024-07-31,2024-08-11,Emergency,Dr. Michael Rodriguez,Burns,25409.38,Medicaid,87.08,11,Urgent,Transferred,Yes,3,10
+P01185,Ava Garcia,21,Male,O-,2024-02-11,2024-02-28,Neurology,Dr. James Miller,Migraine,26163.11,Medicaid,85.67,17,Urgent,Deceased,Yes,5,8
+P01186,Isabella Smith,67,Female,B-,2024-09-27,2024-10-04,Neurology,Dr. Michael Rodriguez,Epilepsy,12118.79,Self-Pay,0.00,7,Elective,Left AMA,No,3,7
+P01187,Sophia Martinez,36,Female,A-,2023-10-03,2023-10-31,Pediatrics,Dr. James Miller,Asthma,33695.48,Self-Pay,0.00,28,Emergency,Discharged,Yes,8,7
+P01188,Ava Wilson,53,Male,B-,2024-05-04,2024-06-03,Cardiology,Dr. James Miller,Arrhythmia,14738.16,Corporate Insurance,81.75,30,Elective,Transferred,No,1,14
+P01189,Olivia Jones,47,Male,A+,2023-07-11,2023-07-28,Emergency,Dr. Sarah Chen,Poisoning,47657.31,Medicare,81.45,17,Elective,Admitted,No,8,14
+P01190,John Jones,30,Male,B+,2023-11-27,2023-11-28,Cardiology,Dr. Robert Kumar,Angina,581.85,Medicare,89.29,1,Urgent,Left AMA,No,5,9
+P01191,William Smith,33,Male,B-,2023-11-03,2023-11-28,Pediatrics,Dr. Emily Thompson,Growth Issues,58918.55,Medicare,81.95,25,Emergency,Transferred,Yes,7,1
+P01192,Sophia Martinez,20,Female,A-,2024-03-23,2024-03-31,Cardiology,Dr. James Miller,Heart Failure,23310.52,Medicaid,76.88,8,Urgent,Left AMA,Yes,2,6
+P01193,William Johnson,72,Female,AB-,2023-09-07,2023-09-29,Neurology,Dr. Emily Thompson,Epilepsy,57048.15,Corporate Insurance,72.73,22,Urgent,Discharged,Yes,8,14
+P01194,Isabella Johnson,53,Male,B+,2024-04-15,2024-05-15,Pediatrics,Dr. Emily Thompson,Asthma,96916.29,Medicaid,73.93,30,Emergency,Left AMA,No,1,9
+P01195,Sophia Miller,65,Male,O+,2024-02-25,2024-03-11,General Medicine,Dr. Michael Rodriguez,Gastritis,22674.48,Medicare,74.60,15,Routine Checkup,Deceased,No,8,10
+P01196,Isabella Brown,37,Female,O+,2024-02-24,2024-03-21,Pediatrics,Dr. Michael Rodriguez,Infection,51588.35,Medicaid,77.92,26,Routine Checkup,Deceased,Yes,3,7
+P01197,James Brown,64,Female,AB+,2023-10-22,2023-11-13,Pediatrics,Dr. Michael Rodriguez,Infection,21268.79,Self-Pay,0.00,22,Emergency,Deceased,Yes,3,15
+P01198,James Jones,34,Female,B-,2024-06-22,2024-06-24,General Medicine,Dr. Robert Kumar,Gastritis,1334.99,Corporate Insurance,68.23,2,Emergency,Left AMA,No,6,2
+P01199,Robert Wilson,2,Female,A-,2024-12-29,2025-01-05,General Medicine,Dr. James Miller,Pneumonia,6777.16,Medicaid,81.49,7,Urgent,Transferred,No,5,3
+P01200,Isabella Martinez,41,Male,AB-,2023-12-29,2024-01-04,General Medicine,Dr. Sarah Chen,Gastritis,9819.28,Corporate Insurance,73.31,6,Routine Checkup,Admitted,Yes,6,3
