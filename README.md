@@ -753,6 +753,18 @@ CALCULATE(
 
 **Made with ❤️ and ☕ by [Mohammad Sakib Miya]**
 
-</div>
+Dashboard screenshots
+<img width="1271" height="724" alt="Screenshot 2025-12-17 191938" src="https://github.com/user-attachments/assets/cc79be51-6e07-40c9-994f-770841ba8919" />
 
----
+<img width="1277" height="723" alt="Screenshot 2025-12-17 191947" src="https://github.com/user-attachments/assets/f9d378a3-45d0-4927-9a7c-f5e7b293a439" />
+
+
+<img width="1267" height="716" alt="Screenshot 2025-12-17 191953" src="https://github.com/user-attachments/assets/7e68746e-65f4-4068-8868-f2d1ff0d6aba" />
+
+
+
+<img width="1274" height="706" alt="Screenshot 2025-12-17 192003" src="https://github.com/user-attachments/assets/e2ec7710-daa8-4d25-a7f9-ccf156927738" />
+
+
+<img width="1275" height="715" alt="Screenshot 2025-12-17 192011" src="https://github.com/user-attachments/assets/fa7661aa-8caa-4d86-afd8-d2aa7bd490c7" />
+
